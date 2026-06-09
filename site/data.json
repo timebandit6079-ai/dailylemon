@@ -1,0 +1,221 @@
+{
+  "date": "2026-06-08",
+  "timestamp": "Monday 08 June 2026 \u2014 7:15 AM AEST",
+  "pdf": "reports/daily-lemon-2026-06-08.pdf",
+  "stats": {
+    "leads": 6,
+    "priority": 1,
+    "trade": 6,
+    "urgent": 1
+  },
+  "action_items": [
+    "EstimateOne \u2014 Submit quote TODAY (closes 12 June): estimateone.com \u2014 Access Floors, Ceilings, Carpentry, Partitions. 4 days left.",
+    "ICN Gateway \u2014 Register free (15 mins): gateway.icn.org.au \u2014 List: CNC joinery, bulkheads, access floors, NOC fitout.",
+    "AirTrunk MEL2 \u2014 Email procurement now: airtrunk.com \u2014 Send 1-page capability statement today."
+  ],
+  "market_intel": [
+    "AEMO June 2026: 5.4GW in NEM transmission queue \u2014 11 projects, 60% NSW / 40% VIC.",
+    "Goodman SYD01: A$5B campus, Phase 1 RFS early 2028. Interior packages being let now.",
+    "AirTrunk MEL2: 354MW Melbourne campus at initial power-on. Fitout active \u2014 email today.",
+    "Quinbrook Supernode: Stage 3 BESS executing. DC fitout packages follow immediately.",
+    "Firmus Launceston: $2.1B Stage 1 confirmed underway. Stage 1b follows immediately."
+  ],
+  "leads": [
+    {
+      "title": "Sunshine DC & State Lab \u2014 Geebung QLD",
+      "source": "EstimateOne",
+      "state": "QLD",
+      "region": "Brisbane",
+      "trade_match": true,
+      "priority": null,
+      "urgency": "URGENT \u2014 4D",
+      "close_date": "12/06/2026",
+      "value": "$30-50M",
+      "status": "TENDER OPEN",
+      "summary": "Access Floors, Ceilings, Carpentry, Partitions, Doors & Frames \u2014 $30-50M. Register on EstimateOne and submit your quote before 12 June.",
+      "agency": "",
+      "url": "https://www.estimateone.com"
+    },
+    {
+      "title": "Quinbrook Supernode \u2014 Brendale QLD",
+      "source": "ICN Gateway",
+      "state": "QLD",
+      "region": "Brisbane",
+      "trade_match": true,
+      "priority": null,
+      "urgency": "",
+      "close_date": "",
+      "value": "A$2.5B",
+      "status": "UNDER CONSTRUCTION",
+      "summary": "DC interior fitout \u2014 joinery, access floors, NOC rooms, ceilings, partitions. 20km north Brisbane. Stage 3 executing.",
+      "agency": "",
+      "url": "https://gateway.icn.org.au"
+    },
+    {
+      "title": "DigiCo SYD1 Expansion \u2014 Ultimo NSW",
+      "source": "EstimateOne",
+      "state": "NSW",
+      "region": "Sydney",
+      "trade_match": true,
+      "priority": null,
+      "urgency": "",
+      "close_date": "",
+      "value": "A$200M+",
+      "status": "FITOUT PACKAGES ACTIVE",
+      "summary": "Access Floors, Ceilings, Doors & Frames, Epoxy Flooring, Joinery, Partitions. Follow-on packages available.",
+      "agency": "",
+      "url": "https://www.estimateone.com"
+    },
+    {
+      "title": "Goodman Project Atlas SYD01 \u2014 Kemps Creek NSW",
+      "source": "News",
+      "state": "NSW",
+      "region": "Western Sydney",
+      "trade_match": true,
+      "priority": null,
+      "urgency": "",
+      "close_date": "",
+      "value": "A$5B",
+      "status": "UNDER CONSTRUCTION",
+      "summary": "Access floors, ceilings, joinery, partitions across multiple buildings. Interior fitout packages let through 2026-2027.",
+      "agency": "",
+      "url": "https://www.goodman.com"
+    },
+    {
+      "title": "AirTrunk MEL2 \u2014 Melbourne VIC",
+      "source": "Data Centre Dynamics",
+      "state": "VIC",
+      "region": "Melbourne",
+      "trade_match": true,
+      "priority": null,
+      "urgency": "",
+      "close_date": "",
+      "value": "A$354M",
+      "status": "FITOUT PACKAGES ACTIVE",
+      "summary": "Raised floors, ceilings, NOC room joinery, partitions across 354MW campus. At initial power-on \u2014 packages active NOW.",
+      "agency": "",
+      "url": "https://airtrunk.com"
+    },
+    {
+      "title": "Firmus AI Factory Stage 1 \u2014 Launceston TAS",
+      "source": "News",
+      "state": "TAS",
+      "region": "Launceston",
+      "trade_match": true,
+      "priority": null,
+      "urgency": "",
+      "close_date": "",
+      "value": "A$2.1B",
+      "status": "UNDER CONSTRUCTION",
+      "summary": "Office joinery, NOC cabinetry, bulkheads, raised floors, partitions. Stage 1b fitout packages follow immediately.",
+      "agency": "",
+      "url": "https://firmus.ai"
+    }
+  ],
+  "by_state": {
+    "QLD": [
+      {
+        "title": "Sunshine DC & State Lab \u2014 Geebung QLD",
+        "source": "EstimateOne",
+        "state": "QLD",
+        "region": "Brisbane",
+        "trade_match": true,
+        "priority": null,
+        "urgency": "URGENT \u2014 4D",
+        "close_date": "12/06/2026",
+        "value": "$30-50M",
+        "status": "TENDER OPEN",
+        "summary": "Access Floors, Ceilings, Carpentry, Partitions, Doors & Frames.",
+        "agency": "",
+        "url": "https://www.estimateone.com"
+      },
+      {
+        "title": "Quinbrook Supernode \u2014 Brendale QLD",
+        "source": "ICN Gateway",
+        "state": "QLD",
+        "region": "Brisbane",
+        "trade_match": true,
+        "priority": null,
+        "urgency": "",
+        "close_date": "",
+        "value": "A$2.5B",
+        "status": "UNDER CONSTRUCTION",
+        "summary": "DC interior fitout \u2014 joinery, access floors, NOC rooms, ceilings, partitions.",
+        "agency": "",
+        "url": "https://gateway.icn.org.au"
+      }
+    ],
+    "NSW": [
+      {
+        "title": "DigiCo SYD1 Expansion \u2014 Ultimo NSW",
+        "source": "EstimateOne",
+        "state": "NSW",
+        "region": "Sydney",
+        "trade_match": true,
+        "priority": null,
+        "urgency": "",
+        "close_date": "",
+        "value": "A$200M+",
+        "status": "FITOUT PACKAGES ACTIVE",
+        "summary": "Access Floors, Ceilings, Doors & Frames, Epoxy Flooring, Joinery, Partitions.",
+        "agency": "",
+        "url": "https://www.estimateone.com"
+      },
+      {
+        "title": "Goodman Project Atlas SYD01 \u2014 Kemps Creek NSW",
+        "source": "News",
+        "state": "NSW",
+        "region": "Western Sydney",
+        "trade_match": true,
+        "priority": null,
+        "urgency": "",
+        "close_date": "",
+        "value": "A$5B",
+        "status": "UNDER CONSTRUCTION",
+        "summary": "Access floors, ceilings, joinery, partitions across multiple buildings.",
+        "agency": "",
+        "url": "https://www.goodman.com"
+      }
+    ],
+    "VIC": [
+      {
+        "title": "AirTrunk MEL2 \u2014 Melbourne VIC",
+        "source": "Data Centre Dynamics",
+        "state": "VIC",
+        "region": "Melbourne",
+        "trade_match": true,
+        "priority": null,
+        "urgency": "",
+        "close_date": "",
+        "value": "A$354M",
+        "status": "FITOUT PACKAGES ACTIVE",
+        "summary": "Raised floors, ceilings, NOC room joinery, partitions. Fitout packages active NOW.",
+        "agency": "",
+        "url": "https://airtrunk.com"
+      }
+    ],
+    "TAS": [
+      {
+        "title": "Firmus AI Factory Stage 1 \u2014 Launceston TAS",
+        "source": "News",
+        "state": "TAS",
+        "region": "Launceston",
+        "trade_match": true,
+        "priority": null,
+        "urgency": "",
+        "close_date": "",
+        "value": "A$2.1B",
+        "status": "UNDER CONSTRUCTION",
+        "summary": "Office joinery, NOC cabinetry, bulkheads, raised floors, partitions.",
+        "agency": "",
+        "url": "https://firmus.ai"
+      }
+    ]
+  },
+  "archive": [
+    {
+      "date": "2026-06-08",
+      "file": "reports/daily-lemon-2026-06-08.pdf"
+    }
+  ]
+}

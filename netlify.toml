@@ -1,0 +1,36 @@
+[build]
+  publish = "site"
+  # No build command — GitHub Actions generates the files, Netlify just serves them
+
+[build.environment]
+  NODE_VERSION = "20"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/reports/*.pdf"
+  [headers.values]
+    Content-Disposition = "inline"
+    Cache-Control = "public, max-age=86400"
+
+[[headers]]
+  for = "/data.json"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+    Access-Control-Allow-Origin = "*"
+
+[[redirects]]
+  from = "/latest"
+  to = "/"
+  status = 302
+
+[[redirects]]
+  from = "/today"
+  to = "/"
+  status = 302

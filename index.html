@@ -1,0 +1,823 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Daily Lemon — AI Data Centre Fitout Jobs & Tenders Australia</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --lemon: #FAC725;
+    --lemon-dark: #EF9F27;
+    --lemon-deep: #412402;
+    --lemon-mid: #854F0B;
+    --ink: #1a1a18;
+    --ink-soft: #3a3a36;
+    --ink-mute: #7a7a72;
+    --surface: #faf9f5;
+    --surface-2: #f2f1eb;
+    --surface-3: #e8e6de;
+    --urgent-bg: #fff0f0;
+    --urgent: #c0392b;
+    --urgent-border: #e8a09a;
+    --green-bg: #eaf5ee;
+    --green: #1a7a45;
+    --green-border: #a8d8b8;
+    --blue-bg: #eef4fb;
+    --blue: #1a5fa0;
+    --blue-border: #a8c8e8;
+    --border: #dddbd0;
+    --border-soft: #eae8e0;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background: var(--surface);
+    color: var(--ink);
+    line-height: 1.6;
+    font-size: 15px;
+  }
+
+  /* MASTHEAD */
+  .masthead {
+    background: var(--lemon);
+    border-bottom: 3px solid var(--lemon-dark);
+    padding: 0;
+    overflow: hidden;
+  }
+  .masthead-inner {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem 1.5rem;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 1rem;
+    align-items: end;
+  }
+  .masthead h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: clamp(52px, 10vw, 88px);
+    line-height: 0.9;
+    color: var(--lemon-deep);
+    letter-spacing: 1px;
+  }
+  .masthead h1 span {
+    display: block;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+    color: var(--lemon-mid);
+    margin-bottom: 4px;
+  }
+  .masthead-right {
+    text-align: right;
+  }
+  .masthead-right .edition {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    color: var(--lemon-mid);
+    line-height: 1.8;
+  }
+  .stat-strip {
+    background: var(--lemon-deep);
+    padding: 0.6rem 1.5rem;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+  }
+  .stat-strip .stat {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--lemon);
+    font-size: 12px;
+    font-family: 'DM Mono', monospace;
+    letter-spacing: 0.5px;
+  }
+  .stat-strip .stat strong {
+    font-size: 18px;
+    font-weight: 500;
+  }
+
+  /* LAYOUT */
+  .page {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 1.5rem 1.5rem 3rem;
+  }
+
+  /* URGENT BANNER */
+  .urgent-banner {
+    background: var(--urgent-bg);
+    border: 1.5px solid var(--urgent-border);
+    border-radius: 10px;
+    padding: 1rem 1.25rem;
+    margin-bottom: 1.5rem;
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+  }
+  .urgent-banner .icon {
+    font-size: 20px;
+    flex-shrink: 0;
+    margin-top: 2px;
+  }
+  .urgent-banner strong {
+    color: var(--urgent);
+    font-size: 14px;
+    display: block;
+    margin-bottom: 3px;
+  }
+  .urgent-banner p {
+    font-size: 13px;
+    color: #7a2020;
+  }
+  .urgent-banner a {
+    color: var(--urgent);
+    font-weight: 500;
+  }
+
+  /* PRIORITY ZONES */
+  .priority-zones {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    margin-bottom: 1.5rem;
+  }
+  @media (max-width: 600px) { .priority-zones { grid-template-columns: 1fr; } }
+
+  .priority-zone {
+    border-radius: 10px;
+    padding: 1rem 1.25rem;
+    border: 2px solid;
+    position: relative;
+    overflow: hidden;
+  }
+  .priority-zone::before {
+    content: '★ PRIORITY ZONE';
+    position: absolute;
+    top: 10px;
+    right: -22px;
+    background: var(--lemon);
+    color: var(--lemon-deep);
+    font-size: 9px;
+    font-weight: 500;
+    font-family: 'DM Mono', monospace;
+    letter-spacing: 1px;
+    padding: 3px 30px;
+    transform: rotate(35deg);
+  }
+  .priority-zone.cq {
+    background: #fffbf0;
+    border-color: var(--lemon-dark);
+  }
+  .priority-zone.casino {
+    background: #f5f0ff;
+    border-color: #9b72d8;
+  }
+  .priority-zone .pz-label {
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .priority-zone.cq .pz-label { color: var(--lemon-mid); }
+  .priority-zone.casino .pz-label { color: #6a3db8; }
+  .priority-zone h3 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 22px;
+    letter-spacing: 0.5px;
+    margin-bottom: 6px;
+  }
+  .priority-zone.cq h3 { color: var(--lemon-deep); }
+  .priority-zone.casino h3 { color: #3d1a7a; }
+  .priority-zone p {
+    font-size: 12px;
+    color: var(--ink-soft);
+    line-height: 1.5;
+  }
+  .priority-zone .pz-status {
+    display: inline-block;
+    margin-top: 8px;
+    font-size: 11px;
+    font-family: 'DM Mono', monospace;
+    padding: 3px 10px;
+    border-radius: 20px;
+  }
+  .priority-zone.cq .pz-status { background: var(--lemon); color: var(--lemon-deep); }
+  .priority-zone.casino .pz-status { background: #e8d8ff; color: #4a1f9a; }
+
+  /* SECTION HEADERS */
+  .section-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 1.75rem 0 0.75rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--lemon);
+  }
+  .section-header h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: var(--ink);
+  }
+  .section-header .state-pill {
+    font-size: 11px;
+    font-family: 'DM Mono', monospace;
+    background: var(--lemon-deep);
+    color: var(--lemon);
+    padding: 3px 10px;
+    border-radius: 20px;
+    letter-spacing: 1px;
+  }
+  .section-header .state-pill.nsw { background: #185fa5; color: #e6f1fb; }
+  .section-header .state-pill.vic { background: #0f6e56; color: #e1f5ee; }
+  .section-header .state-pill.tas { background: #533dad; color: #eeedfe; }
+  .section-header .state-pill.casino { background: #6a3db8; color: #f0e8ff; }
+  .section-note {
+    font-size: 12px;
+    color: var(--ink-mute);
+    margin-bottom: 1rem;
+    font-style: italic;
+  }
+
+  /* LEAD CARDS */
+  .lead-card {
+    background: #fff;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1rem 1.25rem;
+    margin-bottom: 10px;
+    border-left: 4px solid var(--border);
+    transition: box-shadow 0.15s;
+  }
+  .lead-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.07); }
+  .lead-card.urgent { border-left-color: var(--urgent); }
+  .lead-card.priority-qld { border-left-color: var(--lemon-dark); }
+  .lead-card.priority-casino { border-left-color: #9b72d8; }
+  .lead-card.cnc-match { border-left-color: var(--green); }
+  .lead-card.active-now { border-left-color: #185fa5; }
+
+  .lead-top {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 8px;
+    margin-bottom: 5px;
+  }
+  .lead-title {
+    font-size: 15px;
+    font-weight: 500;
+    color: var(--ink);
+  }
+  .lead-value {
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+    color: var(--ink-mute);
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .lead-loc {
+    font-size: 12px;
+    color: var(--ink-mute);
+    margin-bottom: 8px;
+  }
+  .badges {
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+    margin-bottom: 8px;
+  }
+  .badge {
+    font-size: 11px;
+    font-family: 'DM Mono', monospace;
+    padding: 2px 9px;
+    border-radius: 20px;
+    letter-spacing: 0.3px;
+  }
+  .badge.urgent { background: var(--urgent-bg); color: var(--urgent); border: 1px solid var(--urgent-border); }
+  .badge.cnc { background: var(--green-bg); color: var(--green); border: 1px solid var(--green-border); }
+  .badge.active { background: var(--blue-bg); color: var(--blue); border: 1px solid var(--blue-border); }
+  .badge.priority { background: #fffbf0; color: var(--lemon-mid); border: 1px solid var(--lemon-dark); }
+  .badge.casino { background: #f0e8ff; color: #6a3db8; border: 1px solid #c4a0f0; }
+  .badge.state { background: var(--surface-2); color: var(--ink-soft); border: 1px solid var(--border); }
+
+  .lead-desc {
+    font-size: 13px;
+    color: var(--ink-soft);
+    line-height: 1.55;
+    margin-bottom: 8px;
+  }
+  .lead-action {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .lead-action a {
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--blue);
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 4px 10px;
+    border: 1px solid var(--blue-border);
+    border-radius: 6px;
+    background: var(--blue-bg);
+    transition: background 0.15s;
+  }
+  .lead-action a:hover { background: #d4e8f8; }
+
+  /* CASINO NSW — special empty state */
+  .casino-watch {
+    background: #f8f4ff;
+    border: 1.5px dashed #c4a0f0;
+    border-radius: 10px;
+    padding: 1.25rem;
+    text-align: center;
+    color: #6a3db8;
+  }
+  .casino-watch h4 { font-size: 14px; font-weight: 500; margin-bottom: 6px; }
+  .casino-watch p { font-size: 13px; color: #8a5ad0; line-height: 1.5; }
+  .casino-watch .sources {
+    margin-top: 10px;
+    font-size: 11px;
+    font-family: 'DM Mono', monospace;
+    color: #9b72d8;
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .casino-watch .sources a { color: #6a3db8; text-decoration: none; }
+  .casino-watch .sources a:hover { text-decoration: underline; }
+
+  /* MARKET INTEL */
+  .intel-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-top: 0.75rem;
+  }
+  @media (max-width: 600px) { .intel-grid { grid-template-columns: 1fr; } }
+  .intel-item {
+    background: #fff;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 0.75rem 1rem;
+  }
+  .intel-item .intel-label {
+    font-size: 10px;
+    font-family: 'DM Mono', monospace;
+    color: var(--ink-mute);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .intel-item p {
+    font-size: 13px;
+    color: var(--ink-soft);
+    line-height: 1.5;
+  }
+
+  /* ACTION CHECKLIST */
+  .checklist {
+    background: var(--lemon-deep);
+    border-radius: 10px;
+    padding: 1.25rem 1.5rem;
+    margin-top: 1.5rem;
+  }
+  .checklist h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20px;
+    color: var(--lemon);
+    letter-spacing: 1px;
+    margin-bottom: 1rem;
+  }
+  .check-item {
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+    padding: 10px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+  }
+  .check-item:last-child { border-bottom: none; }
+  .check-num {
+    background: var(--lemon);
+    color: var(--lemon-deep);
+    font-size: 12px;
+    font-weight: 500;
+    font-family: 'DM Mono', monospace;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    margin-top: 1px;
+  }
+  .check-text strong {
+    display: block;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 2px;
+  }
+  .check-text p {
+    font-size: 12px;
+    color: rgba(255,255,255,0.6);
+    line-height: 1.4;
+  }
+  .check-text a { color: var(--lemon); }
+
+  /* SOURCE BAR */
+  .sources-bar {
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border);
+    font-size: 11px;
+    color: var(--ink-mute);
+    font-family: 'DM Mono', monospace;
+    line-height: 2;
+  }
+  .sources-bar a { color: var(--ink-mute); text-decoration: none; }
+  .sources-bar a:hover { color: var(--ink); }
+
+  /* FILTER BAR */
+  .filter-bar {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+    padding: 0.75rem;
+    background: var(--surface-2);
+    border-radius: 8px;
+    border: 1px solid var(--border-soft);
+  }
+  .filter-bar span {
+    font-size: 11px;
+    color: var(--ink-mute);
+    font-family: 'DM Mono', monospace;
+    letter-spacing: 1px;
+    align-self: center;
+    margin-right: 4px;
+  }
+  .filter-btn {
+    font-size: 12px;
+    font-family: 'DM Sans', sans-serif;
+    padding: 5px 13px;
+    border-radius: 20px;
+    border: 1px solid var(--border);
+    background: #fff;
+    color: var(--ink-soft);
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  .filter-btn:hover { border-color: var(--lemon-dark); }
+  .filter-btn.on { background: var(--lemon); border-color: var(--lemon-dark); color: var(--lemon-deep); font-weight: 500; }
+
+  .hidden { display: none !important; }
+</style>
+</head>
+<body>
+
+<!-- MASTHEAD -->
+<header class="masthead">
+  <div class="masthead-inner">
+    <div>
+      <h1><span>🍋 Australia's</span>The Daily Lemon</h1>
+    </div>
+    <div class="masthead-right">
+      <div class="edition">
+        AI Data Centre<br>
+        Fitout Jobs &amp; Tenders<br>
+        ─────────────<br>
+        Monday 08 June 2026<br>
+        7:15 AM AEST<br>
+        Powered by Perplexity
+      </div>
+    </div>
+  </div>
+  <div class="stat-strip">
+    <div class="stat"><strong>8</strong> Specific leads</div>
+    <div class="stat"><strong>1</strong> Priority QLD hit</div>
+    <div class="stat"><strong>6</strong> Trade matches</div>
+    <div class="stat"><strong>$5.4GW</strong> AUS pipeline</div>
+    <div class="stat"><strong>4 days</strong> Until close</div>
+  </div>
+</header>
+
+<div class="page">
+
+  <!-- URGENT BANNER -->
+  <div class="urgent-banner">
+    <div class="icon">🚨</div>
+    <div>
+      <strong>CLOSES 12 JUNE — 4 DAYS LEFT</strong>
+      <p>Sunshine DC &amp; State Lab — Geebung QLD · Access Floors, Ceilings, Carpentry, Partitions, Doors &amp; Frames · $30–50M · <a href="https://www.estimateone.com" target="_blank">Register &amp; quote on EstimateOne →</a></p>
+    </div>
+  </div>
+
+  <!-- PRIORITY ZONES -->
+  <div class="priority-zones">
+    <div class="priority-zone cq">
+      <div class="pz-label">Priority zone 1</div>
+      <h3>Central Queensland</h3>
+      <p>Quinbrook Supernode at Brendale (20km north Brisbane) is your nearest major active QLD build. Stage 3 BESS connection executing now. DC fitout packages follow. Get on ICN Gateway QLD immediately.</p>
+      <span class="pz-status">🔥 Active — Stage 3 Executing</span>
+    </div>
+    <div class="priority-zone casino">
+      <div class="pz-label">Priority zone 2</div>
+      <h3>Casino, NSW</h3>
+      <p>No confirmed tender yet — but Casino is inside the Northern Rivers data centre growth corridor. Monitor NSW eTendering and TenderLink daily. A tender here would suit your joinery &amp; bulkhead skills perfectly.</p>
+      <span class="pz-status">👀 On Watch — Monitor Daily</span>
+    </div>
+  </div>
+
+  <!-- FILTER BAR -->
+  <div class="filter-bar">
+    <span>FILTER:</span>
+    <button class="filter-btn on" onclick="applyFilter('all', this)">All leads</button>
+    <button class="filter-btn" onclick="applyFilter('QLD', this)">QLD</button>
+    <button class="filter-btn" onclick="applyFilter('NSW', this)">NSW</button>
+    <button class="filter-btn" onclick="applyFilter('VIC', this)">VIC</button>
+    <button class="filter-btn" onclick="applyFilter('TAS', this)">TAS</button>
+    <button class="filter-btn" onclick="applyFilter('cnc', this)">🪵 CNC / Joinery only</button>
+  </div>
+
+  <!-- QLD SECTION -->
+  <div class="section-header" data-state="QLD">
+    <h2>Queensland</h2>
+    <span class="state-pill">QLD</span>
+  </div>
+  <p class="section-note" data-state="QLD">Geebung · Brendale · Priority zone — closest active builds to Central QLD</p>
+
+  <div class="lead-card urgent" data-state="QLD" data-cnc="true">
+    <div class="lead-top">
+      <div class="lead-title">Sunshine DC &amp; State Lab</div>
+      <div class="lead-value">$30–50M</div>
+    </div>
+    <div class="lead-loc">📍 Geebung, QLD — Central QLD Priority Zone</div>
+    <div class="badges">
+      <span class="badge urgent">⏰ Closes 12 June</span>
+      <span class="badge priority">⭐ Priority</span>
+      <span class="badge cnc">🪵 CNC / Joinery match</span>
+      <span class="badge state">QLD</span>
+    </div>
+    <div class="lead-desc">Tender open — quotes close 12 June 2026. Trades required: access floors, ceilings, carpentry, partitions, doors &amp; frames. Every trade listed matches your skills. Free to register. Do this today.</div>
+    <div class="lead-action">
+      <a href="https://www.estimateone.com" target="_blank">↗ View on EstimateOne</a>
+    </div>
+  </div>
+
+  <div class="lead-card priority-qld" data-state="QLD" data-cnc="true">
+    <div class="lead-top">
+      <div class="lead-title">Quinbrook Supernode</div>
+      <div class="lead-value">US$2.5B</div>
+    </div>
+    <div class="lead-loc">📍 Brendale, QLD — 20km north Brisbane</div>
+    <div class="badges">
+      <span class="badge active">Stage 3 executing</span>
+      <span class="badge priority">⭐ Priority</span>
+      <span class="badge cnc">🪵 CNC / Joinery match</span>
+      <span class="badge state">QLD</span>
+    </div>
+    <div class="lead-desc">Nearest major QLD active build. DC interior fitout — joinery, access floors, NOC rooms, ceilings, partitions. Stage 3 BESS connection agreement executing per Powerlink CEO May 2026. DC fitout packages follow BESS completion. Register ICN Gateway QLD and contact Quinbrook now.</div>
+    <div class="lead-action">
+      <a href="https://gateway.icn.org.au" target="_blank">↗ ICN Gateway QLD</a>
+    </div>
+  </div>
+
+  <!-- CASINO NSW SECTION -->
+  <div class="section-header" data-state="CASINO">
+    <h2>Casino, NSW</h2>
+    <span class="state-pill casino">PRIORITY WATCH</span>
+  </div>
+  <p class="section-note" data-state="CASINO">Northern Rivers corridor — your second priority zone. No live tender yet but this area is on watch.</p>
+
+  <div class="casino-watch" data-state="CASINO">
+    <h4>👀 Active monitoring — no tender confirmed yet</h4>
+    <p>Casino sits within the Northern Rivers data centre growth corridor in NSW. No confirmed tender is live as of this edition, but this is a designated priority zone. Check these sources daily — a tender here would be a perfect fit for CNC joinery, bulkheads, and fitout work.</p>
+    <div class="sources">
+      <a href="https://www.tenders.nsw.gov.au" target="_blank">NSW eTendering →</a>
+      <a href="https://www.tenderlink.com" target="_blank">TenderLink →</a>
+      <a href="https://www.estimateone.com" target="_blank">EstimateOne →</a>
+      <a href="https://www.austender.gov.au" target="_blank">AusTender →</a>
+    </div>
+  </div>
+
+  <!-- NSW SECTION -->
+  <div class="section-header" data-state="NSW">
+    <h2>New South Wales</h2>
+    <span class="state-pill nsw">NSW</span>
+  </div>
+  <p class="section-note" data-state="NSW">Ultimo · Kemps Creek — major follow-on and active fitout packages</p>
+
+  <div class="lead-card cnc-match" data-state="NSW" data-cnc="true">
+    <div class="lead-top">
+      <div class="lead-title">DigiCo SYD1 Expansion</div>
+      <div class="lead-value">&gt;$200M</div>
+    </div>
+    <div class="lead-loc">📍 Ultimo, NSW</div>
+    <div class="badges">
+      <span class="badge active">Follow-on packages</span>
+      <span class="badge cnc">🪵 CNC / Joinery match</span>
+      <span class="badge state">NSW</span>
+    </div>
+    <div class="lead-desc">Tender closed 3 June — but at &gt;$200M there will be variation and follow-on packages. Access floors, ceilings, doors &amp; frames, epoxy flooring, joinery, partitions. Contact DigiCo REIT procurement directly — reference SYD1 Expansion on EstimateOne.</div>
+    <div class="lead-action">
+      <a href="https://www.estimateone.com" target="_blank">↗ EstimateOne</a>
+    </div>
+  </div>
+
+  <div class="lead-card cnc-match" data-state="NSW" data-cnc="true">
+    <div class="lead-top">
+      <div class="lead-title">Goodman Project Atlas SYD01</div>
+      <div class="lead-value">A$5B</div>
+    </div>
+    <div class="lead-loc">📍 Kemps Creek, NSW</div>
+    <div class="badges">
+      <span class="badge active">Fitout underway</span>
+      <span class="badge cnc">🪵 CNC / Joinery match</span>
+      <span class="badge state">NSW</span>
+    </div>
+    <div class="lead-desc">Powered shell + MEP fitout underway. Phase 1 ready-for-service early 2028. Access floors, ceilings, joinery, partitions across multiple buildings. Interior fitout packages being let through 2026–2027. Contact Goodman construction team and register ICN Gateway NSW immediately.</div>
+    <div class="lead-action">
+      <a href="https://gateway.icn.org.au" target="_blank">↗ ICN Gateway NSW</a>
+    </div>
+  </div>
+
+  <!-- VIC SECTION -->
+  <div class="section-header" data-state="VIC">
+    <h2>Victoria</h2>
+    <span class="state-pill vic">VIC</span>
+  </div>
+  <p class="section-note" data-state="VIC">Melbourne — fitout packages active right now</p>
+
+  <div class="lead-card active-now" data-state="VIC" data-cnc="true">
+    <div class="lead-top">
+      <div class="lead-title">AirTrunk MEL2</div>
+      <div class="lead-value">354MW</div>
+    </div>
+    <div class="lead-loc">📍 Melbourne, VIC</div>
+    <div class="badges">
+      <span class="badge urgent">Active NOW</span>
+      <span class="badge cnc">🪵 CNC / Joinery match</span>
+      <span class="badge state">VIC</span>
+    </div>
+    <div class="lead-desc">Initial power-on mid-2026. Raised floors, ceilings, NOC room joinery, partitions across 354MW campus. Fitout packages are being let RIGHT NOW. Email AirTrunk procurement with a 1-page capability statement — CNC joinery, bulkheads, NOC cabinetry, access floors.</div>
+    <div class="lead-action">
+      <a href="https://www.airtrunk.com" target="_blank">↗ AirTrunk procurement</a>
+    </div>
+  </div>
+
+  <!-- TAS SECTION -->
+  <div class="section-header" data-state="TAS">
+    <h2>Tasmania</h2>
+    <span class="state-pill tas">TAS</span>
+  </div>
+  <p class="section-note" data-state="TAS">Launceston — stage 1b fitout packages follow immediately</p>
+
+  <div class="lead-card cnc-match" data-state="TAS" data-cnc="true">
+    <div class="lead-top">
+      <div class="lead-title">Firmus AI Factory Stage 1</div>
+      <div class="lead-value">$2.1B</div>
+    </div>
+    <div class="lead-loc">📍 Launceston, TAS</div>
+    <div class="badges">
+      <span class="badge active">Well underway</span>
+      <span class="badge cnc">🪵 CNC / Joinery match</span>
+      <span class="badge state">TAS</span>
+    </div>
+    <div class="lead-desc">Construction confirmed well underway as of May 2026. Stage 1b fitout packages follow immediately. Office joinery, NOC cabinetry, bulkheads, raised floors, partitions — your housing fitout skills slot straight in. Monitor firmus.ai/about and their Greenhouse job board for subcontractor calls.</div>
+    <div class="lead-action">
+      <a href="https://firmus.ai/about" target="_blank">↗ firmus.ai</a>
+    </div>
+  </div>
+
+  <!-- MARKET INTEL -->
+  <div class="section-header">
+    <h2>Market intel</h2>
+  </div>
+  <div class="intel-grid">
+    <div class="intel-item">
+      <div class="intel-label">AEMO June 2026</div>
+      <p>5.4GW in NEM transmission queue — 11 projects, 60% NSW / 40% VIC. Largest forward order book ever disclosed. Build is real and funded.</p>
+    </div>
+    <div class="intel-item">
+      <div class="intel-label">Goodman SYD01</div>
+      <p>Powered shell + MEP fitout underway. A$5B campus, Phase 1 RFS early 2028. Interior packages being let now.</p>
+    </div>
+    <div class="intel-item">
+      <div class="intel-label">AirTrunk MEL2</div>
+      <p>354MW Melbourne campus at initial power-on mid-2026. Interior fitout active. Contact procurement immediately.</p>
+    </div>
+    <div class="intel-item">
+      <div class="intel-label">Quinbrook Supernode</div>
+      <p>Stage 3 BESS connection agreement executing per Powerlink CEO May 2026. DC fitout follows. Get on ICN Gateway QLD today.</p>
+    </div>
+    <div class="intel-item">
+      <div class="intel-label">Firmus Launceston</div>
+      <p>Stage 1 confirmed well underway. $2.1B. Stage 1b follows immediately — joinery and fitout skills slot straight in.</p>
+    </div>
+    <div class="intel-item">
+      <div class="intel-label">Casino NSW watch</div>
+      <p>Northern Rivers corridor identified as growth zone. No live tender yet. Monitor NSW eTendering and TenderLink daily for this priority zone.</p>
+    </div>
+  </div>
+
+  <!-- ACTION CHECKLIST -->
+  <div class="checklist">
+    <h2>✅ Do these 3 things this week</h2>
+    <div class="check-item">
+      <div class="check-num">1</div>
+      <div class="check-text">
+        <strong>EstimateOne — Submit quote TODAY (closes 12 June)</strong>
+        <p><a href="https://www.estimateone.com" target="_blank">estimateone.com</a> · Sunshine DC &amp; State Lab · Access floors, ceilings, carpentry, partitions · Free to register · 4 days left</p>
+      </div>
+    </div>
+    <div class="check-item">
+      <div class="check-num">2</div>
+      <div class="check-text">
+        <strong>ICN Gateway — Register free (15 mins)</strong>
+        <p><a href="https://gateway.icn.org.au" target="_blank">gateway.icn.org.au</a> · List: CNC joinery, bulkheads, access floors, ceilings, partitions, NOC fitout · NEXTDC, AirTrunk, Goodman source from here</p>
+      </div>
+    </div>
+    <div class="check-item">
+      <div class="check-num">3</div>
+      <div class="check-text">
+        <strong>AirTrunk MEL2 — Email procurement now</strong>
+        <p><a href="https://www.airtrunk.com" target="_blank">airtrunk.com</a> · Send 1-page capability statement: CNC joinery, bulkheads, NOC cabinetry, access floors · MEL2 at initial power-on = packages active</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- SOURCE BAR -->
+  <div class="sources-bar">
+    <strong>Tender portals:</strong>
+    <a href="https://www.estimateone.com" target="_blank">EstimateOne</a> ·
+    <a href="https://gateway.icn.org.au" target="_blank">ICN Gateway</a> ·
+    <a href="https://www.tenders.nsw.gov.au" target="_blank">NSW eTendering</a> ·
+    <a href="https://www.austender.gov.au" target="_blank">AusTender</a> ·
+    <a href="https://www.qtenders.hpw.qld.gov.au" target="_blank">QTenders</a> ·
+    <a href="https://www.tenderlink.com" target="_blank">TenderLink</a>
+    <br>
+    <strong>Sources:</strong> AEMO · Certified Strategic · EstimateOne · RenewMap · TechPartner News · Baxtel · Mirage News
+    <br><br>
+    The Daily Lemon · Monday 08 June 2026 · 7:15 AM AEST · Produced with Perplexity
+  </div>
+
+</div>
+
+<script>
+  function applyFilter(type, btn) {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('on'));
+    btn.classList.add('on');
+
+    const cards = document.querySelectorAll('.lead-card, .casino-watch');
+    const headers = document.querySelectorAll('.section-header[data-state], p.section-note[data-state]');
+
+    if (type === 'all') {
+      cards.forEach(c => c.classList.remove('hidden'));
+      headers.forEach(h => h.classList.remove('hidden'));
+      return;
+    }
+
+    if (type === 'cnc') {
+      cards.forEach(c => {
+        const isCnc = c.dataset.cnc === 'true';
+        c.classList.toggle('hidden', !isCnc);
+      });
+      headers.forEach(h => {
+        const state = h.dataset.state;
+        const hasVisible = document.querySelector(`.lead-card[data-state="${state}"]:not(.hidden), .casino-watch[data-state="${state}"]:not(.hidden)`);
+        h.classList.toggle('hidden', !hasVisible);
+      });
+      return;
+    }
+
+    cards.forEach(c => {
+      const match = c.dataset.state === type || (type === 'NSW' && c.dataset.state === 'CASINO');
+      c.classList.toggle('hidden', !match);
+    });
+
+    headers.forEach(h => {
+      const state = h.dataset.state;
+      const match = state === type || (type === 'NSW' && state === 'CASINO');
+      h.classList.toggle('hidden', !match);
+    });
+  }
+</script>
+</body>
+</html>

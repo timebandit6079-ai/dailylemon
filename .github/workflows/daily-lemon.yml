@@ -1,0 +1,67 @@
+name: The Daily Lemon — Daily Report
+
+on:
+  # Run every day at 7:15 AM AEST (= 21:15 UTC previous day)
+  schedule:
+    - cron: '15 21 * * *'
+
+  # Allow manual trigger from GitHub Actions UI
+  workflow_dispatch:
+
+jobs:
+  generate-report:
+    name: Scrape + Generate + Deploy
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      # ── Checkout ──────────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      # ── Python setup ──────────────────────────────────────────────────────
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ── Run agent ─────────────────────────────────────────────────────────
+      - name: Run Daily Lemon Agent
+        run: python agent.py
+        env:
+          TZ: Australia/Brisbane
+
+      # ── Commit generated files ────────────────────────────────────────────
+      - name: Commit report to repository
+        run: |
+          git config user.name  "Daily Lemon Bot"
+          git config user.email "bot@daily-lemon.auto"
+          git add site/data.json site/reports/ --force
+          # Only commit if there are changes
+          git diff --staged --quiet || git commit -m "🍋 Daily Lemon — $(TZ=Australia/Brisbane date +'%A %d %B %Y %I:%M %p AEST')"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref_name }}
+
+      # ── Deploy to Netlify ─────────────────────────────────────────────────
+      - name: Deploy to Netlify
+        uses: nwtgck/actions-netlify@v3.0
+        with:
+          publish-dir: './site'
+          production-branch: main
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          deploy-message: "Daily Lemon — ${{ github.run_id }}"
+          enable-pull-request-comment: false
+          enable-commit-comment: false
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
