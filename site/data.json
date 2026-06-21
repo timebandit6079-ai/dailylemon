@@ -1,29 +1,14 @@
 {
-  "date": "2026-06-20",
-  "timestamp": "Saturday 20 June 2026 — 6:34 PM AEST",
-  "pdf": "reports/daily-lemon-2026-06-20.pdf",
+  "date": "2026-06-21",
+  "timestamp": "Sunday 21 June 2026 — 8:50 PM AEST",
+  "pdf": "reports/daily-lemon-2026-06-21.pdf",
   "stats": {
-    "leads": 13,
+    "leads": 12,
     "priority": 0,
     "trade": 0,
     "urgent": 0
   },
   "leads": [
-    {
-      "source": "Google News",
-      "title": "$10bn Bundey Data Centre Project Drives Australia’s First 100% Net Renewable Grid Build - Construction Review",
-      "agency": "Google News",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZzJYNExBQUdNSUlKQVdFaWpoSE1hbTZFTmkyX0Rkd2FZekNyb1NFa0NTQjhRRWtkRzhyckZTejNlNnJoZFZZcFF0eXdsXzV3RVVuZS1yNWRuWVBpTG5yRXZWZTgwb09XYXIwZWU4MXVGeEVsOXdOeUxfako1VC1NbVB3dTNPb3huSkhhMFN1b3lvSnlwb01LNnZTVDVpZnhHaUgwZC1tYmxSNjdKX0cxSzFhVGtINldoLUtoMjNCWQ?oc=5",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "$10bn Bundey Data Centre Project Drives Australia’s First 100% Net Renewable Grid Build &nbsp;&nbsp; Construction Review",
-      "value": "",
-      "status": "ACTIVE"
-    },
     {
       "source": "Data Centre Dynamics",
       "title": "Sponsored: BESS Is becoming the bridge between AI data centers and the grid",
@@ -209,29 +194,14 @@
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
-    "$10bn Bundey Data Centre Project Drives Australia’s First 100% Net Renewable Gri | ACTIVE — Google News",
     "Sponsored: BESS Is becoming the bridge between AI data centers and the grid | ACTIVE — Data Centre Dynamics",
     "Nuclear physics research lab Jefferson Lab breaks ground on  — A$49M | ACTIVE | Data Centre Dynamics",
     "Plans filed for three-building data center campus in Northumberland, UK | ACTIVE — Data Centre Dynamics",
-    "Building the data center workforce starts in the classroom | ACTIVE — Data Centre Dynamics"
+    "Building the data center workforce starts in the classroom | ACTIVE — Data Centre Dynamics",
+    "DMG signs first prefab data center colocation contract at Christina Lake site in | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
-      {
-        "source": "Google News",
-        "title": "$10bn Bundey Data Centre Project Drives Australia’s First 100% Net Renewable Grid Build - Construction Review",
-        "agency": "Google News",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZzJYNExBQUdNSUlKQVdFaWpoSE1hbTZFTmkyX0Rkd2FZekNyb1NFa0NTQjhRRWtkRzhyckZTejNlNnJoZFZZcFF0eXdsXzV3RVVuZS1yNWRuWVBpTG5yRXZWZTgwb09XYXIwZWU4MXVGeEVsOXdOeUxfako1VC1NbVB3dTNPb3huSkhhMFN1b3lvSnlwb01LNnZTVDVpZnhHaUgwZC1tYmxSNjdKX0cxSzFhVGtINldoLUtoMjNCWQ?oc=5",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "$10bn Bundey Data Centre Project Drives Australia’s First 100% Net Renewable Grid Build &nbsp;&nbsp; Construction Review",
-        "value": "",
-        "status": "ACTIVE"
-      },
       {
         "source": "Data Centre Dynamics",
         "title": "Sponsored: BESS Is becoming the bridge between AI data centers and the grid",
@@ -420,6 +390,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-06-21",
+      "file": "reports/daily-lemon-2026-06-21.pdf"
     },
     {
       "date": "2026-06-20",
