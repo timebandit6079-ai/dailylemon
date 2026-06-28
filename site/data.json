@@ -1,14 +1,29 @@
 {
-  "date": "2026-06-27",
-  "timestamp": "Saturday 27 June 2026 — 6:07 PM AEST",
-  "pdf": "reports/daily-lemon-2026-06-27.pdf",
+  "date": "2026-06-28",
+  "timestamp": "Sunday 28 June 2026 — 6:34 PM AEST",
+  "pdf": "reports/daily-lemon-2026-06-28.pdf",
   "stats": {
-    "leads": 11,
+    "leads": 12,
     "priority": 0,
     "trade": 0,
     "urgent": 0
   },
   "leads": [
+    {
+      "source": "Google News",
+      "title": "Data centre boom is rewriting the construction risk playbook - Insurance Business",
+      "agency": "Google News",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNampfZmRKU1pja1JEVmJrWURiOGcyTENadDdfc09lZXZlZGlTT3hSYVJGQS1lS0VLY2p4VEYwalBkU091SnBwbHdiT0Y0UzVUWExTenFadHROWmdxYnhpSWxwOGc4LTBrWllsUnRMZUw4d2NPdlNlS1lJc3E1YUwtSENreWVsZ1lNVGRINGhWLXJfM1lkREk1dWFaYzF4NlBOSGVjOW8tS1g0S3YtT2xuMC11b0J2ZkdRSVFmUUpGYW1GRUdKVERtTWFR?oc=5",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Data centre boom is rewriting the construction risk playbook &nbsp;&nbsp; Insurance Business",
+      "value": "",
+      "status": "ACTIVE"
+    },
     {
       "source": "Data Centre Dynamics",
       "title": "Edged tops out data center in Council Bluffs, Iowa",
@@ -179,14 +194,29 @@
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
+    "Data centre boom is rewriting the construction risk playbook - Insurance Busines | ACTIVE — Google News",
     "Edged tops out data center in Council Bluffs, Iowa | ACTIVE — Data Centre Dynamics",
     "Dogecoin cryptominer Z Squared acquires site in Arkansas for AI/HPC data center  | ACTIVE — Data Centre Dynamics",
     "Unnamed data center developer eyeing former Crystal Geyser bottling site in Moun | ACTIVE — Data Centre Dynamics",
-    "NorthVault launches, plans data center campus in Ontario, Canada | ACTIVE — Data Centre Dynamics",
-    "Galaxy Digital eyes second Texas data center site, buys land outside Waco | ACTIVE — Data Centre Dynamics"
+    "NorthVault launches, plans data center campus in Ontario, Canada | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
+      {
+        "source": "Google News",
+        "title": "Data centre boom is rewriting the construction risk playbook - Insurance Business",
+        "agency": "Google News",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNampfZmRKU1pja1JEVmJrWURiOGcyTENadDdfc09lZXZlZGlTT3hSYVJGQS1lS0VLY2p4VEYwalBkU091SnBwbHdiT0Y0UzVUWExTenFadHROWmdxYnhpSWxwOGc4LTBrWllsUnRMZUw4d2NPdlNlS1lJc3E1YUwtSENreWVsZ1lNVGRINGhWLXJfM1lkREk1dWFaYzF4NlBOSGVjOW8tS1g0S3YtT2xuMC11b0J2ZkdRSVFmUUpGYW1GRUdKVERtTWFR?oc=5",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Data centre boom is rewriting the construction risk playbook &nbsp;&nbsp; Insurance Business",
+        "value": "",
+        "status": "ACTIVE"
+      },
       {
         "source": "Data Centre Dynamics",
         "title": "Edged tops out data center in Council Bluffs, Iowa",
@@ -360,6 +390,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-06-28",
+      "file": "reports/daily-lemon-2026-06-28.pdf"
     },
     {
       "date": "2026-06-27",
