@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-04",
-  "timestamp": "Saturday 04 July 2026 — 5:33 PM AEST",
-  "pdf": "reports/daily-lemon-2026-07-04.pdf",
+  "date": "2026-07-05",
+  "timestamp": "Sunday 05 July 2026 — 6:27 PM AEST",
+  "pdf": "reports/daily-lemon-2026-07-05.pdf",
   "stats": {
     "leads": 11,
     "priority": 0,
@@ -360,6 +360,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-07-05",
+      "file": "reports/daily-lemon-2026-07-05.pdf"
     },
     {
       "date": "2026-07-04",
