@@ -1,14 +1,29 @@
 {
-  "date": "2026-07-11",
-  "timestamp": "Saturday 11 July 2026 — 8:14 AM AEST",
-  "pdf": "reports/daily-lemon-2026-07-11.pdf",
+  "date": "2026-07-12",
+  "timestamp": "Sunday 12 July 2026 — 8:06 AM AEST",
+  "pdf": "reports/daily-lemon-2026-07-12.pdf",
   "stats": {
-    "leads": 12,
+    "leads": 11,
     "priority": 0,
     "trade": 0,
     "urgent": 0
   },
   "leads": [
+    {
+      "source": "Data Centre Dynamics",
+      "title": "OpenAI's Sam Altman accuses Musk of selling public market investors \"on short-term space data centers\"",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/news/openais-sam-altman-accuses-musk-of-selling-public-market-investors-on-short-term-space-data-centers/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Generative AI business unlikely to make use of proposed SpaceX Orbital Data Center System",
+      "value": "",
+      "status": "ANNOUNCED"
+    },
     {
       "source": "Data Centre Dynamics",
       "title": "The last mile of Al capacity",
@@ -158,50 +173,35 @@
       "summary": "Will jointly develop distributed energy systems",
       "value": "",
       "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "HyperDataGrid eyes data center outside Lufkin, Texas",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/hyperdatagrid-eyes-data-center-outside-lufkin-texas/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Company looking to develop on former mill site",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "University to use waste heat from its data center to supplement district heating network in Wrocław, Poland",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/university-to-use-waste-heat-from-its-data-center-to-supplement-district-heating-network-in-wroc%C5%82aw-poland/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Both parties hope the thermal energy derived from racks at the supercomputing center will make the city’s heating network more efficient",
-      "value": "",
-      "status": "ACTIVE"
     }
   ],
   "action_items": [
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
+    "OpenAI's Sam Altman accuses Musk of selling public market investors \"on short-te | ANNOUNCED — Data Centre Dynamics",
     "The last mile of Al capacity | ACTIVE — Data Centre Dynamics",
     "Meeza completes data center expansion project for major hyperscaler | ACTIVE — Data Centre Dynamics",
     "NextDC raises another AU$500m in senior debt facilities, bri — A$500M | ACTIVE | Data Centre Dynamics",
-    "Sponsored: The AI data center boom isn't facing a bottleneck | ACTIVE — Data Centre Dynamics",
-    "SpaceX files FCC application for 100,000 Gen3 Starlink satellites | ACTIVE — Data Centre Dynamics"
+    "Sponsored: The AI data center boom isn't facing a bottleneck | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
+      {
+        "source": "Data Centre Dynamics",
+        "title": "OpenAI's Sam Altman accuses Musk of selling public market investors \"on short-term space data centers\"",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/news/openais-sam-altman-accuses-musk-of-selling-public-market-investors-on-short-term-space-data-centers/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Generative AI business unlikely to make use of proposed SpaceX Orbital Data Center System",
+        "value": "",
+        "status": "ANNOUNCED"
+      },
       {
         "source": "Data Centre Dynamics",
         "title": "The last mile of Al capacity",
@@ -351,36 +351,6 @@
         "summary": "Will jointly develop distributed energy systems",
         "value": "",
         "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "HyperDataGrid eyes data center outside Lufkin, Texas",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/hyperdatagrid-eyes-data-center-outside-lufkin-texas/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Company looking to develop on former mill site",
-        "value": "",
-        "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "University to use waste heat from its data center to supplement district heating network in Wrocław, Poland",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/university-to-use-waste-heat-from-its-data-center-to-supplement-district-heating-network-in-wroc%C5%82aw-poland/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Both parties hope the thermal energy derived from racks at the supercomputing center will make the city’s heating network more efficient",
-        "value": "",
-        "status": "ACTIVE"
       }
     ]
   },
@@ -388,6 +358,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-07-12",
+      "file": "reports/daily-lemon-2026-07-12.pdf"
     },
     {
       "date": "2026-07-11",
@@ -500,10 +474,6 @@
     {
       "date": "2026-06-12",
       "file": "reports/daily-lemon-2026-06-12.pdf"
-    },
-    {
-      "date": "2026-06-11",
-      "file": "reports/daily-lemon-2026-06-11.pdf"
     }
   ]
 }
