@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-12",
-  "timestamp": "Sunday 12 July 2026 — 8:06 AM AEST",
-  "pdf": "reports/daily-lemon-2026-07-12.pdf",
+  "date": "2026-07-13",
+  "timestamp": "Monday 13 July 2026 — 8:06 AM AEST",
+  "pdf": "reports/daily-lemon-2026-07-13.pdf",
   "stats": {
     "leads": 11,
     "priority": 0,
@@ -9,6 +9,21 @@
     "urgent": 0
   },
   "leads": [
+    {
+      "source": "Data Centre Dynamics",
+      "title": "The electrical infrastructure gap: What AI data center density demands from every project team",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-electrical-infrastructure-gap-what-ai-data-center-density-demands-from-every-project-team/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Getting the basics right",
+      "value": "",
+      "status": "ACTIVE"
+    },
     {
       "source": "Data Centre Dynamics",
       "title": "OpenAI's Sam Altman accuses Musk of selling public market investors \"on short-term space data centers\"",
@@ -158,35 +173,35 @@
       "summary": "Claims increase is attributable to the decision to stop counting unbundled renewable energy credits",
       "value": "",
       "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Siemens and FuelCell Energy partner on fuel cell power for data centers and other industrial offtakers",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/siemens-and-fuelcell-energy-partner-on-fuel-cell-power-for-data-centers-and-other-industrial-offtakers/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Will jointly develop distributed energy systems",
-      "value": "",
-      "status": "ACTIVE"
     }
   ],
   "action_items": [
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
+    "The electrical infrastructure gap: What AI data center density demands from ever | ACTIVE — Data Centre Dynamics",
     "OpenAI's Sam Altman accuses Musk of selling public market investors \"on short-te | ANNOUNCED — Data Centre Dynamics",
     "The last mile of Al capacity | ACTIVE — Data Centre Dynamics",
     "Meeza completes data center expansion project for major hyperscaler | ACTIVE — Data Centre Dynamics",
-    "NextDC raises another AU$500m in senior debt facilities, bri — A$500M | ACTIVE | Data Centre Dynamics",
-    "Sponsored: The AI data center boom isn't facing a bottleneck | ACTIVE — Data Centre Dynamics"
+    "NextDC raises another AU$500m in senior debt facilities, bri — A$500M | ACTIVE | Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
+      {
+        "source": "Data Centre Dynamics",
+        "title": "The electrical infrastructure gap: What AI data center density demands from every project team",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/the-electrical-infrastructure-gap-what-ai-data-center-density-demands-from-every-project-team/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Getting the basics right",
+        "value": "",
+        "status": "ACTIVE"
+      },
       {
         "source": "Data Centre Dynamics",
         "title": "OpenAI's Sam Altman accuses Musk of selling public market investors \"on short-term space data centers\"",
@@ -336,21 +351,6 @@
         "summary": "Claims increase is attributable to the decision to stop counting unbundled renewable energy credits",
         "value": "",
         "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Siemens and FuelCell Energy partner on fuel cell power for data centers and other industrial offtakers",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/siemens-and-fuelcell-energy-partner-on-fuel-cell-power-for-data-centers-and-other-industrial-offtakers/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Will jointly develop distributed energy systems",
-        "value": "",
-        "status": "ACTIVE"
       }
     ]
   },
@@ -358,6 +358,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-07-13",
+      "file": "reports/daily-lemon-2026-07-13.pdf"
     },
     {
       "date": "2026-07-12",
@@ -470,10 +474,6 @@
     {
       "date": "2026-06-13",
       "file": "reports/daily-lemon-2026-06-13.pdf"
-    },
-    {
-      "date": "2026-06-12",
-      "file": "reports/daily-lemon-2026-06-12.pdf"
     }
   ]
 }
