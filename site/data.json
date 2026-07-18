@@ -1,9 +1,9 @@
 {
-  "date": "2026-07-18",
-  "timestamp": "Saturday 18 July 2026 — 8:06 AM AEST",
-  "pdf": "reports/daily-lemon-2026-07-18.pdf",
+  "date": "2026-07-19",
+  "timestamp": "Sunday 19 July 2026 — 8:06 AM AEST",
+  "pdf": "reports/daily-lemon-2026-07-19.pdf",
   "stats": {
-    "leads": 7,
+    "leads": 9,
     "priority": 0,
     "trade": 0,
     "urgent": 0
@@ -21,6 +21,36 @@
       "trade_match": false,
       "priority": null,
       "summary": "Earthjustice set to take the issue to court if applications keep getting granted",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Sponsored: How AI demand is redefining risk for US data center developers",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/how-ai-demand-is-redefining-risk-for-us-data-center-developers/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Rapid AI-driven data center growth is colliding with US power system constraints and community push-back amidst a fragmented policy landscape, raising risks for developers across the full project lifecycle",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Equinix tops out Munich data center in Germany",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/news/equinix-tops-out-munich-data-center-in-germany/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Company expanding MU4",
       "value": "",
       "status": "ACTIVE"
     },
@@ -120,10 +150,10 @@
   ],
   "market_intel": [
     "Coalition of environmental action groups petition FCC to halt orbital data cente | ACTIVE — Data Centre Dynamics",
+    "Sponsored: How AI demand is redefining risk for US data center developers | ACTIVE — Data Centre Dynamics",
+    "Equinix tops out Munich data center in Germany | ACTIVE — Data Centre Dynamics",
     "Duos Edge AI to provide 10MW of capacity for five years to “ — A$111M | ACTIVE | Data Centre Dynamics",
-    "Security complexity in data centers: when more controls do not necessarily mean  | ACTIVE — Data Centre Dynamics",
-    "Stack Infrastructure data center in Hesse, Germany, canceled | ACTIVE — Data Centre Dynamics",
-    "Elisa identifies data center revenue opportunity, amid Finland's data center boo | ACTIVE — Data Centre Dynamics"
+    "Security complexity in data centers: when more controls do not necessarily mean  | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "ACT": [
@@ -144,6 +174,36 @@
       }
     ],
     "AU": [
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Sponsored: How AI demand is redefining risk for US data center developers",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/how-ai-demand-is-redefining-risk-for-us-data-center-developers/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Rapid AI-driven data center growth is colliding with US power system constraints and community push-back amidst a fragmented policy landscape, raising risks for developers across the full project lifecycle",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Equinix tops out Munich data center in Germany",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/news/equinix-tops-out-munich-data-center-in-germany/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Company expanding MU4",
+        "value": "",
+        "status": "ACTIVE"
+      },
       {
         "source": "Data Centre Dynamics",
         "title": "Duos Edge AI to provide 10MW of capacity for five years to “investment-grade hyperscaler”",
@@ -240,6 +300,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-07-19",
+      "file": "reports/daily-lemon-2026-07-19.pdf"
     },
     {
       "date": "2026-07-18",
@@ -352,10 +416,6 @@
     {
       "date": "2026-06-20",
       "file": "reports/daily-lemon-2026-06-20.pdf"
-    },
-    {
-      "date": "2026-06-19",
-      "file": "reports/daily-lemon-2026-06-19.pdf"
     }
   ]
 }
