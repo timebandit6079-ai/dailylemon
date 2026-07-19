@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-19",
-  "timestamp": "Sunday 19 July 2026 — 8:06 AM AEST",
-  "pdf": "reports/daily-lemon-2026-07-19.pdf",
+  "date": "2026-07-20",
+  "timestamp": "Monday 20 July 2026 — 8:08 AM AEST",
+  "pdf": "reports/daily-lemon-2026-07-20.pdf",
   "stats": {
     "leads": 9,
     "priority": 0,
@@ -302,6 +302,10 @@
       "file": "reports/daily-lemon-TEST.pdf"
     },
     {
+      "date": "2026-07-20",
+      "file": "reports/daily-lemon-2026-07-20.pdf"
+    },
+    {
       "date": "2026-07-19",
       "file": "reports/daily-lemon-2026-07-19.pdf"
     },
@@ -412,10 +416,6 @@
     {
       "date": "2026-06-21",
       "file": "reports/daily-lemon-2026-06-21.pdf"
-    },
-    {
-      "date": "2026-06-20",
-      "file": "reports/daily-lemon-2026-06-20.pdf"
     }
   ]
 }
