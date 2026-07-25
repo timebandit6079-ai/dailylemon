@@ -1,14 +1,44 @@
 {
-  "date": "2026-07-25",
-  "timestamp": "Saturday 25 July 2026 — 8:17 AM AEST",
-  "pdf": "reports/daily-lemon-2026-07-25.pdf",
+  "date": "2026-07-26",
+  "timestamp": "Sunday 26 July 2026 — 8:09 AM AEST",
+  "pdf": "reports/daily-lemon-2026-07-26.pdf",
   "stats": {
-    "leads": 9,
+    "leads": 10,
     "priority": 0,
     "trade": 0,
     "urgent": 0
   },
   "leads": [
+    {
+      "source": "Google News",
+      "title": "They drink our water and take our power, but do data centres create jobs? - ABC News & Headlines – Australian Broadcasting Corporation",
+      "agency": "Google News",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTE55WEJFckRaVnJvRWJyZ1ZmaEZSSDc0ekFnUXRLZ1BXc3lsM0NrYkRSRjJXOWgtd0kyeURYTkFJVlBtOVRKYzRRczBOT19ONWxBdVVxNjFic3RCaVpyYzV5d2dIeEJTLWJkUko5ZlRmQy1mVlhFbXQzT0prVGxxMVloOGE2Nkh0MXNQb0g5SV8tV3F6WnF0U3NnWEZUUQ?oc=5",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "They drink our water and take our power, but do data centres create jobs? &nbsp;&nbsp; ABC News & Headlines – Australian Broadcasting Corporation",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Sponsored: The key to the data center power problem",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-key-to-the-data-center-power-problem/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "A power-first mindset amid AI at scale and aging infrastructure",
+      "value": "",
+      "status": "ACTIVE"
+    },
     {
       "source": "Data Centre Dynamics",
       "title": "Sponsored: AI’s impact on data center infrastructure – is this the dawn of “the flux capacitor”?",
@@ -128,35 +158,50 @@
       "summary": "Environmental Integrity Project, the Sierra Club, and Public Citizen submit a notice of intent to sue letter",
       "value": "",
       "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "PJM grid hit by voltage disturbance after data center load abruptly drops offline - report",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/pjm-grid-hit-by-voltage-disturbance-after-data-center-load-abruptly-drops-offline-report/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Reportedly took ten minutes for the grid to stabilize",
-      "value": "",
-      "status": "ACTIVE"
     }
   ],
   "action_items": [
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
+    "They drink our water and take our power, but do data centres create jobs? - ABC  | ACTIVE — Google News",
+    "Sponsored: The key to the data center power problem | ACTIVE — Data Centre Dynamics",
     "Sponsored: AI’s impact on data center infrastructure – is this the dawn of “the  | ACTIVE — Data Centre Dynamics",
     "Parks S/A to invest R$500m in 5MW data center in Cachoeirinh — A$500M | ACTIVE | Data Centre Dynamics",
-    "Eurus Energy & Toyota break ground on wind-powered data center in Hokkaido, Japa | ACTIVE — Data Centre Dynamics",
-    "Building resilience at scale: why modern data centers need integrated risk manag | ACTIVE — Data Centre Dynamics",
-    "Developer eyes 930-acre data center in Ransom Township, Pennsylvania | ACTIVE — Data Centre Dynamics"
+    "Eurus Energy & Toyota break ground on wind-powered data center in Hokkaido, Japa | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
+      {
+        "source": "Google News",
+        "title": "They drink our water and take our power, but do data centres create jobs? - ABC News & Headlines – Australian Broadcasting Corporation",
+        "agency": "Google News",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTE55WEJFckRaVnJvRWJyZ1ZmaEZSSDc0ekFnUXRLZ1BXc3lsM0NrYkRSRjJXOWgtd0kyeURYTkFJVlBtOVRKYzRRczBOT19ONWxBdVVxNjFic3RCaVpyYzV5d2dIeEJTLWJkUko5ZlRmQy1mVlhFbXQzT0prVGxxMVloOGE2Nkh0MXNQb0g5SV8tV3F6WnF0U3NnWEZUUQ?oc=5",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "They drink our water and take our power, but do data centres create jobs? &nbsp;&nbsp; ABC News & Headlines – Australian Broadcasting Corporation",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Sponsored: The key to the data center power problem",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/the-key-to-the-data-center-power-problem/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "A power-first mindset amid AI at scale and aging infrastructure",
+        "value": "",
+        "status": "ACTIVE"
+      },
       {
         "source": "Data Centre Dynamics",
         "title": "Sponsored: AI’s impact on data center infrastructure – is this the dawn of “the flux capacitor”?",
@@ -276,21 +321,6 @@
         "summary": "Environmental Integrity Project, the Sierra Club, and Public Citizen submit a notice of intent to sue letter",
         "value": "",
         "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "PJM grid hit by voltage disturbance after data center load abruptly drops offline - report",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/pjm-grid-hit-by-voltage-disturbance-after-data-center-load-abruptly-drops-offline-report/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Reportedly took ten minutes for the grid to stabilize",
-        "value": "",
-        "status": "ACTIVE"
       }
     ]
   },
@@ -298,6 +328,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-07-26",
+      "file": "reports/daily-lemon-2026-07-26.pdf"
     },
     {
       "date": "2026-07-25",
@@ -410,10 +444,6 @@
     {
       "date": "2026-06-28",
       "file": "reports/daily-lemon-2026-06-28.pdf"
-    },
-    {
-      "date": "2026-06-27",
-      "file": "reports/daily-lemon-2026-06-27.pdf"
     }
   ]
 }
