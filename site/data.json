@@ -1,9 +1,9 @@
 {
-  "date": "2026-08-02",
-  "timestamp": "Sunday 02 August 2026 — 8:10 AM AEST",
-  "pdf": "reports/daily-lemon-2026-08-02.pdf",
+  "date": "2026-08-03",
+  "timestamp": "Monday 03 August 2026 — 8:09 AM AEST",
+  "pdf": "reports/daily-lemon-2026-08-03.pdf",
   "stats": {
-    "leads": 13,
+    "leads": 11,
     "priority": 0,
     "trade": 0,
     "urgent": 0
@@ -25,32 +25,32 @@
       "status": "ACTIVE"
     },
     {
-      "source": "Google News",
-      "title": "Bouygues Construction secures expanded contract for AirTrunk's major hyperscale data centre campus in Australia - Bouygues Construction",
-      "agency": "Google News",
+      "source": "Data Centre Dynamics",
+      "title": "Meta boosts AI data center capex, forecasts $130-145bn spend",
+      "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQXlTX3ZTeXYxQUZyX00tVVFNWEc2SmpxMnBhU2VhU2lON2dCM1lpU3ZWSzlCOE9kazFiOWZ6NDY3UnZtWlEtdE9tZjI0eDZLbFRhdzhkTk01N3ZmUnpxLXRvWnV0eV9NRHBEaVc1alM1VVNSd0ZhSWpWMXdnLVZ3REFGRllQT25vZ205NFVLNEpwSy1Eeko2Vk90QS1PR01QemNqNU43bXd3Y3NrM0ZDeFctSkdldVpOQklHNVNqX05DVlpEdVJLYWlSZDBTSTBzdU9Oajh6WFlRQW1FdENQMnRHYTZRa1A1V1Rod3VTRWp1a1JtREtURg?oc=5",
+      "url": "https://www.datacenterdynamics.com/en/news/meta-boosts-ai-data-center-capex-forecasts-130-145bn-spend/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "Bouygues Construction secures expanded contract for AirTrunk's major hyperscale data centre campus in Australia &nbsp;&nbsp; Bouygues Construction",
+      "summary": "Shares drop as spending increases, and free cash flow falls",
       "value": "",
       "status": "ACTIVE"
     },
     {
-      "source": "Google News",
-      "title": "Halliburton, Australia's Beetaloo Energy Partner on Gas-to-Data Center Development - Pipeline and Gas Journal",
-      "agency": "Google News",
+      "source": "Data Centre Dynamics",
+      "title": "AI infrastructure is only as strong as its network",
+      "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQkNuT2Znb1puZFN5UUU5aU9JcjBvYVVXLWZMTW1wc3Z0bVI1YXIxbkhLcGpmZjR4cnRmMXpBSUNCWW5fYUJCUWZ0Y1Y5ZlZhNXU5dTVSN0V4MnMyYzRNMkdVZ0E4ZlVZZ3RpVzVkbjZYX2NjZm9lSDlMRkpVYVBFRFJsNlp1c00wWG5oY3RKTUxLM3l5US1ibzMwN3hKTkdNVy1Jem8welo0aWsyRVU3SXpad1RvQzlk?oc=5",
+      "url": "https://www.datacenterdynamics.com/en/opinions/ai-infrastructure-is-only-as-strong-as-its-network/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "Halliburton, Australia's Beetaloo Energy Partner on Gas-to-Data Center Development &nbsp;&nbsp; Pipeline and Gas Journal",
+      "summary": "Reliable network connectivity is an AI enabler",
       "value": "",
       "status": "ACTIVE"
     },
@@ -173,36 +173,6 @@
       "summary": "Construction has commenced on two of the three buildings, with the third to be started next month",
       "value": "",
       "status": "UNDER CONSTRUCTION"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Veolia to operate 350MW gas-powered microgrid for Ohio data center campus",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/veolia-to-operate-350mw-gas-powered-microgrid-for-ohio-data-center-campus/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Will be anchored by natural gas power and supplemented with a BESS unit",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Legacy Investing buys printing press in Minneapolis, Minnesota, for data center development",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/legacy-investing-buys-printing-press-in-minneapolis-minnesota-for-data-center-development/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Company planning 20MW facility despite ongoing moratorium on data centers in city",
-      "value": "",
-      "status": "APPROVED"
     }
   ],
   "action_items": [
@@ -210,8 +180,8 @@
   ],
   "market_intel": [
     "Amazon, Duke Energy accused of evading Clean Air Act at under-development data c | ACTIVE — Data Centre Dynamics",
-    "Bouygues Construction secures expanded contract for AirTrunk's major hyperscale  | ACTIVE — Google News",
-    "Halliburton, Australia's Beetaloo Energy Partner on Gas-to-Data Center Developme | ACTIVE — Google News",
+    "Meta boosts AI data center capex, forecasts $130-145bn spend | ACTIVE — Data Centre Dynamics",
+    "AI infrastructure is only as strong as its network | ACTIVE — Data Centre Dynamics",
     "Sponsored: Tackling complexity in AI data centers: leveraging fully integrated s | ACTIVE — Data Centre Dynamics",
     "AWS reports fastest growth since 2021, Amazon annual capex to hit $220bn on AI m | ACTIVE — Data Centre Dynamics"
   ],
@@ -235,32 +205,32 @@
     ],
     "AU": [
       {
-        "source": "Google News",
-        "title": "Bouygues Construction secures expanded contract for AirTrunk's major hyperscale data centre campus in Australia - Bouygues Construction",
-        "agency": "Google News",
+        "source": "Data Centre Dynamics",
+        "title": "Meta boosts AI data center capex, forecasts $130-145bn spend",
+        "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQXlTX3ZTeXYxQUZyX00tVVFNWEc2SmpxMnBhU2VhU2lON2dCM1lpU3ZWSzlCOE9kazFiOWZ6NDY3UnZtWlEtdE9tZjI0eDZLbFRhdzhkTk01N3ZmUnpxLXRvWnV0eV9NRHBEaVc1alM1VVNSd0ZhSWpWMXdnLVZ3REFGRllQT25vZ205NFVLNEpwSy1Eeko2Vk90QS1PR01QemNqNU43bXd3Y3NrM0ZDeFctSkdldVpOQklHNVNqX05DVlpEdVJLYWlSZDBTSTBzdU9Oajh6WFlRQW1FdENQMnRHYTZRa1A1V1Rod3VTRWp1a1JtREtURg?oc=5",
+        "url": "https://www.datacenterdynamics.com/en/news/meta-boosts-ai-data-center-capex-forecasts-130-145bn-spend/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "Bouygues Construction secures expanded contract for AirTrunk's major hyperscale data centre campus in Australia &nbsp;&nbsp; Bouygues Construction",
+        "summary": "Shares drop as spending increases, and free cash flow falls",
         "value": "",
         "status": "ACTIVE"
       },
       {
-        "source": "Google News",
-        "title": "Halliburton, Australia's Beetaloo Energy Partner on Gas-to-Data Center Development - Pipeline and Gas Journal",
-        "agency": "Google News",
+        "source": "Data Centre Dynamics",
+        "title": "AI infrastructure is only as strong as its network",
+        "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQkNuT2Znb1puZFN5UUU5aU9JcjBvYVVXLWZMTW1wc3Z0bVI1YXIxbkhLcGpmZjR4cnRmMXpBSUNCWW5fYUJCUWZ0Y1Y5ZlZhNXU5dTVSN0V4MnMyYzRNMkdVZ0E4ZlVZZ3RpVzVkbjZYX2NjZm9lSDlMRkpVYVBFRFJsNlp1c00wWG5oY3RKTUxLM3l5US1ibzMwN3hKTkdNVy1Jem8welo0aWsyRVU3SXpad1RvQzlk?oc=5",
+        "url": "https://www.datacenterdynamics.com/en/opinions/ai-infrastructure-is-only-as-strong-as-its-network/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "Halliburton, Australia's Beetaloo Energy Partner on Gas-to-Data Center Development &nbsp;&nbsp; Pipeline and Gas Journal",
+        "summary": "Reliable network connectivity is an AI enabler",
         "value": "",
         "status": "ACTIVE"
       },
@@ -383,36 +353,6 @@
         "summary": "Construction has commenced on two of the three buildings, with the third to be started next month",
         "value": "",
         "status": "UNDER CONSTRUCTION"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Veolia to operate 350MW gas-powered microgrid for Ohio data center campus",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/veolia-to-operate-350mw-gas-powered-microgrid-for-ohio-data-center-campus/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Will be anchored by natural gas power and supplemented with a BESS unit",
-        "value": "",
-        "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Legacy Investing buys printing press in Minneapolis, Minnesota, for data center development",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/legacy-investing-buys-printing-press-in-minneapolis-minnesota-for-data-center-development/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Company planning 20MW facility despite ongoing moratorium on data centers in city",
-        "value": "",
-        "status": "APPROVED"
       }
     ]
   },
@@ -420,6 +360,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-08-03",
+      "file": "reports/daily-lemon-2026-08-03.pdf"
     },
     {
       "date": "2026-08-02",
@@ -532,10 +476,6 @@
     {
       "date": "2026-07-06",
       "file": "reports/daily-lemon-2026-07-06.pdf"
-    },
-    {
-      "date": "2026-07-05",
-      "file": "reports/daily-lemon-2026-07-05.pdf"
     }
   ]
 }
