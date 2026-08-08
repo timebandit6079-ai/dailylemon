@@ -1,44 +1,14 @@
 {
-  "date": "2026-08-08",
-  "timestamp": "Saturday 08 August 2026 — 7:54 AM AEST",
-  "pdf": "reports/daily-lemon-2026-08-08.pdf",
+  "date": "2026-08-09",
+  "timestamp": "Sunday 09 August 2026 — 7:45 AM AEST",
+  "pdf": "reports/daily-lemon-2026-08-09.pdf",
   "stats": {
-    "leads": 10,
+    "leads": 9,
     "priority": 0,
     "trade": 0,
     "urgent": 0
   },
   "leads": [
-    {
-      "source": "Google News",
-      "title": "Gamuda seen as key winner in Malaysia’s AI data centre boom; shares hit 2-month high - The Business Times",
-      "agency": "Google News",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUDhHV1pSejhRWUp1cEFzQS15TjQ1dl92U2JIenZvZlAyM2dDTWMyWkZDVlhPN3ZsREhJVHQ2TUdBay0zU2pLUW1oRjNmX1JZUkNBc0xleGJ2b1dwZHlfNlVBdjhUbU02aDh5ZnJTSW9sV3NEbjVXcmNKOGt0Y0dWdTdPaVdsTWkzb1p2Q0FycmNyZklXWUdzUXozYjVkMUVCYUpnZzZ0N2dmempqV29hOWZGMm1KRVR0Z1NTaVBsb1ZrejJ4ZVE0WDNwenVndFV4VjFDNUlCTzlvQkI3ZFdVQlNJcDZhLWNiUlFwejBLSF8?oc=5",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Gamuda seen as key winner in Malaysia’s AI data centre boom; shares hit 2-month high &nbsp;&nbsp; The Business Times",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Google News",
-      "title": "Bouygues Construction to build data centre in Australia - Компьютерная Газета",
-      "agency": "Google News",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBV2E4TF9BdlVkSmg5eVNCamZCZGRDYzlBX2dIMm53UlFlUXN6Rkk3VlhaM3Bua3BnUnMwMDZmRkg3X0pWcU5vcTFJbjVUOGZnUXdBWGVhVGFFYWM0WnJKYklWelNBaHpu?oc=5",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Bouygues Construction to build data centre in Australia &nbsp;&nbsp; Компьютерная Газета",
-      "value": "",
-      "status": "ACTIVE"
-    },
     {
       "source": "Data Centre Dynamics",
       "title": "Bridge DC launches prefabricated data center power module",
@@ -158,50 +128,35 @@
       "summary": "Will test the viability of powering facilities behind the meter",
       "value": "",
       "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Sponsored: How high-performance coatings accelerate AI data center construction",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/how-high-performance-coatings-accelerate-ai-data-center-construction/",
+      "state": "SA",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "As modular construction accelerates, coatings are helping improve speed, reliability, safety, and sustainability across the data center lifecycle",
+      "value": "",
+      "status": "ACTIVE"
     }
   ],
   "action_items": [
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
-    "Gamuda seen as key winner in Malaysia’s AI data centre boom; shares hit 2-month  | ACTIVE — Google News",
-    "Bouygues Construction to build data centre in Australia - Компьютерная Газета | ACTIVE — Google News",
     "Bridge DC launches prefabricated data center power module | ACTIVE — Data Centre Dynamics",
     "NTT Data reports half a billion dollars of data center inves — A$733M | ACTIVE | Data Centre Dynamics",
-    "Former employees sue Prime Data Centers for $400m, claim com — A$400M | ACTIVE | Data Centre Dynamics"
+    "Former employees sue Prime Data Centers for $400m, claim com — A$400M | ACTIVE | Data Centre Dynamics",
+    "Sponsored: Efficient data center water cooling for Australia’s market | ACTIVE — Data Centre Dynamics",
+    "TCC Concept Limited's data center subsidiary could develop 60MW data center in P | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
-      {
-        "source": "Google News",
-        "title": "Gamuda seen as key winner in Malaysia’s AI data centre boom; shares hit 2-month high - The Business Times",
-        "agency": "Google News",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUDhHV1pSejhRWUp1cEFzQS15TjQ1dl92U2JIenZvZlAyM2dDTWMyWkZDVlhPN3ZsREhJVHQ2TUdBay0zU2pLUW1oRjNmX1JZUkNBc0xleGJ2b1dwZHlfNlVBdjhUbU02aDh5ZnJTSW9sV3NEbjVXcmNKOGt0Y0dWdTdPaVdsTWkzb1p2Q0FycmNyZklXWUdzUXozYjVkMUVCYUpnZzZ0N2dmempqV29hOWZGMm1KRVR0Z1NTaVBsb1ZrejJ4ZVE0WDNwenVndFV4VjFDNUlCTzlvQkI3ZFdVQlNJcDZhLWNiUlFwejBLSF8?oc=5",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Gamuda seen as key winner in Malaysia’s AI data centre boom; shares hit 2-month high &nbsp;&nbsp; The Business Times",
-        "value": "",
-        "status": "ACTIVE"
-      },
-      {
-        "source": "Google News",
-        "title": "Bouygues Construction to build data centre in Australia - Компьютерная Газета",
-        "agency": "Google News",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBV2E4TF9BdlVkSmg5eVNCamZCZGRDYzlBX2dIMm53UlFlUXN6Rkk3VlhaM3Bua3BnUnMwMDZmRkg3X0pWcU5vcTFJbjVUOGZnUXdBWGVhVGFFYWM0WnJKYklWelNBaHpu?oc=5",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Bouygues Construction to build data centre in Australia &nbsp;&nbsp; Компьютерная Газета",
-        "value": "",
-        "status": "ACTIVE"
-      },
       {
         "source": "Data Centre Dynamics",
         "title": "Bridge DC launches prefabricated data center power module",
@@ -322,12 +277,33 @@
         "value": "",
         "status": "ACTIVE"
       }
+    ],
+    "SA": [
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Sponsored: How high-performance coatings accelerate AI data center construction",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/marketwatch/how-high-performance-coatings-accelerate-ai-data-center-construction/",
+        "state": "SA",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "As modular construction accelerates, coatings are helping improve speed, reliability, safety, and sustainability across the data center lifecycle",
+        "value": "",
+        "status": "ACTIVE"
+      }
     ]
   },
   "archive": [
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-08-09",
+      "file": "reports/daily-lemon-2026-08-09.pdf"
     },
     {
       "date": "2026-08-08",
@@ -440,10 +416,6 @@
     {
       "date": "2026-07-11",
       "file": "reports/daily-lemon-2026-07-11.pdf"
-    },
-    {
-      "date": "2026-07-10",
-      "file": "reports/daily-lemon-2026-07-10.pdf"
     }
   ]
 }
