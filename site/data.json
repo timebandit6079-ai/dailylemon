@@ -1,14 +1,29 @@
 {
-  "date": "2026-08-09",
-  "timestamp": "Sunday 09 August 2026 — 7:45 AM AEST",
-  "pdf": "reports/daily-lemon-2026-08-09.pdf",
+  "date": "2026-08-10",
+  "timestamp": "Monday 10 August 2026 — 7:48 AM AEST",
+  "pdf": "reports/daily-lemon-2026-08-10.pdf",
   "stats": {
-    "leads": 9,
+    "leads": 10,
     "priority": 0,
     "trade": 0,
     "urgent": 0
   },
   "leads": [
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Community benefit agreements are essential to data center success",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/community-benefit-agreements-are-essential-to-data-center-success/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "The roadmap to being a good neighbor",
+      "value": "",
+      "status": "ACTIVE"
+    },
     {
       "source": "Data Centre Dynamics",
       "title": "Bridge DC launches prefabricated data center power module",
@@ -149,14 +164,29 @@
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
+    "Community benefit agreements are essential to data center success | ACTIVE — Data Centre Dynamics",
     "Bridge DC launches prefabricated data center power module | ACTIVE — Data Centre Dynamics",
     "NTT Data reports half a billion dollars of data center inves — A$733M | ACTIVE | Data Centre Dynamics",
     "Former employees sue Prime Data Centers for $400m, claim com — A$400M | ACTIVE | Data Centre Dynamics",
-    "Sponsored: Efficient data center water cooling for Australia’s market | ACTIVE — Data Centre Dynamics",
-    "TCC Concept Limited's data center subsidiary could develop 60MW data center in P | ACTIVE — Data Centre Dynamics"
+    "Sponsored: Efficient data center water cooling for Australia’s market | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Community benefit agreements are essential to data center success",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/community-benefit-agreements-are-essential-to-data-center-success/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "The roadmap to being a good neighbor",
+        "value": "",
+        "status": "ACTIVE"
+      },
       {
         "source": "Data Centre Dynamics",
         "title": "Bridge DC launches prefabricated data center power module",
@@ -302,6 +332,10 @@
       "file": "reports/daily-lemon-TEST.pdf"
     },
     {
+      "date": "2026-08-10",
+      "file": "reports/daily-lemon-2026-08-10.pdf"
+    },
+    {
       "date": "2026-08-09",
       "file": "reports/daily-lemon-2026-08-09.pdf"
     },
@@ -412,10 +446,6 @@
     {
       "date": "2026-07-12",
       "file": "reports/daily-lemon-2026-07-12.pdf"
-    },
-    {
-      "date": "2026-07-11",
-      "file": "reports/daily-lemon-2026-07-11.pdf"
     }
   ]
 }
