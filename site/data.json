@@ -1,14 +1,44 @@
 {
-  "date": "2026-08-15",
-  "timestamp": "Saturday 15 August 2026 — 7:39 AM AEST",
-  "pdf": "reports/daily-lemon-2026-08-15.pdf",
+  "date": "2026-08-16",
+  "timestamp": "Sunday 16 August 2026 — 7:34 AM AEST",
+  "pdf": "reports/daily-lemon-2026-08-16.pdf",
   "stats": {
-    "leads": 8,
+    "leads": 10,
     "priority": 0,
     "trade": 0,
     "urgent": 0
   },
   "leads": [
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Sponsored: Power on the critical path: why the IPP is moving to the center of data center development",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/power-on-the-critical-path-why-the-ipp-is-moving-to-the-center-of-data-center-development/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "The next decade of digital infrastructure will be shaped by how quickly power can reach the right place, at the right time, at an acceptable cost",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Are orbital AI data centers the next frontier for compute infrastructure?",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/are-orbital-ai-data-centers-the-next-frontier-for-compute-infrastructure/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Data centers in space shift from concept to early operational demonstrations",
+      "value": "",
+      "status": "ACTIVE"
+    },
     {
       "source": "Data Centre Dynamics",
       "title": "Data center planned for suburb in Warsaw, Poland, sparks protests",
@@ -134,14 +164,44 @@
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
+    "Sponsored: Power on the critical path: why the IPP is moving to the center of da | ACTIVE — Data Centre Dynamics",
+    "Are orbital AI data centers the next frontier for compute infrastructure? | ACTIVE — Data Centre Dynamics",
     "Data center planned for suburb in Warsaw, Poland, sparks protests | ANNOUNCED — Data Centre Dynamics",
     "Malaysia to launch palm oil-based immersion cooling fluid for data centers | ACTIVE — Data Centre Dynamics",
-    "Data center spanning up to 50,000 sqm gets approval for construction in west Lon | APPROVED — Data Centre Dynamics",
-    "Data center-related threats made against local authorities in Marshall, Michigan | ACTIVE — Data Centre Dynamics",
-    "Sponsored: The digital land grab: Why we can't build data centers fast enough | ACTIVE — Data Centre Dynamics"
+    "Data center spanning up to 50,000 sqm gets approval for construction in west Lon | APPROVED — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Sponsored: Power on the critical path: why the IPP is moving to the center of data center development",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/power-on-the-critical-path-why-the-ipp-is-moving-to-the-center-of-data-center-development/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "The next decade of digital infrastructure will be shaped by how quickly power can reach the right place, at the right time, at an acceptable cost",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Are orbital AI data centers the next frontier for compute infrastructure?",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/are-orbital-ai-data-centers-the-next-frontier-for-compute-infrastructure/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Data centers in space shift from concept to early operational demonstrations",
+        "value": "",
+        "status": "ACTIVE"
+      },
       {
         "source": "Data Centre Dynamics",
         "title": "Data center planned for suburb in Warsaw, Poland, sparks protests",
@@ -270,6 +330,10 @@
       "file": "reports/daily-lemon-TEST.pdf"
     },
     {
+      "date": "2026-08-16",
+      "file": "reports/daily-lemon-2026-08-16.pdf"
+    },
+    {
       "date": "2026-08-15",
       "file": "reports/daily-lemon-2026-08-15.pdf"
     },
@@ -380,10 +444,6 @@
     {
       "date": "2026-07-18",
       "file": "reports/daily-lemon-2026-07-18.pdf"
-    },
-    {
-      "date": "2026-07-17",
-      "file": "reports/daily-lemon-2026-07-17.pdf"
     }
   ]
 }
