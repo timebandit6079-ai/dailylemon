@@ -1,9 +1,9 @@
 {
-  "date": "2026-08-16",
-  "timestamp": "Sunday 16 August 2026 — 7:34 AM AEST",
-  "pdf": "reports/daily-lemon-2026-08-16.pdf",
+  "date": "2026-08-17",
+  "timestamp": "Monday 17 August 2026 — 7:33 AM AEST",
+  "pdf": "reports/daily-lemon-2026-08-17.pdf",
   "stats": {
-    "leads": 10,
+    "leads": 9,
     "priority": 0,
     "trade": 0,
     "urgent": 0
@@ -141,21 +141,6 @@
       "trade_match": false,
       "priority": null,
       "summary": "Company targeting the commercialization of its wave-powered solution in 2027",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "CVC DIF acquires German data center firm Firstcolo",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/cvc-dif-acquires-german-data-center-firm-firstcolo/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Colo provider has two facilities in Frankfurt and another in development",
       "value": "",
       "status": "ACTIVE"
     }
@@ -306,21 +291,6 @@
         "summary": "Company targeting the commercialization of its wave-powered solution in 2027",
         "value": "",
         "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "CVC DIF acquires German data center firm Firstcolo",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/cvc-dif-acquires-german-data-center-firm-firstcolo/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Colo provider has two facilities in Frankfurt and another in development",
-        "value": "",
-        "status": "ACTIVE"
       }
     ]
   },
@@ -328,6 +298,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-08-17",
+      "file": "reports/daily-lemon-2026-08-17.pdf"
     },
     {
       "date": "2026-08-16",
@@ -440,10 +414,6 @@
     {
       "date": "2026-07-19",
       "file": "reports/daily-lemon-2026-07-19.pdf"
-    },
-    {
-      "date": "2026-07-18",
-      "file": "reports/daily-lemon-2026-07-18.pdf"
     }
   ]
 }
