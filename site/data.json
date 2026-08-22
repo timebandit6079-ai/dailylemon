@@ -1,14 +1,89 @@
 {
-  "date": "2026-08-22",
-  "timestamp": "Saturday 22 August 2026 — 7:37 AM AEST",
-  "pdf": "reports/daily-lemon-2026-08-22.pdf",
+  "date": "2026-08-23",
+  "timestamp": "Sunday 23 August 2026 — 7:34 AM AEST",
+  "pdf": "reports/daily-lemon-2026-08-23.pdf",
   "stats": {
-    "leads": 10,
+    "leads": 12,
     "priority": 0,
     "trade": 0,
     "urgent": 0
   },
   "leads": [
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Sponsored: What coolant should you use for data center liquid cooling?",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/what-coolant-should-you-use-for-data-center-liquid-cooling/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Exploring PG25, dielectric fluids, and ASHRAE recommendations",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Ignis and Acciona look to build a data center in Segovia, Spain",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/news/ignis-and-acciona-join-forces-to-build-a-data-center-in-segovia/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "The joint project also includes the development of a photovoltaic plant",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Building data centers is getting easier. Building trust is not",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/building-data-centers-is-getting-easier-building-trust-is-not/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Data centers cannot afford to treat communities as an afterthought",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Terronova starts work on 300MW data center campus outside São Paulo, Brazil",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/news/terranova-boosts-technology-infrastructure-with-the-construction-of-one-of-latin-americas-first-ai-data-centers/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Site could eventually exceed 1GW",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Sponsored: Powering data centers is no longer a simple matter of supply and demand",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/powering-data-centers-is-no-longer-a-simple-matter-of-supply-and-demand/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Ramboll’s Michael Bergstrom unpacks how unprecedented load growth, changing grid standards, and shifting utility requirements are transforming the data center lifecycle",
+      "value": "",
+      "status": "ACTIVE"
+    },
     {
       "source": "Data Centre Dynamics",
       "title": "Vapat Enters the data center market with a 160MW project in Valladolid",
@@ -113,65 +188,95 @@
       "summary": "VNG looks to acquire STT GDC's portion of Ho Chi Minh City JV, aims to develop others and other facilities instead",
       "value": "",
       "status": "ANNOUNCED"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Evolution DC secures long-term lease for land in Ho Chi Minh City, Vietnam",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/evolution-dc-secures-long-term-lease-for-land-in-ho-chi-minh-city-vietnam/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Company planning 52MW data center on site in Saigon Hi-Tech Park",
-      "value": "",
-      "status": "APPROVED"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Harworth enters exclusivity agreement with unnamed data center provider for powered land site in UK",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/harworth-enters-exclusivity-agreement-with-unnamed-data-center-provider-for-powered-land-site-in-uk/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Company targeting several other sites across the UK, eying potential for colo and Edge sites as well",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Google News",
-      "title": "Data centres must ‘pay their own way’ in NSW, Australia - Construction Briefing",
-      "agency": "Google News",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa3RLbEFCaVppcU5DS2hyVHFDTFRCcXVuQ0cxdmxGU2dJa0JtcV9lN0ZReld6MEMtYUVCaF94MjN2cnIzU1lKdGpiVXJ5cjZfdGw1Y012TVk5cHUyMGtHWmRXUEJfTS1GSTR0VEUzb3dUQ28wN0tqWFl5S05aZmRIVS1SbDg2Q0tfaUtjR28xc2pCTjQxbzdabllBMjlGaEQyeTFrRnBCQWQ5dVFpWGJv?oc=5",
-      "state": "NSW",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Data centres must ‘pay their own way’ in NSW, Australia &nbsp;&nbsp; Construction Briefing",
-      "value": "",
-      "status": "ACTIVE"
     }
   ],
   "action_items": [
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
-    "Vapat Enters the data center market with a 160MW project in Valladolid | ACTIVE — Data Centre Dynamics",
-    "Nvidia backs data center powered land company Cloverleaf | ACTIVE — Data Centre Dynamics",
-    "Edge data center for AI workloads proposed in Manchester, UK | ANNOUNCED — Data Centre Dynamics",
-    "Rocket Lab has no plans to enter orbital data center market | ACTIVE — Data Centre Dynamics",
-    "Sponsored: The \"power-first\" era: A new playbook for data center projects | ACTIVE — Data Centre Dynamics"
+    "Sponsored: What coolant should you use for data center liquid cooling? | ACTIVE — Data Centre Dynamics",
+    "Ignis and Acciona look to build a data center in Segovia, Spain | ACTIVE — Data Centre Dynamics",
+    "Building data centers is getting easier. Building trust is not | ACTIVE — Data Centre Dynamics",
+    "Terronova starts work on 300MW data center campus outside São Paulo, Brazil | ACTIVE — Data Centre Dynamics",
+    "Sponsored: Powering data centers is no longer a simple matter of supply and dema | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Sponsored: What coolant should you use for data center liquid cooling?",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/what-coolant-should-you-use-for-data-center-liquid-cooling/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Exploring PG25, dielectric fluids, and ASHRAE recommendations",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Ignis and Acciona look to build a data center in Segovia, Spain",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/news/ignis-and-acciona-join-forces-to-build-a-data-center-in-segovia/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "The joint project also includes the development of a photovoltaic plant",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Building data centers is getting easier. Building trust is not",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/building-data-centers-is-getting-easier-building-trust-is-not/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Data centers cannot afford to treat communities as an afterthought",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Terronova starts work on 300MW data center campus outside São Paulo, Brazil",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/news/terranova-boosts-technology-infrastructure-with-the-construction-of-one-of-latin-americas-first-ai-data-centers/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Site could eventually exceed 1GW",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Sponsored: Powering data centers is no longer a simple matter of supply and demand",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/marketwatch/powering-data-centers-is-no-longer-a-simple-matter-of-supply-and-demand/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Ramboll’s Michael Bergstrom unpacks how unprecedented load growth, changing grid standards, and shifting utility requirements are transforming the data center lifecycle",
+        "value": "",
+        "status": "ACTIVE"
+      },
       {
         "source": "Data Centre Dynamics",
         "title": "Vapat Enters the data center market with a 160MW project in Valladolid",
@@ -276,53 +381,6 @@
         "summary": "VNG looks to acquire STT GDC's portion of Ho Chi Minh City JV, aims to develop others and other facilities instead",
         "value": "",
         "status": "ANNOUNCED"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Evolution DC secures long-term lease for land in Ho Chi Minh City, Vietnam",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/evolution-dc-secures-long-term-lease-for-land-in-ho-chi-minh-city-vietnam/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Company planning 52MW data center on site in Saigon Hi-Tech Park",
-        "value": "",
-        "status": "APPROVED"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Harworth enters exclusivity agreement with unnamed data center provider for powered land site in UK",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/harworth-enters-exclusivity-agreement-with-unnamed-data-center-provider-for-powered-land-site-in-uk/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Company targeting several other sites across the UK, eying potential for colo and Edge sites as well",
-        "value": "",
-        "status": "ACTIVE"
-      }
-    ],
-    "NSW": [
-      {
-        "source": "Google News",
-        "title": "Data centres must ‘pay their own way’ in NSW, Australia - Construction Briefing",
-        "agency": "Google News",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa3RLbEFCaVppcU5DS2hyVHFDTFRCcXVuQ0cxdmxGU2dJa0JtcV9lN0ZReld6MEMtYUVCaF94MjN2cnIzU1lKdGpiVXJ5cjZfdGw1Y012TVk5cHUyMGtHWmRXUEJfTS1GSTR0VEUzb3dUQ28wN0tqWFl5S05aZmRIVS1SbDg2Q0tfaUtjR28xc2pCTjQxbzdabllBMjlGaEQyeTFrRnBCQWQ5dVFpWGJv?oc=5",
-        "state": "NSW",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Data centres must ‘pay their own way’ in NSW, Australia &nbsp;&nbsp; Construction Briefing",
-        "value": "",
-        "status": "ACTIVE"
       }
     ]
   },
@@ -330,6 +388,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-08-23",
+      "file": "reports/daily-lemon-2026-08-23.pdf"
     },
     {
       "date": "2026-08-22",
@@ -442,10 +504,6 @@
     {
       "date": "2026-07-25",
       "file": "reports/daily-lemon-2026-07-25.pdf"
-    },
-    {
-      "date": "2026-07-24",
-      "file": "reports/daily-lemon-2026-07-24.pdf"
     }
   ]
 }
