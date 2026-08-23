@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-23",
-  "timestamp": "Sunday 23 August 2026 — 7:34 AM AEST",
-  "pdf": "reports/daily-lemon-2026-08-23.pdf",
+  "date": "2026-08-24",
+  "timestamp": "Monday 24 August 2026 — 7:35 AM AEST",
+  "pdf": "reports/daily-lemon-2026-08-24.pdf",
   "stats": {
     "leads": 12,
     "priority": 0,
@@ -9,6 +9,36 @@
     "urgent": 0
   },
   "leads": [
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Lithium-ion batteries are reshaping data centers, fire safety must keep pace",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/lithium-ion-batteries-are-reshaping-data-centers-fire-safety-must-keep-pace/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Managing fire in the AI age",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Sponsored: Why speed to power starts before the grid",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/why-speed-to-power-starts-before-the-grid/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Rowan Digital Infrastructure's Patrick Dillow explains how smart site selection, flexible planning, and early utility partnerships pave the way to de-risking hyperscale project timelines",
+      "value": "",
+      "status": "APPROVED"
+    },
     {
       "source": "Data Centre Dynamics",
       "title": "Sponsored: What coolant should you use for data center liquid cooling?",
@@ -158,50 +188,50 @@
       "summary": "How to prioritize power to accelerate your project pipeline",
       "value": "",
       "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "The what, where, and why of high-temperature superconducting feeders in data centers",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-what-where-and-why-of-high-temperature-superconducting-feeders-in-data-centers/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Is HTS starting to make sense for data center operators?",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "STT GDC backs out of planned Vietnam data center project",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/stt-gdc-backs-out-of-planned-vietnam-data-center-project/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "VNG looks to acquire STT GDC's portion of Ho Chi Minh City JV, aims to develop others and other facilities instead",
-      "value": "",
-      "status": "ANNOUNCED"
     }
   ],
   "action_items": [
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
+    "Lithium-ion batteries are reshaping data centers, fire safety must keep pace | ACTIVE — Data Centre Dynamics",
+    "Sponsored: Why speed to power starts before the grid | APPROVED — Data Centre Dynamics",
     "Sponsored: What coolant should you use for data center liquid cooling? | ACTIVE — Data Centre Dynamics",
     "Ignis and Acciona look to build a data center in Segovia, Spain | ACTIVE — Data Centre Dynamics",
-    "Building data centers is getting easier. Building trust is not | ACTIVE — Data Centre Dynamics",
-    "Terronova starts work on 300MW data center campus outside São Paulo, Brazil | ACTIVE — Data Centre Dynamics",
-    "Sponsored: Powering data centers is no longer a simple matter of supply and dema | ACTIVE — Data Centre Dynamics"
+    "Building data centers is getting easier. Building trust is not | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Lithium-ion batteries are reshaping data centers, fire safety must keep pace",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/lithium-ion-batteries-are-reshaping-data-centers-fire-safety-must-keep-pace/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Managing fire in the AI age",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Sponsored: Why speed to power starts before the grid",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/marketwatch/why-speed-to-power-starts-before-the-grid/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Rowan Digital Infrastructure's Patrick Dillow explains how smart site selection, flexible planning, and early utility partnerships pave the way to de-risking hyperscale project timelines",
+        "value": "",
+        "status": "APPROVED"
+      },
       {
         "source": "Data Centre Dynamics",
         "title": "Sponsored: What coolant should you use for data center liquid cooling?",
@@ -351,36 +381,6 @@
         "summary": "How to prioritize power to accelerate your project pipeline",
         "value": "",
         "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "The what, where, and why of high-temperature superconducting feeders in data centers",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/opinions/the-what-where-and-why-of-high-temperature-superconducting-feeders-in-data-centers/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Is HTS starting to make sense for data center operators?",
-        "value": "",
-        "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "STT GDC backs out of planned Vietnam data center project",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/stt-gdc-backs-out-of-planned-vietnam-data-center-project/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "VNG looks to acquire STT GDC's portion of Ho Chi Minh City JV, aims to develop others and other facilities instead",
-        "value": "",
-        "status": "ANNOUNCED"
       }
     ]
   },
@@ -388,6 +388,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-08-24",
+      "file": "reports/daily-lemon-2026-08-24.pdf"
     },
     {
       "date": "2026-08-23",
@@ -500,10 +504,6 @@
     {
       "date": "2026-07-26",
       "file": "reports/daily-lemon-2026-07-26.pdf"
-    },
-    {
-      "date": "2026-07-25",
-      "file": "reports/daily-lemon-2026-07-25.pdf"
     }
   ]
 }
