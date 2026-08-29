@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-29",
-  "timestamp": "Saturday 29 August 2026 — 1:09 PM AEST",
-  "pdf": "reports/daily-lemon-2026-08-29.pdf",
+  "date": "2026-08-30",
+  "timestamp": "Sunday 30 August 2026 — 9:17 AM AEST",
+  "pdf": "reports/daily-lemon-2026-08-30.pdf",
   "stats": {
     "leads": 11,
     "priority": 0,
@@ -9,6 +9,21 @@
     "urgent": 0
   },
   "leads": [
+    {
+      "source": "Data Centre Dynamics",
+      "title": "From pressure to proof: Leading through constraint in the data center era",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/from-pressure-to-proof-leading-through-constraint-in-the-data-center-era/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "And the mindset shift the team needed",
+      "value": "",
+      "status": "ACTIVE"
+    },
     {
       "source": "Data Centre Dynamics",
       "title": "Trump admin considers more semiconductor tariffs, could include data center servers",
@@ -158,35 +173,35 @@
       "summary": "Two new data centers will offer cloud services along with a suite of agent-based AI services for local businesses",
       "value": "",
       "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Warehouses De Pauw announces two data center projects in Ilfov County, Romania",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/warehouses-de-pauw-announces-two-data-center-projects-in-ilfov-county-romania/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "The facilities outside Bucharest will have a combined power demand of 380MW",
-      "value": "",
-      "status": "ACTIVE"
     }
   ],
   "action_items": [
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
+    "From pressure to proof: Leading through constraint in the data center era | ACTIVE — Data Centre Dynamics",
     "Trump admin considers more semiconductor tariffs, could include data center serv | ACTIVE — Data Centre Dynamics",
     "UK Green Party calls for nationwide data center moratorium | ACTIVE — Data Centre Dynamics",
     "ESDS Software Solution targets Rs 720 Crore IPO, will use proceeds to expand dat | ACTIVE — Data Centre Dynamics",
-    "Sponsored: Can today’s fiber infrastructure planning keep pace with tomorrow’s A | APPROVED — Data Centre Dynamics",
-    "Impact of SLA exposure on data center financing and valuation | ACTIVE — Data Centre Dynamics"
+    "Sponsored: Can today’s fiber infrastructure planning keep pace with tomorrow’s A | APPROVED — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
+      {
+        "source": "Data Centre Dynamics",
+        "title": "From pressure to proof: Leading through constraint in the data center era",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/from-pressure-to-proof-leading-through-constraint-in-the-data-center-era/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "And the mindset shift the team needed",
+        "value": "",
+        "status": "ACTIVE"
+      },
       {
         "source": "Data Centre Dynamics",
         "title": "Trump admin considers more semiconductor tariffs, could include data center servers",
@@ -336,21 +351,6 @@
         "summary": "Two new data centers will offer cloud services along with a suite of agent-based AI services for local businesses",
         "value": "",
         "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Warehouses De Pauw announces two data center projects in Ilfov County, Romania",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/warehouses-de-pauw-announces-two-data-center-projects-in-ilfov-county-romania/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "The facilities outside Bucharest will have a combined power demand of 380MW",
-        "value": "",
-        "status": "ACTIVE"
       }
     ]
   },
@@ -358,6 +358,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-08-30",
+      "file": "reports/daily-lemon-2026-08-30.pdf"
     },
     {
       "date": "2026-08-29",
@@ -470,10 +474,6 @@
     {
       "date": "2026-08-01",
       "file": "reports/daily-lemon-2026-08-01.pdf"
-    },
-    {
-      "date": "2026-07-31",
-      "file": "reports/daily-lemon-2026-07-31.pdf"
     }
   ]
 }
