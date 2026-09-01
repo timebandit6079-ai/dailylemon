@@ -1,9 +1,9 @@
 {
-  "date": "2026-09-01",
-  "timestamp": "Tuesday 01 September 2026 — 10:36 AM AEST",
-  "pdf": "reports/daily-lemon-2026-09-01.pdf",
+  "date": "2026-09-02",
+  "timestamp": "Wednesday 02 September 2026 — 9:17 AM AEST",
+  "pdf": "reports/daily-lemon-2026-09-02.pdf",
   "stats": {
-    "leads": 1,
+    "leads": 7,
     "priority": 0,
     "trade": 0,
     "urgent": 0
@@ -11,16 +11,106 @@
   "leads": [
     {
       "source": "Data Centre Dynamics",
-      "title": "From pressure to proof: Leading through constraint in the data center era",
+      "title": "Flying the Flag for subsea connectivity in the AI era",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/opinions/from-pressure-to-proof-leading-through-constraint-in-the-data-center-era/",
+      "url": "https://www.datacenterdynamics.com/en/analysis/flying-the-flag-for-subsea-connectivity-in-the-ai-era/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "And the mindset shift the team needed",
+      "summary": "Flag, the company formerly known as GCX has a new name and is honing in on serving AI data centers",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Exascale Labs partners with EnergyBank on floating wind data center pilot in Norway",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/news/exascale-labs-partners-with-energybank-on-floating-wind-data-center-pilot-in-norway/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Plan to colocate compute at the world's first floating wind installation",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "DayOne partners with TNB to develop up to 1.5GW of onsite generation for planned data center in Selangor, Malaysia",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/news/dayone-partners-with-tnb-to-develop-up-to-15gw-of-onsite-generation-for-planned-data-center-in-selangor-malaysia/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Expected to comprise both generation and battery storage",
+      "value": "",
+      "status": "ANNOUNCED"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Green Mountain secures neocloud customer at data center in London, UK",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/news/green-mountain-secures-neocloud-customer-at-data-center-in-london-uk/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Covers 14MW at the LON-East campus",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "OnZero partners with Helen to connect Helsinki AI data center to district heating network",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/news/onzero-partners-with-helen-to-connect-helsinki-ai-data-center-to-district-heating-network/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Expected to supply the network with up to 525,000MWh of heat annually",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Anthropic signs $35bn cloud agreement with Lambda - report",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/news/anthropic-signs-35bn-cloud-agreement-with-lambda-report/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Will be for data center in Nueces County, Texas",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Sponsored: Central Asia as a new territory for digital infrastructure",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/product-news/central-asia-as-a-new-territory-for-digital-infrastructure/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Kazakhstan’s Akashi project reflects Central Asia’s growing role in the global data center landscape.",
       "value": "",
       "status": "ACTIVE"
     }
@@ -29,22 +119,116 @@
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
-    "From pressure to proof: Leading through constraint in the data center era | ACTIVE — Data Centre Dynamics"
+    "Flying the Flag for subsea connectivity in the AI era | ACTIVE — Data Centre Dynamics",
+    "Exascale Labs partners with EnergyBank on floating wind data center pilot in Nor | ACTIVE — Data Centre Dynamics",
+    "DayOne partners with TNB to develop up to 1.5GW of onsite generation for planned | ANNOUNCED — Data Centre Dynamics",
+    "Green Mountain secures neocloud customer at data center in London, UK | ACTIVE — Data Centre Dynamics",
+    "OnZero partners with Helen to connect Helsinki AI data center to district heatin | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
       {
         "source": "Data Centre Dynamics",
-        "title": "From pressure to proof: Leading through constraint in the data center era",
+        "title": "Flying the Flag for subsea connectivity in the AI era",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/opinions/from-pressure-to-proof-leading-through-constraint-in-the-data-center-era/",
+        "url": "https://www.datacenterdynamics.com/en/analysis/flying-the-flag-for-subsea-connectivity-in-the-ai-era/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "And the mindset shift the team needed",
+        "summary": "Flag, the company formerly known as GCX has a new name and is honing in on serving AI data centers",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Exascale Labs partners with EnergyBank on floating wind data center pilot in Norway",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/news/exascale-labs-partners-with-energybank-on-floating-wind-data-center-pilot-in-norway/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Plan to colocate compute at the world's first floating wind installation",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "DayOne partners with TNB to develop up to 1.5GW of onsite generation for planned data center in Selangor, Malaysia",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/news/dayone-partners-with-tnb-to-develop-up-to-15gw-of-onsite-generation-for-planned-data-center-in-selangor-malaysia/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Expected to comprise both generation and battery storage",
+        "value": "",
+        "status": "ANNOUNCED"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Green Mountain secures neocloud customer at data center in London, UK",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/news/green-mountain-secures-neocloud-customer-at-data-center-in-london-uk/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Covers 14MW at the LON-East campus",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "OnZero partners with Helen to connect Helsinki AI data center to district heating network",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/news/onzero-partners-with-helen-to-connect-helsinki-ai-data-center-to-district-heating-network/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Expected to supply the network with up to 525,000MWh of heat annually",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Anthropic signs $35bn cloud agreement with Lambda - report",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/news/anthropic-signs-35bn-cloud-agreement-with-lambda-report/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Will be for data center in Nueces County, Texas",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Sponsored: Central Asia as a new territory for digital infrastructure",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/product-news/central-asia-as-a-new-territory-for-digital-infrastructure/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Kazakhstan’s Akashi project reflects Central Asia’s growing role in the global data center landscape.",
         "value": "",
         "status": "ACTIVE"
       }
@@ -54,6 +238,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-09-02",
+      "file": "reports/daily-lemon-2026-09-02.pdf"
     },
     {
       "date": "2026-09-01",
@@ -166,10 +354,6 @@
     {
       "date": "2026-08-04",
       "file": "reports/daily-lemon-2026-08-04.pdf"
-    },
-    {
-      "date": "2026-08-03",
-      "file": "reports/daily-lemon-2026-08-03.pdf"
     }
   ]
 }
