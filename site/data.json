@@ -1,9 +1,9 @@
 {
-  "date": "2026-08-31",
-  "timestamp": "Monday 31 August 2026 — 9:28 AM AEST",
-  "pdf": "reports/daily-lemon-2026-08-31.pdf",
+  "date": "2026-09-01",
+  "timestamp": "Tuesday 01 September 2026 — 10:36 AM AEST",
+  "pdf": "reports/daily-lemon-2026-09-01.pdf",
   "stats": {
-    "leads": 11,
+    "leads": 1,
     "priority": 0,
     "trade": 0,
     "urgent": 0
@@ -23,167 +23,13 @@
       "summary": "And the mindset shift the team needed",
       "value": "",
       "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Trump admin considers more semiconductor tariffs, could include data center servers",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/trump-admin-considers-more-semiconductor-tariffs-and-possibly-data-center-servers/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Because it went so well before",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "UK Green Party calls for nationwide data center moratorium",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/uk-green-party-calls-for-nationwide-data-center-moratorium/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Only 'local scale data centers for the local community' would be allowed",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "ESDS Software Solution targets Rs 720 Crore IPO, will use proceeds to expand data center footprint",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/esds-software-solution-targets-rs-720-crore-ipo-will-use-proceeds-to-expand-data-center-footprint/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "IPO launches today, August 28",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Sponsored: Can today’s fiber infrastructure planning keep pace with tomorrow’s AI workload demands?",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/opinions/can-todays-fiber-infrastructure-planning-keep-pace-with-tomorrows-ai-workload-demands/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "One of the prevailing challenges in AI infrastructure is the mismatch between technology and infrastructure cycles.",
-      "value": "",
-      "status": "APPROVED"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Impact of SLA exposure on data center financing and valuation",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/impact-of-sla-exposure-on-data-center-financing-and-valuation/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "How uninsured downtime threatens data center valuations",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "X2M sets up dedicated data center subsidiary and signs a deal for data center project",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/x2m-sets-up-dedicated-data-center-subsidiary-and-signs-a-deal-for-data-center-project/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "As Australian IoT company moves into the data center sphere",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "atNorth signs contract with YIT for additional data center building at campus in Finland",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/atnorth-signs-contract-with-yit-for-additional-data-center-building-at-campus-in-finland/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Value of the contract given to YIT not disclosed",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "New Jersey governor signs law requiring data centers to report energy and water use",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/new-jersey-governor-signs-law-requiring-data-centers-to-report-energy-and-water-use/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Follows new rate class establishment in July",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Digital Realty breaks ground on fourth data center in Zurich, Switzerland",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/digital-realty-breaks-ground-on-fourth-data-center-in-zurich-switzerland/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Company adding 15MW of capacity",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Alibaba Cloud launches its first cloud region in Brazil",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/alibaba-brazil/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Two new data centers will offer cloud services along with a suite of agent-based AI services for local businesses",
-      "value": "",
-      "status": "ACTIVE"
     }
   ],
   "action_items": [
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
-    "From pressure to proof: Leading through constraint in the data center era | ACTIVE — Data Centre Dynamics",
-    "Trump admin considers more semiconductor tariffs, could include data center serv | ACTIVE — Data Centre Dynamics",
-    "UK Green Party calls for nationwide data center moratorium | ACTIVE — Data Centre Dynamics",
-    "ESDS Software Solution targets Rs 720 Crore IPO, will use proceeds to expand dat | ACTIVE — Data Centre Dynamics",
-    "Sponsored: Can today’s fiber infrastructure planning keep pace with tomorrow’s A | APPROVED — Data Centre Dynamics"
+    "From pressure to proof: Leading through constraint in the data center era | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
@@ -201,156 +47,6 @@
         "summary": "And the mindset shift the team needed",
         "value": "",
         "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Trump admin considers more semiconductor tariffs, could include data center servers",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/trump-admin-considers-more-semiconductor-tariffs-and-possibly-data-center-servers/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Because it went so well before",
-        "value": "",
-        "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "UK Green Party calls for nationwide data center moratorium",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/uk-green-party-calls-for-nationwide-data-center-moratorium/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Only 'local scale data centers for the local community' would be allowed",
-        "value": "",
-        "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "ESDS Software Solution targets Rs 720 Crore IPO, will use proceeds to expand data center footprint",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/esds-software-solution-targets-rs-720-crore-ipo-will-use-proceeds-to-expand-data-center-footprint/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "IPO launches today, August 28",
-        "value": "",
-        "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Sponsored: Can today’s fiber infrastructure planning keep pace with tomorrow’s AI workload demands?",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/opinions/can-todays-fiber-infrastructure-planning-keep-pace-with-tomorrows-ai-workload-demands/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "One of the prevailing challenges in AI infrastructure is the mismatch between technology and infrastructure cycles.",
-        "value": "",
-        "status": "APPROVED"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Impact of SLA exposure on data center financing and valuation",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/whitepapers/impact-of-sla-exposure-on-data-center-financing-and-valuation/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "How uninsured downtime threatens data center valuations",
-        "value": "",
-        "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "X2M sets up dedicated data center subsidiary and signs a deal for data center project",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/x2m-sets-up-dedicated-data-center-subsidiary-and-signs-a-deal-for-data-center-project/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "As Australian IoT company moves into the data center sphere",
-        "value": "",
-        "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "atNorth signs contract with YIT for additional data center building at campus in Finland",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/atnorth-signs-contract-with-yit-for-additional-data-center-building-at-campus-in-finland/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Value of the contract given to YIT not disclosed",
-        "value": "",
-        "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "New Jersey governor signs law requiring data centers to report energy and water use",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/new-jersey-governor-signs-law-requiring-data-centers-to-report-energy-and-water-use/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Follows new rate class establishment in July",
-        "value": "",
-        "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Digital Realty breaks ground on fourth data center in Zurich, Switzerland",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/digital-realty-breaks-ground-on-fourth-data-center-in-zurich-switzerland/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Company adding 15MW of capacity",
-        "value": "",
-        "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Alibaba Cloud launches its first cloud region in Brazil",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/alibaba-brazil/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Two new data centers will offer cloud services along with a suite of agent-based AI services for local businesses",
-        "value": "",
-        "status": "ACTIVE"
       }
     ]
   },
@@ -358,6 +54,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-09-01",
+      "file": "reports/daily-lemon-2026-09-01.pdf"
     },
     {
       "date": "2026-08-31",
@@ -470,10 +170,6 @@
     {
       "date": "2026-08-03",
       "file": "reports/daily-lemon-2026-08-03.pdf"
-    },
-    {
-      "date": "2026-08-02",
-      "file": "reports/daily-lemon-2026-08-02.pdf"
     }
   ]
 }
