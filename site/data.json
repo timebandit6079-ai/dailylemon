@@ -1,9 +1,9 @@
 {
-  "date": "2026-09-04",
-  "timestamp": "Friday 04 September 2026 — 9:16 AM AEST",
-  "pdf": "reports/daily-lemon-2026-09-04.pdf",
+  "date": "2026-09-05",
+  "timestamp": "Saturday 05 September 2026 — 9:02 AM AEST",
+  "pdf": "reports/daily-lemon-2026-09-05.pdf",
   "stats": {
-    "leads": 8,
+    "leads": 5,
     "priority": 0,
     "trade": 0,
     "urgent": 0
@@ -11,121 +11,76 @@
   "leads": [
     {
       "source": "Data Centre Dynamics",
-      "title": "GoPro to enter AI data center market via merger with optical photonics company",
+      "title": "T5 spins out construction arm, sells operations biz to Salute",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/gopro-to-enter-ai-data-center-market-via-merger-with-optical-photonics-company/",
-      "state": "ACT",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Company has entered into a merger agreement with Action Acquisitions and Starman Optical",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "California lawmakers pass data center ratepayer protection bills, send to governor for approval",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/california-lawmakers-pass-data-center-ratepayer-protection-bills-send-to-governor-for-approval/",
+      "url": "https://www.datacenterdynamics.com/en/news/t5-spins-out-construction-arm-sells-operations-biz-to-salute/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "If passed, the legislation would create separate electricity tariffs for large data centers",
+      "summary": "T5 Construction now EverOn Data Center Services",
       "value": "",
       "status": "ACTIVE"
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "Hyperscale Data ends cryptomining operations at Michigan data center",
+      "title": "PLDT's Vitro REIT signs SG.GS as colocation customer in the Philippines",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/hyperscale-data-ends-cryptomining-operations-at-michigan-data-center/",
+      "url": "https://www.datacenterdynamics.com/en/news/pldts-vitro-reit-signs-sggs-as-colocation-customer-in-the-philippines/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "In preparation for incoming neocloud customer",
+      "summary": "SG.GS will deploy networking systems across Vitro’s carrier-neutral facilities",
       "value": "",
       "status": "ACTIVE"
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "Equinix, Together AI, Nvidia partner on Inference Exchange",
+      "title": "Flex acquires data center power conversion manufacturer EPC Power in $4.4bn deal",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/equinix-together-ai-nvidia-partner-on-inference-exchange/",
+      "url": "https://www.datacenterdynamics.com/en/news/flex-acquires-data-center-power-conversion-manufacturer-epc-power-in-44bn-deal/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "Aims to give enterprises access to secure, low-latency AI inferencing",
+      "summary": "EPC is a developer of 800V data center power architectures",
       "value": "",
       "status": "ACTIVE"
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "DataVita files for third data center at campus in North Lanarkshire, Scotland",
+      "title": "Meta's $1.2bn data center in Kuna, Idaho, goes live",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/datavita-files-for-third-data-center-at-campus-in-north-lanarkshire-scotland/",
+      "url": "https://www.datacenterdynamics.com/en/news/metas-12bn-data-center-in-kuna-idaho-goes-live/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "Company says it has revised plans after consultation with residents",
+      "summary": "Facility is the company's second AI-optimized data center",
       "value": "",
       "status": "ACTIVE"
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "Tersis Technologies partners with Flux Core to pair waste-to-energy generation with decentralized data centers",
+      "title": "Sponsored: Faster asset audits and interventions",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/tersis-technologies-partners-with-flux-core-to-pair-waste-to-energy-generation-with-decentralized-data-centers/",
+      "url": "https://www.datacenterdynamics.com/en/opinions/faster-asset-audits-and-interventions/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "Pair ink non-binding MoU",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Sponsored: New nanofluid delivers measurable improvements in data center cooling tests",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/opinions/new-nanofluid-delivers-measurable-improvements-in-data-center-cooling-tests/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "As rack power densities continue to increase across hyperscale, neocloud, and enterprise data centers, operators are under growing pressure to improve cooling performance while reducing energy consumption",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Firmus proposes third data center project in Tasmania",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/firmus-proposes-third-data-center-project-in-tasmania/",
-      "state": "TAS",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Seeks to develop 52MW data center in Wesley Vale",
+      "summary": "Many data centers are increasing asset density to support growing demand for computational power, driven by AI and Internet of Things-applications. How are data centers managing all these physical assets?",
       "value": "",
       "status": "ACTIVE"
     }
@@ -134,135 +89,86 @@
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
-    "GoPro to enter AI data center market via merger with optical photonics company | ACTIVE — Data Centre Dynamics",
-    "California lawmakers pass data center ratepayer protection bills, send to govern | ACTIVE — Data Centre Dynamics",
-    "Hyperscale Data ends cryptomining operations at Michigan data center | ACTIVE — Data Centre Dynamics",
-    "Equinix, Together AI, Nvidia partner on Inference Exchange | ACTIVE — Data Centre Dynamics",
-    "DataVita files for third data center at campus in North Lanarkshire, Scotland | ACTIVE — Data Centre Dynamics"
+    "T5 spins out construction arm, sells operations biz to Salute | ACTIVE — Data Centre Dynamics",
+    "PLDT's Vitro REIT signs SG.GS as colocation customer in the Philippines | ACTIVE — Data Centre Dynamics",
+    "Flex acquires data center power conversion manufacturer EPC Power in $4.4bn deal | ACTIVE — Data Centre Dynamics",
+    "Meta's $1.2bn data center in Kuna, Idaho, goes live | ACTIVE — Data Centre Dynamics",
+    "Sponsored: Faster asset audits and interventions | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
-    "ACT": [
-      {
-        "source": "Data Centre Dynamics",
-        "title": "GoPro to enter AI data center market via merger with optical photonics company",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/gopro-to-enter-ai-data-center-market-via-merger-with-optical-photonics-company/",
-        "state": "ACT",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Company has entered into a merger agreement with Action Acquisitions and Starman Optical",
-        "value": "",
-        "status": "ACTIVE"
-      }
-    ],
     "AU": [
       {
         "source": "Data Centre Dynamics",
-        "title": "California lawmakers pass data center ratepayer protection bills, send to governor for approval",
+        "title": "T5 spins out construction arm, sells operations biz to Salute",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/california-lawmakers-pass-data-center-ratepayer-protection-bills-send-to-governor-for-approval/",
+        "url": "https://www.datacenterdynamics.com/en/news/t5-spins-out-construction-arm-sells-operations-biz-to-salute/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "If passed, the legislation would create separate electricity tariffs for large data centers",
+        "summary": "T5 Construction now EverOn Data Center Services",
         "value": "",
         "status": "ACTIVE"
       },
       {
         "source": "Data Centre Dynamics",
-        "title": "Hyperscale Data ends cryptomining operations at Michigan data center",
+        "title": "PLDT's Vitro REIT signs SG.GS as colocation customer in the Philippines",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/hyperscale-data-ends-cryptomining-operations-at-michigan-data-center/",
+        "url": "https://www.datacenterdynamics.com/en/news/pldts-vitro-reit-signs-sggs-as-colocation-customer-in-the-philippines/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "In preparation for incoming neocloud customer",
+        "summary": "SG.GS will deploy networking systems across Vitro’s carrier-neutral facilities",
         "value": "",
         "status": "ACTIVE"
       },
       {
         "source": "Data Centre Dynamics",
-        "title": "Equinix, Together AI, Nvidia partner on Inference Exchange",
+        "title": "Flex acquires data center power conversion manufacturer EPC Power in $4.4bn deal",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/equinix-together-ai-nvidia-partner-on-inference-exchange/",
+        "url": "https://www.datacenterdynamics.com/en/news/flex-acquires-data-center-power-conversion-manufacturer-epc-power-in-44bn-deal/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "Aims to give enterprises access to secure, low-latency AI inferencing",
+        "summary": "EPC is a developer of 800V data center power architectures",
         "value": "",
         "status": "ACTIVE"
       },
       {
         "source": "Data Centre Dynamics",
-        "title": "DataVita files for third data center at campus in North Lanarkshire, Scotland",
+        "title": "Meta's $1.2bn data center in Kuna, Idaho, goes live",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/datavita-files-for-third-data-center-at-campus-in-north-lanarkshire-scotland/",
+        "url": "https://www.datacenterdynamics.com/en/news/metas-12bn-data-center-in-kuna-idaho-goes-live/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "Company says it has revised plans after consultation with residents",
+        "summary": "Facility is the company's second AI-optimized data center",
         "value": "",
         "status": "ACTIVE"
       },
       {
         "source": "Data Centre Dynamics",
-        "title": "Tersis Technologies partners with Flux Core to pair waste-to-energy generation with decentralized data centers",
+        "title": "Sponsored: Faster asset audits and interventions",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/tersis-technologies-partners-with-flux-core-to-pair-waste-to-energy-generation-with-decentralized-data-centers/",
+        "url": "https://www.datacenterdynamics.com/en/opinions/faster-asset-audits-and-interventions/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "Pair ink non-binding MoU",
-        "value": "",
-        "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Sponsored: New nanofluid delivers measurable improvements in data center cooling tests",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/opinions/new-nanofluid-delivers-measurable-improvements-in-data-center-cooling-tests/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "As rack power densities continue to increase across hyperscale, neocloud, and enterprise data centers, operators are under growing pressure to improve cooling performance while reducing energy consumption",
-        "value": "",
-        "status": "ACTIVE"
-      }
-    ],
-    "TAS": [
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Firmus proposes third data center project in Tasmania",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/firmus-proposes-third-data-center-project-in-tasmania/",
-        "state": "TAS",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Seeks to develop 52MW data center in Wesley Vale",
+        "summary": "Many data centers are increasing asset density to support growing demand for computational power, driven by AI and Internet of Things-applications. How are data centers managing all these physical assets?",
         "value": "",
         "status": "ACTIVE"
       }
@@ -272,6 +178,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-09-05",
+      "file": "reports/daily-lemon-2026-09-05.pdf"
     },
     {
       "date": "2026-09-04",
@@ -384,10 +294,6 @@
     {
       "date": "2026-08-08",
       "file": "reports/daily-lemon-2026-08-08.pdf"
-    },
-    {
-      "date": "2026-08-07",
-      "file": "reports/daily-lemon-2026-08-07.pdf"
     }
   ]
 }
