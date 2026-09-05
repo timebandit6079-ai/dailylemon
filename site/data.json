@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-05",
-  "timestamp": "Saturday 05 September 2026 — 9:02 AM AEST",
-  "pdf": "reports/daily-lemon-2026-09-05.pdf",
+  "date": "2026-09-06",
+  "timestamp": "Sunday 06 September 2026 — 8:53 AM AEST",
+  "pdf": "reports/daily-lemon-2026-09-06.pdf",
   "stats": {
     "leads": 5,
     "priority": 0,
@@ -9,6 +9,21 @@
     "urgent": 0
   },
   "leads": [
+    {
+      "source": "Data Centre Dynamics",
+      "title": "The role of manufacturing in tomorrow’s data center buildouts",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-role-of-manufacturing-in-tomorrows-data-center-buildouts/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Procurement infrastructure that hasn't scaled alongside the investment driving it",
+      "value": "",
+      "status": "FITOUT PACKAGES ACTIVE"
+    },
     {
       "source": "Data Centre Dynamics",
       "title": "T5 spins out construction arm, sells operations biz to Salute",
@@ -68,35 +83,35 @@
       "summary": "Facility is the company's second AI-optimized data center",
       "value": "",
       "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Sponsored: Faster asset audits and interventions",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/opinions/faster-asset-audits-and-interventions/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Many data centers are increasing asset density to support growing demand for computational power, driven by AI and Internet of Things-applications. How are data centers managing all these physical assets?",
-      "value": "",
-      "status": "ACTIVE"
     }
   ],
   "action_items": [
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
+    "The role of manufacturing in tomorrow’s data center buildouts | FITOUT PACKAGES ACTIVE — Data Centre Dynamics",
     "T5 spins out construction arm, sells operations biz to Salute | ACTIVE — Data Centre Dynamics",
     "PLDT's Vitro REIT signs SG.GS as colocation customer in the Philippines | ACTIVE — Data Centre Dynamics",
     "Flex acquires data center power conversion manufacturer EPC Power in $4.4bn deal | ACTIVE — Data Centre Dynamics",
-    "Meta's $1.2bn data center in Kuna, Idaho, goes live | ACTIVE — Data Centre Dynamics",
-    "Sponsored: Faster asset audits and interventions | ACTIVE — Data Centre Dynamics"
+    "Meta's $1.2bn data center in Kuna, Idaho, goes live | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
+      {
+        "source": "Data Centre Dynamics",
+        "title": "The role of manufacturing in tomorrow’s data center buildouts",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/the-role-of-manufacturing-in-tomorrows-data-center-buildouts/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Procurement infrastructure that hasn't scaled alongside the investment driving it",
+        "value": "",
+        "status": "FITOUT PACKAGES ACTIVE"
+      },
       {
         "source": "Data Centre Dynamics",
         "title": "T5 spins out construction arm, sells operations biz to Salute",
@@ -156,21 +171,6 @@
         "summary": "Facility is the company's second AI-optimized data center",
         "value": "",
         "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Sponsored: Faster asset audits and interventions",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/opinions/faster-asset-audits-and-interventions/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Many data centers are increasing asset density to support growing demand for computational power, driven by AI and Internet of Things-applications. How are data centers managing all these physical assets?",
-        "value": "",
-        "status": "ACTIVE"
       }
     ]
   },
@@ -178,6 +178,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-09-06",
+      "file": "reports/daily-lemon-2026-09-06.pdf"
     },
     {
       "date": "2026-09-05",
@@ -290,10 +294,6 @@
     {
       "date": "2026-08-09",
       "file": "reports/daily-lemon-2026-08-09.pdf"
-    },
-    {
-      "date": "2026-08-08",
-      "file": "reports/daily-lemon-2026-08-08.pdf"
     }
   ]
 }
