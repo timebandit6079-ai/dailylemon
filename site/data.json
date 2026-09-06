@@ -1,14 +1,44 @@
 {
-  "date": "2026-09-06",
-  "timestamp": "Sunday 06 September 2026 — 8:53 AM AEST",
-  "pdf": "reports/daily-lemon-2026-09-06.pdf",
+  "date": "2026-09-07",
+  "timestamp": "Monday 07 September 2026 — 8:53 AM AEST",
+  "pdf": "reports/daily-lemon-2026-09-07.pdf",
   "stats": {
-    "leads": 5,
+    "leads": 7,
     "priority": 0,
     "trade": 0,
     "urgent": 0
   },
   "leads": [
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Why data center cooling is now business-critical",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/why-data-center-cooling-is-now-business-critical/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Rapid growth of data centers forces operators to rethink thermal fluid management",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "The electrical power problem that will decide the AI race",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-electrical-power-problem-that-will-decide-the-ai-race/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "America’s data centers are about to draw power on the scale of entire nations",
+      "value": "",
+      "status": "ACTIVE"
+    },
     {
       "source": "Data Centre Dynamics",
       "title": "The role of manufacturing in tomorrow’s data center buildouts",
@@ -89,14 +119,44 @@
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
+    "Why data center cooling is now business-critical | ACTIVE — Data Centre Dynamics",
+    "The electrical power problem that will decide the AI race | ACTIVE — Data Centre Dynamics",
     "The role of manufacturing in tomorrow’s data center buildouts | FITOUT PACKAGES ACTIVE — Data Centre Dynamics",
     "T5 spins out construction arm, sells operations biz to Salute | ACTIVE — Data Centre Dynamics",
-    "PLDT's Vitro REIT signs SG.GS as colocation customer in the Philippines | ACTIVE — Data Centre Dynamics",
-    "Flex acquires data center power conversion manufacturer EPC Power in $4.4bn deal | ACTIVE — Data Centre Dynamics",
-    "Meta's $1.2bn data center in Kuna, Idaho, goes live | ACTIVE — Data Centre Dynamics"
+    "PLDT's Vitro REIT signs SG.GS as colocation customer in the Philippines | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Why data center cooling is now business-critical",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/why-data-center-cooling-is-now-business-critical/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Rapid growth of data centers forces operators to rethink thermal fluid management",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "The electrical power problem that will decide the AI race",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/the-electrical-power-problem-that-will-decide-the-ai-race/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "America’s data centers are about to draw power on the scale of entire nations",
+        "value": "",
+        "status": "ACTIVE"
+      },
       {
         "source": "Data Centre Dynamics",
         "title": "The role of manufacturing in tomorrow’s data center buildouts",
@@ -178,6 +238,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-09-07",
+      "file": "reports/daily-lemon-2026-09-07.pdf"
     },
     {
       "date": "2026-09-06",
@@ -290,10 +354,6 @@
     {
       "date": "2026-08-10",
       "file": "reports/daily-lemon-2026-08-10.pdf"
-    },
-    {
-      "date": "2026-08-09",
-      "file": "reports/daily-lemon-2026-08-09.pdf"
     }
   ]
 }
