@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-11",
-  "timestamp": "Friday 11 September 2026 — 9:09 AM AEST",
-  "pdf": "reports/daily-lemon-2026-09-11.pdf",
+  "date": "2026-09-12",
+  "timestamp": "Saturday 12 September 2026 — 9:15 AM AEST",
+  "pdf": "reports/daily-lemon-2026-09-12.pdf",
   "stats": {
     "leads": 5,
     "priority": 0,
@@ -11,166 +11,166 @@
   "leads": [
     {
       "source": "Data Centre Dynamics",
-      "title": "Sponsored: The hidden capacity inside aging data centers: Uncovering performance, capacity, and capital through efficiency",
+      "title": "Plans for 120MW data center withdrawn in Lombardy, Italy",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-hidden-capacity-inside-aging-data-centers-uncovering-performance-capacity-and-capital-through-efficiency/",
+      "url": "https://www.datacenterdynamics.com/en/news/plans-for-120mw-data-center-withdrawn-in-lombardy-italy/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "In a world where power has become the ultimate currency, you can no longer afford to waste it",
+      "summary": "Mayor says municipality never received data needed for the grid connection",
       "value": "",
       "status": "ACTIVE"
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "Cryptominer BTC Digital could build AI data center in Vietnam",
+      "title": "Orbital partners with Reflex Aerospace for space data center constellation",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/cryptominer-btc-digital-could-build-ai-data-center-in-vietnam/",
+      "url": "https://www.datacenterdynamics.com/en/news/orbital-partners-with-reflex-aerospace-for-space-data-center-constellation/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "Signs MoU with local developer",
+      "summary": "Experienced German developer finds its first US customer, promises it technology exclusively",
       "value": "",
       "status": "ACTIVE"
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "Film studio turned data center project gets approval in High Wycombe, UK",
+      "title": "Former Digital Realty and Equinix executive named CEO of Anthropic-backed Theseus Infrastructure",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/film-studio-turned-data-center-project-gets-approval-in-high-wycombe-uk/",
+      "url": "https://www.datacenterdynamics.com/en/news/former-digital-realty-and-equinix-executive-named-ceo-of-anthropic-backed-theseus-infrastructure/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "Passes planning permission, subject to conditions",
-      "value": "",
-      "status": "APPROVED"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Nvidia partners with Aussie companies to bring 2GW online by 2027",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-partners-with-aussie-companies-to-bring-2gw-online-by-2027/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Chip designer teams up with cloud providers and data center operators in Australia",
+      "summary": "Krupal Raval joins from CyrusOne",
       "value": "",
       "status": "ACTIVE"
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "S+B Gruppe to build data center in Bucharest, Romania",
+      "title": "Microsoft targets 38GW of data center capacity in 2032 - report",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/sb-gruppe-to-build-data-center-in-bucharest-romania/",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-targets-38gw-of-data-center-capacity-in-2032-report/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "The 12MW facility has secured planning permission from the municipal authorities",
+      "summary": "Currently operates ~12GW",
       "value": "",
-      "status": "APPROVED"
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Amid data center public backlash, Yvette Eden Ruiz joins OpenAI’s Community Engagement team from JPMorgan",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/news/amid-data-center-public-backlash-yvette-eden-ruiz-joins-openais-community-engagement-team-from-jpmorgan/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "As data centers become an issue for the midterms, OpenAI looks to change the message",
+      "value": "",
+      "status": "ACTIVE"
     }
   ],
   "action_items": [
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
-    "Sponsored: The hidden capacity inside aging data centers: Uncovering performance | ACTIVE — Data Centre Dynamics",
-    "Cryptominer BTC Digital could build AI data center in Vietnam | ACTIVE — Data Centre Dynamics",
-    "Film studio turned data center project gets approval in High Wycombe, UK | APPROVED — Data Centre Dynamics",
-    "Nvidia partners with Aussie companies to bring 2GW online by 2027 | ACTIVE — Data Centre Dynamics",
-    "S+B Gruppe to build data center in Bucharest, Romania | APPROVED — Data Centre Dynamics"
+    "Plans for 120MW data center withdrawn in Lombardy, Italy | ACTIVE — Data Centre Dynamics",
+    "Orbital partners with Reflex Aerospace for space data center constellation | ACTIVE — Data Centre Dynamics",
+    "Former Digital Realty and Equinix executive named CEO of Anthropic-backed Theseu | ACTIVE — Data Centre Dynamics",
+    "Microsoft targets 38GW of data center capacity in 2032 - report | ACTIVE — Data Centre Dynamics",
+    "Amid data center public backlash, Yvette Eden Ruiz joins OpenAI’s Community Enga | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
       {
         "source": "Data Centre Dynamics",
-        "title": "Sponsored: The hidden capacity inside aging data centers: Uncovering performance, capacity, and capital through efficiency",
+        "title": "Plans for 120MW data center withdrawn in Lombardy, Italy",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/opinions/the-hidden-capacity-inside-aging-data-centers-uncovering-performance-capacity-and-capital-through-efficiency/",
+        "url": "https://www.datacenterdynamics.com/en/news/plans-for-120mw-data-center-withdrawn-in-lombardy-italy/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "In a world where power has become the ultimate currency, you can no longer afford to waste it",
+        "summary": "Mayor says municipality never received data needed for the grid connection",
         "value": "",
         "status": "ACTIVE"
       },
       {
         "source": "Data Centre Dynamics",
-        "title": "Cryptominer BTC Digital could build AI data center in Vietnam",
+        "title": "Orbital partners with Reflex Aerospace for space data center constellation",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/cryptominer-btc-digital-could-build-ai-data-center-in-vietnam/",
+        "url": "https://www.datacenterdynamics.com/en/news/orbital-partners-with-reflex-aerospace-for-space-data-center-constellation/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "Signs MoU with local developer",
+        "summary": "Experienced German developer finds its first US customer, promises it technology exclusively",
         "value": "",
         "status": "ACTIVE"
       },
       {
         "source": "Data Centre Dynamics",
-        "title": "Film studio turned data center project gets approval in High Wycombe, UK",
+        "title": "Former Digital Realty and Equinix executive named CEO of Anthropic-backed Theseus Infrastructure",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/film-studio-turned-data-center-project-gets-approval-in-high-wycombe-uk/",
+        "url": "https://www.datacenterdynamics.com/en/news/former-digital-realty-and-equinix-executive-named-ceo-of-anthropic-backed-theseus-infrastructure/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "Passes planning permission, subject to conditions",
-        "value": "",
-        "status": "APPROVED"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Nvidia partners with Aussie companies to bring 2GW online by 2027",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/nvidia-partners-with-aussie-companies-to-bring-2gw-online-by-2027/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Chip designer teams up with cloud providers and data center operators in Australia",
+        "summary": "Krupal Raval joins from CyrusOne",
         "value": "",
         "status": "ACTIVE"
       },
       {
         "source": "Data Centre Dynamics",
-        "title": "S+B Gruppe to build data center in Bucharest, Romania",
+        "title": "Microsoft targets 38GW of data center capacity in 2032 - report",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/sb-gruppe-to-build-data-center-in-bucharest-romania/",
+        "url": "https://www.datacenterdynamics.com/en/news/microsoft-targets-38gw-of-data-center-capacity-in-2032-report/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "The 12MW facility has secured planning permission from the municipal authorities",
+        "summary": "Currently operates ~12GW",
         "value": "",
-        "status": "APPROVED"
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Amid data center public backlash, Yvette Eden Ruiz joins OpenAI’s Community Engagement team from JPMorgan",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/news/amid-data-center-public-backlash-yvette-eden-ruiz-joins-openais-community-engagement-team-from-jpmorgan/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "As data centers become an issue for the midterms, OpenAI looks to change the message",
+        "value": "",
+        "status": "ACTIVE"
       }
     ]
   },
@@ -178,6 +178,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-09-12",
+      "file": "reports/daily-lemon-2026-09-12.pdf"
     },
     {
       "date": "2026-09-11",
@@ -290,10 +294,6 @@
     {
       "date": "2026-08-15",
       "file": "reports/daily-lemon-2026-08-15.pdf"
-    },
-    {
-      "date": "2026-08-14",
-      "file": "reports/daily-lemon-2026-08-14.pdf"
     }
   ]
 }
