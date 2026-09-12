@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-12",
-  "timestamp": "Saturday 12 September 2026 — 9:15 AM AEST",
-  "pdf": "reports/daily-lemon-2026-09-12.pdf",
+  "date": "2026-09-13",
+  "timestamp": "Sunday 13 September 2026 — 9:02 AM AEST",
+  "pdf": "reports/daily-lemon-2026-09-13.pdf",
   "stats": {
     "leads": 5,
     "priority": 0,
@@ -9,6 +9,21 @@
     "urgent": 0
   },
   "leads": [
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Sponsored: Making data centers ready for AI workloads with rack-level cooling",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/making-data-centers-ready-for-ai-workloads-with-rack-level-cooling/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "As AI matures and scales, organizations must decide: Where will these high-density workloads run?",
+      "value": "",
+      "status": "ACTIVE"
+    },
     {
       "source": "Data Centre Dynamics",
       "title": "Plans for 120MW data center withdrawn in Lombardy, Italy",
@@ -68,35 +83,35 @@
       "summary": "Currently operates ~12GW",
       "value": "",
       "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Amid data center public backlash, Yvette Eden Ruiz joins OpenAI’s Community Engagement team from JPMorgan",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/amid-data-center-public-backlash-yvette-eden-ruiz-joins-openais-community-engagement-team-from-jpmorgan/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "As data centers become an issue for the midterms, OpenAI looks to change the message",
-      "value": "",
-      "status": "ACTIVE"
     }
   ],
   "action_items": [
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
+    "Sponsored: Making data centers ready for AI workloads with rack-level cooling | ACTIVE — Data Centre Dynamics",
     "Plans for 120MW data center withdrawn in Lombardy, Italy | ACTIVE — Data Centre Dynamics",
     "Orbital partners with Reflex Aerospace for space data center constellation | ACTIVE — Data Centre Dynamics",
     "Former Digital Realty and Equinix executive named CEO of Anthropic-backed Theseu | ACTIVE — Data Centre Dynamics",
-    "Microsoft targets 38GW of data center capacity in 2032 - report | ACTIVE — Data Centre Dynamics",
-    "Amid data center public backlash, Yvette Eden Ruiz joins OpenAI’s Community Enga | ACTIVE — Data Centre Dynamics"
+    "Microsoft targets 38GW of data center capacity in 2032 - report | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Sponsored: Making data centers ready for AI workloads with rack-level cooling",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/making-data-centers-ready-for-ai-workloads-with-rack-level-cooling/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "As AI matures and scales, organizations must decide: Where will these high-density workloads run?",
+        "value": "",
+        "status": "ACTIVE"
+      },
       {
         "source": "Data Centre Dynamics",
         "title": "Plans for 120MW data center withdrawn in Lombardy, Italy",
@@ -156,21 +171,6 @@
         "summary": "Currently operates ~12GW",
         "value": "",
         "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Amid data center public backlash, Yvette Eden Ruiz joins OpenAI’s Community Engagement team from JPMorgan",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/amid-data-center-public-backlash-yvette-eden-ruiz-joins-openais-community-engagement-team-from-jpmorgan/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "As data centers become an issue for the midterms, OpenAI looks to change the message",
-        "value": "",
-        "status": "ACTIVE"
       }
     ]
   },
@@ -178,6 +178,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-09-13",
+      "file": "reports/daily-lemon-2026-09-13.pdf"
     },
     {
       "date": "2026-09-12",
@@ -290,10 +294,6 @@
     {
       "date": "2026-08-16",
       "file": "reports/daily-lemon-2026-08-16.pdf"
-    },
-    {
-      "date": "2026-08-15",
-      "file": "reports/daily-lemon-2026-08-15.pdf"
     }
   ]
 }
