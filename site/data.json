@@ -1,9 +1,9 @@
 {
-  "date": "2026-09-20",
-  "timestamp": "Sunday 20 September 2026 — 9:02 AM AEST",
-  "pdf": "reports/daily-lemon-2026-09-20.pdf",
+  "date": "2026-09-21",
+  "timestamp": "Monday 21 September 2026 — 9:14 AM AEST",
+  "pdf": "reports/daily-lemon-2026-09-21.pdf",
   "stats": {
-    "leads": 10,
+    "leads": 9,
     "priority": 0,
     "trade": 0,
     "urgent": 0
@@ -141,21 +141,6 @@
       "trade_match": false,
       "priority": null,
       "summary": "The pilot project will utilize gas from a depleted field in the Yamalo-Nenets Autonomous Okrug region",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Russia claims strikes on De Novo data center in Kyiv, Ukraine",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/russia-claims-strikes-on-de-novo-data-center-in-kyiv-ukraine/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Strikes were part of a wider infrastructure attack",
       "value": "",
       "status": "ACTIVE"
     }
@@ -306,21 +291,6 @@
         "summary": "The pilot project will utilize gas from a depleted field in the Yamalo-Nenets Autonomous Okrug region",
         "value": "",
         "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Russia claims strikes on De Novo data center in Kyiv, Ukraine",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/russia-claims-strikes-on-de-novo-data-center-in-kyiv-ukraine/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Strikes were part of a wider infrastructure attack",
-        "value": "",
-        "status": "ACTIVE"
       }
     ]
   },
@@ -328,6 +298,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-09-21",
+      "file": "reports/daily-lemon-2026-09-21.pdf"
     },
     {
       "date": "2026-09-20",
@@ -440,10 +414,6 @@
     {
       "date": "2026-08-24",
       "file": "reports/daily-lemon-2026-08-24.pdf"
-    },
-    {
-      "date": "2026-08-23",
-      "file": "reports/daily-lemon-2026-08-23.pdf"
     }
   ]
 }
