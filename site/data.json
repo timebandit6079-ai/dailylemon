@@ -1,14 +1,29 @@
 {
-  "date": "2026-09-23",
-  "timestamp": "Wednesday 23 September 2026 — 9:36 AM AEST",
-  "pdf": "reports/daily-lemon-2026-09-23.pdf",
+  "date": "2026-09-24",
+  "timestamp": "Thursday 24 September 2026 — 9:40 AM AEST",
+  "pdf": "reports/daily-lemon-2026-09-24.pdf",
   "stats": {
-    "leads": 7,
+    "leads": 6,
     "priority": 0,
     "trade": 0,
     "urgent": 0
   },
   "leads": [
+    {
+      "source": "Google News",
+      "title": "Residents near huge data centre demand financial compensation - ABC News & Headlines – Australian Broadcasting Corporation",
+      "agency": "Google News",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGpGcW9janFpZE9Jbl9nQld2VVhlUThkdXNvaHNURGFaalZJbkFjUlBFTVo5NzYxVHpmdEJUVGNMWlhsSnkwSmJpYW5XR09PdUk3M0Zad3RZM0JlLWw0MFc5NmtJazFtSFl1SExUaTM2bEpfY1FsTFE1UG9sQ0gtZU5ZWVRJSXNObEkzdGdTUnJ0OUJRdG1ISlFDVnZBbVhweVVid1pIVVdjSUZG?oc=5",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Residents near huge data centre demand financial compensation &nbsp;&nbsp; ABC News & Headlines – Australian Broadcasting Corporation",
+      "value": "",
+      "status": "ACTIVE"
+    },
     {
       "source": "Google News",
       "title": "Beyond the Data Hall: The Economic Contribution of the Data Centre Industry in Australia - NEXTDC",
@@ -26,91 +41,61 @@
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "BDx breaks ground on AI Campus 2 in Jatiluhur, Indonesia",
+      "title": "The renewable energy deal that looks cheap on paper can leave data centers most exposed",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/bdx-breaks-ground-on-ai-campus-2-in-jatiluhur-indonesia/",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-renewable-energy-deal-that-looks-cheap-on-paper-can-leave-data-centers-most-exposed/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "The first 120MW building is set to go live in early 2027",
+      "summary": "New analysis shows the best-matched clean power portfolio is also the strongest hedge against price shocks",
       "value": "",
       "status": "ACTIVE"
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "Plans progress for 200MW data center in Schladen-Werla, Germany",
+      "title": "California governor signs seven-bill package targeting data center energy and water use",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/plans-progress-for-200mw-data-center-in-schladen-werla-germany/",
+      "url": "https://www.datacenterdynamics.com/en/news/california-governor-signs-seven-bill-package-targeting-data-center-energy-and-water-use/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "The project is being spearheaded by Green Datacenter Development",
+      "summary": "Seeks to shield ratepayers from bearing the cost associated with data center buildout",
       "value": "",
       "status": "ACTIVE"
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "Polcom to build 40MW data center in Skawina, Poland",
+      "title": "OpenAI and Anthropic seek 20-30MW data center deployments",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/polcom-to-build-40mw-data-center-in-skawina-poland/",
+      "url": "https://www.datacenterdynamics.com/en/news/openai-and-anthropic-seek-20-30mw-data-center-deployments/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "The facility will be the cloud services firm’s second in the town",
+      "summary": "As companies ramp up inference footprint",
       "value": "",
       "status": "ACTIVE"
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "New Era signs 20-year gas PPA with Vistra subsidiary to power 250MW data center in Ector County, Texas",
+      "title": "Zeo Energy and Ewyze partner on off-grid power solutions for US data center sector",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/new-era-signs-20-year-gas-ppa-with-vistra-subsidiary-to-power-250mw-data-center-in-ector-county-texas/",
+      "url": "https://www.datacenterdynamics.com/en/news/zeo-energy-and-ewyze-partner-on-off-grid-power-solutions-for-us-data-center-sector/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "Powered via an adjacent natural gas plant in Odessa, Texas",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Lithography firm Morphotonics targets data center optical component market after raising €40m",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/lithography-firm-morphotonics-targets-data-center-optical-component-market-after-raising-40m/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Company’s technology currently used to manufacture displays for AR glasses",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "2026 guide to navigating data center supply chain complexity",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/guide-to-navigating-data-center-supply-chain-complexity/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Hidden costs",
+      "summary": "Also looking at international expansion",
       "value": "",
       "status": "ACTIVE"
     }
@@ -119,14 +104,29 @@
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
+    "Residents near huge data centre demand financial compensation - ABC News & Headl | ACTIVE — Google News",
     "Beyond the Data Hall: The Economic Contribution of the Data Centre Industry in A | ACTIVE — Google News",
-    "BDx breaks ground on AI Campus 2 in Jatiluhur, Indonesia | ACTIVE — Data Centre Dynamics",
-    "Plans progress for 200MW data center in Schladen-Werla, Germany | ACTIVE — Data Centre Dynamics",
-    "Polcom to build 40MW data center in Skawina, Poland | ACTIVE — Data Centre Dynamics",
-    "New Era signs 20-year gas PPA with Vistra subsidiary to power 250MW data center  | ACTIVE — Data Centre Dynamics"
+    "The renewable energy deal that looks cheap on paper can leave data centers most  | ACTIVE — Data Centre Dynamics",
+    "California governor signs seven-bill package targeting data center energy and wa | ACTIVE — Data Centre Dynamics",
+    "OpenAI and Anthropic seek 20-30MW data center deployments | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
+      {
+        "source": "Google News",
+        "title": "Residents near huge data centre demand financial compensation - ABC News & Headlines – Australian Broadcasting Corporation",
+        "agency": "Google News",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGpGcW9janFpZE9Jbl9nQld2VVhlUThkdXNvaHNURGFaalZJbkFjUlBFTVo5NzYxVHpmdEJUVGNMWlhsSnkwSmJpYW5XR09PdUk3M0Zad3RZM0JlLWw0MFc5NmtJazFtSFl1SExUaTM2bEpfY1FsTFE1UG9sQ0gtZU5ZWVRJSXNObEkzdGdTUnJ0OUJRdG1ISlFDVnZBbVhweVVid1pIVVdjSUZG?oc=5",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Residents near huge data centre demand financial compensation &nbsp;&nbsp; ABC News & Headlines – Australian Broadcasting Corporation",
+        "value": "",
+        "status": "ACTIVE"
+      },
       {
         "source": "Google News",
         "title": "Beyond the Data Hall: The Economic Contribution of the Data Centre Industry in Australia - NEXTDC",
@@ -144,91 +144,61 @@
       },
       {
         "source": "Data Centre Dynamics",
-        "title": "BDx breaks ground on AI Campus 2 in Jatiluhur, Indonesia",
+        "title": "The renewable energy deal that looks cheap on paper can leave data centers most exposed",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/bdx-breaks-ground-on-ai-campus-2-in-jatiluhur-indonesia/",
+        "url": "https://www.datacenterdynamics.com/en/opinions/the-renewable-energy-deal-that-looks-cheap-on-paper-can-leave-data-centers-most-exposed/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "The first 120MW building is set to go live in early 2027",
+        "summary": "New analysis shows the best-matched clean power portfolio is also the strongest hedge against price shocks",
         "value": "",
         "status": "ACTIVE"
       },
       {
         "source": "Data Centre Dynamics",
-        "title": "Plans progress for 200MW data center in Schladen-Werla, Germany",
+        "title": "California governor signs seven-bill package targeting data center energy and water use",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/plans-progress-for-200mw-data-center-in-schladen-werla-germany/",
+        "url": "https://www.datacenterdynamics.com/en/news/california-governor-signs-seven-bill-package-targeting-data-center-energy-and-water-use/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "The project is being spearheaded by Green Datacenter Development",
+        "summary": "Seeks to shield ratepayers from bearing the cost associated with data center buildout",
         "value": "",
         "status": "ACTIVE"
       },
       {
         "source": "Data Centre Dynamics",
-        "title": "Polcom to build 40MW data center in Skawina, Poland",
+        "title": "OpenAI and Anthropic seek 20-30MW data center deployments",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/polcom-to-build-40mw-data-center-in-skawina-poland/",
+        "url": "https://www.datacenterdynamics.com/en/news/openai-and-anthropic-seek-20-30mw-data-center-deployments/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "The facility will be the cloud services firm’s second in the town",
+        "summary": "As companies ramp up inference footprint",
         "value": "",
         "status": "ACTIVE"
       },
       {
         "source": "Data Centre Dynamics",
-        "title": "New Era signs 20-year gas PPA with Vistra subsidiary to power 250MW data center in Ector County, Texas",
+        "title": "Zeo Energy and Ewyze partner on off-grid power solutions for US data center sector",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/new-era-signs-20-year-gas-ppa-with-vistra-subsidiary-to-power-250mw-data-center-in-ector-county-texas/",
+        "url": "https://www.datacenterdynamics.com/en/news/zeo-energy-and-ewyze-partner-on-off-grid-power-solutions-for-us-data-center-sector/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "Powered via an adjacent natural gas plant in Odessa, Texas",
-        "value": "",
-        "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Lithography firm Morphotonics targets data center optical component market after raising €40m",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/lithography-firm-morphotonics-targets-data-center-optical-component-market-after-raising-40m/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Company’s technology currently used to manufacture displays for AR glasses",
-        "value": "",
-        "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "2026 guide to navigating data center supply chain complexity",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/whitepapers/guide-to-navigating-data-center-supply-chain-complexity/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Hidden costs",
+        "summary": "Also looking at international expansion",
         "value": "",
         "status": "ACTIVE"
       }
@@ -238,6 +208,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-09-24",
+      "file": "reports/daily-lemon-2026-09-24.pdf"
     },
     {
       "date": "2026-09-23",
@@ -350,10 +324,6 @@
     {
       "date": "2026-08-27",
       "file": "reports/daily-lemon-2026-08-27.pdf"
-    },
-    {
-      "date": "2026-08-26",
-      "file": "reports/daily-lemon-2026-08-26.pdf"
     }
   ]
 }
