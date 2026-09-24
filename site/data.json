@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-24",
-  "timestamp": "Thursday 24 September 2026 — 9:40 AM AEST",
-  "pdf": "reports/daily-lemon-2026-09-24.pdf",
+  "date": "2026-09-25",
+  "timestamp": "Friday 25 September 2026 — 9:52 AM AEST",
+  "pdf": "reports/daily-lemon-2026-09-25.pdf",
   "stats": {
     "leads": 6,
     "priority": 0,
@@ -25,77 +25,77 @@
       "status": "ACTIVE"
     },
     {
-      "source": "Google News",
-      "title": "Beyond the Data Hall: The Economic Contribution of the Data Centre Industry in Australia - NEXTDC",
-      "agency": "Google News",
+      "source": "Data Centre Dynamics",
+      "title": "Can we power it?  Yes we GaN",
+      "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQzZjbGhCcGtiMnRiSUFzWlV5RW5DeTFBd1NhQldTV0NoQjlJWlkyWDlVWWlLQmk0d0dJWmh2UDRtRW1mU3JaRWxBZ25pX2ZXTUd6QnN1c09INWxUZFRvZWpmQ0ZMdkxvY19kS2dRZFd6OTNrU1ZJY0xuQ1N6a3lGVlVmWlhvUTcyZkQzbDZBN2Q0UW1pU2xpU2owcXprWE5wUjhEX2hjdmFWa25uYngzT1Z6TdIBswFBVV95cUxNQzZjbGhCcGtiMnRiSUFzWlV5RW5DeTFBd1NhQldTV0NoQjlJWlkyWDlVWWlLQmk0d0dJWmh2UDRtRW1mU3JaRWxBZ25pX2ZXTUd6QnN1c09INWxUZFRvZWpmQ0ZMdkxvY19kS2dRZFd6OTNrU1ZJY0xuQ1N6a3lGVlVmWlhvUTcyZkQzbDZBN2Q0UW1pU2xpU2owcXprWE5wUjhEX2hjdmFWa25uYngzT1Z6TQ?oc=5",
+      "url": "https://www.datacenterdynamics.com/en/analysis/can-we-power-it-yes-we-gan/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "Beyond the Data Hall: The Economic Contribution of the Data Centre Industry in Australia &nbsp;&nbsp; NEXTDC",
+      "summary": "Is the data center industry finally catching up to the promise of gallium nitride?",
       "value": "",
       "status": "ACTIVE"
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "The renewable energy deal that looks cheap on paper can leave data centers most exposed",
+      "title": "Oracle issues force majeure notice to Blue Owl following series of setbacks at Project Jupiter data center campus – report",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-renewable-energy-deal-that-looks-cheap-on-paper-can-leave-data-centers-most-exposed/",
+      "url": "https://www.datacenterdynamics.com/en/news/oracle-issues-force-majeure-notice-to-blue-owl-following-series-of-setbacks-at-project-jupiter-data-center-campus-report/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "New analysis shows the best-matched clean power portfolio is also the strongest hedge against price shocks",
+      "summary": "The 2.5GW site in New Mexico is set to come online in 2028",
       "value": "",
       "status": "ACTIVE"
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "California governor signs seven-bill package targeting data center energy and water use",
+      "title": "Sponsored: Powering the AI data center era: Why UPS battery technology needs to evolve",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/california-governor-signs-seven-bill-package-targeting-data-center-energy-and-water-use/",
+      "url": "https://www.datacenterdynamics.com/en/opinions/powering-the-ai-data-center-era-why-ups-battery-technology-needs-to-evolve/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "Seeks to shield ratepayers from bearing the cost associated with data center buildout",
+      "summary": "The rise of AI infrastructure is forcing data centers to rethink backup power strategies",
       "value": "",
       "status": "ACTIVE"
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "OpenAI and Anthropic seek 20-30MW data center deployments",
+      "title": "Woodway to build 22-mile gas pipeline for undisclosed data center in US",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/openai-and-anthropic-seek-20-30mw-data-center-deployments/",
+      "url": "https://www.datacenterdynamics.com/en/news/woodway-to-build-22-mile-gas-pipeline-for-undisclosed-data-center-in-us/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "As companies ramp up inference footprint",
+      "summary": "Will serve the data center behind the meter",
       "value": "",
       "status": "ACTIVE"
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "Zeo Energy and Ewyze partner on off-grid power solutions for US data center sector",
+      "title": "Victoria, Australia, proposes rules requiring data centers to secure own renewable energy supply",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/zeo-energy-and-ewyze-partner-on-off-grid-power-solutions-for-us-data-center-sector/",
-      "state": "AU",
+      "url": "https://www.datacenterdynamics.com/en/news/victoria-australia-proposes-rules-requiring-data-centers-to-secure-own-renewable-energy-supply/",
+      "state": "VIC",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "Also looking at international expansion",
+      "summary": "Alongside several other provisions to prevent cost shifting and excessive water use",
       "value": "",
       "status": "ACTIVE"
     }
@@ -105,10 +105,10 @@
   ],
   "market_intel": [
     "Residents near huge data centre demand financial compensation - ABC News & Headl | ACTIVE — Google News",
-    "Beyond the Data Hall: The Economic Contribution of the Data Centre Industry in A | ACTIVE — Google News",
-    "The renewable energy deal that looks cheap on paper can leave data centers most  | ACTIVE — Data Centre Dynamics",
-    "California governor signs seven-bill package targeting data center energy and wa | ACTIVE — Data Centre Dynamics",
-    "OpenAI and Anthropic seek 20-30MW data center deployments | ACTIVE — Data Centre Dynamics"
+    "Can we power it?  Yes we GaN | ACTIVE — Data Centre Dynamics",
+    "Oracle issues force majeure notice to Blue Owl following series of setbacks at P | ACTIVE — Data Centre Dynamics",
+    "Sponsored: Powering the AI data center era: Why UPS battery technology needs to  | ACTIVE — Data Centre Dynamics",
+    "Woodway to build 22-mile gas pipeline for undisclosed data center in US | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
@@ -128,77 +128,79 @@
         "status": "ACTIVE"
       },
       {
-        "source": "Google News",
-        "title": "Beyond the Data Hall: The Economic Contribution of the Data Centre Industry in Australia - NEXTDC",
-        "agency": "Google News",
+        "source": "Data Centre Dynamics",
+        "title": "Can we power it?  Yes we GaN",
+        "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQzZjbGhCcGtiMnRiSUFzWlV5RW5DeTFBd1NhQldTV0NoQjlJWlkyWDlVWWlLQmk0d0dJWmh2UDRtRW1mU3JaRWxBZ25pX2ZXTUd6QnN1c09INWxUZFRvZWpmQ0ZMdkxvY19kS2dRZFd6OTNrU1ZJY0xuQ1N6a3lGVlVmWlhvUTcyZkQzbDZBN2Q0UW1pU2xpU2owcXprWE5wUjhEX2hjdmFWa25uYngzT1Z6TdIBswFBVV95cUxNQzZjbGhCcGtiMnRiSUFzWlV5RW5DeTFBd1NhQldTV0NoQjlJWlkyWDlVWWlLQmk0d0dJWmh2UDRtRW1mU3JaRWxBZ25pX2ZXTUd6QnN1c09INWxUZFRvZWpmQ0ZMdkxvY19kS2dRZFd6OTNrU1ZJY0xuQ1N6a3lGVlVmWlhvUTcyZkQzbDZBN2Q0UW1pU2xpU2owcXprWE5wUjhEX2hjdmFWa25uYngzT1Z6TQ?oc=5",
+        "url": "https://www.datacenterdynamics.com/en/analysis/can-we-power-it-yes-we-gan/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "Beyond the Data Hall: The Economic Contribution of the Data Centre Industry in Australia &nbsp;&nbsp; NEXTDC",
+        "summary": "Is the data center industry finally catching up to the promise of gallium nitride?",
         "value": "",
         "status": "ACTIVE"
       },
       {
         "source": "Data Centre Dynamics",
-        "title": "The renewable energy deal that looks cheap on paper can leave data centers most exposed",
+        "title": "Oracle issues force majeure notice to Blue Owl following series of setbacks at Project Jupiter data center campus – report",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/opinions/the-renewable-energy-deal-that-looks-cheap-on-paper-can-leave-data-centers-most-exposed/",
+        "url": "https://www.datacenterdynamics.com/en/news/oracle-issues-force-majeure-notice-to-blue-owl-following-series-of-setbacks-at-project-jupiter-data-center-campus-report/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "New analysis shows the best-matched clean power portfolio is also the strongest hedge against price shocks",
+        "summary": "The 2.5GW site in New Mexico is set to come online in 2028",
         "value": "",
         "status": "ACTIVE"
       },
       {
         "source": "Data Centre Dynamics",
-        "title": "California governor signs seven-bill package targeting data center energy and water use",
+        "title": "Sponsored: Powering the AI data center era: Why UPS battery technology needs to evolve",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/california-governor-signs-seven-bill-package-targeting-data-center-energy-and-water-use/",
+        "url": "https://www.datacenterdynamics.com/en/opinions/powering-the-ai-data-center-era-why-ups-battery-technology-needs-to-evolve/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "Seeks to shield ratepayers from bearing the cost associated with data center buildout",
+        "summary": "The rise of AI infrastructure is forcing data centers to rethink backup power strategies",
         "value": "",
         "status": "ACTIVE"
       },
       {
         "source": "Data Centre Dynamics",
-        "title": "OpenAI and Anthropic seek 20-30MW data center deployments",
+        "title": "Woodway to build 22-mile gas pipeline for undisclosed data center in US",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/openai-and-anthropic-seek-20-30mw-data-center-deployments/",
+        "url": "https://www.datacenterdynamics.com/en/news/woodway-to-build-22-mile-gas-pipeline-for-undisclosed-data-center-in-us/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "As companies ramp up inference footprint",
+        "summary": "Will serve the data center behind the meter",
         "value": "",
         "status": "ACTIVE"
-      },
+      }
+    ],
+    "VIC": [
       {
         "source": "Data Centre Dynamics",
-        "title": "Zeo Energy and Ewyze partner on off-grid power solutions for US data center sector",
+        "title": "Victoria, Australia, proposes rules requiring data centers to secure own renewable energy supply",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/zeo-energy-and-ewyze-partner-on-off-grid-power-solutions-for-us-data-center-sector/",
-        "state": "AU",
+        "url": "https://www.datacenterdynamics.com/en/news/victoria-australia-proposes-rules-requiring-data-centers-to-secure-own-renewable-energy-supply/",
+        "state": "VIC",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "Also looking at international expansion",
+        "summary": "Alongside several other provisions to prevent cost shifting and excessive water use",
         "value": "",
         "status": "ACTIVE"
       }
@@ -208,6 +210,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-09-25",
+      "file": "reports/daily-lemon-2026-09-25.pdf"
     },
     {
       "date": "2026-09-24",
@@ -320,10 +326,6 @@
     {
       "date": "2026-08-28",
       "file": "reports/daily-lemon-2026-08-28.pdf"
-    },
-    {
-      "date": "2026-08-27",
-      "file": "reports/daily-lemon-2026-08-27.pdf"
     }
   ]
 }
