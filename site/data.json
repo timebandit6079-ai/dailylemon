@@ -1,14 +1,44 @@
 {
-  "date": "2026-09-26",
-  "timestamp": "Saturday 26 September 2026 — 9:57 AM AEST",
-  "pdf": "reports/daily-lemon-2026-09-26.pdf",
+  "date": "2026-09-27",
+  "timestamp": "Sunday 27 September 2026 — 9:36 AM AEST",
+  "pdf": "reports/daily-lemon-2026-09-27.pdf",
   "stats": {
-    "leads": 7,
+    "leads": 8,
     "priority": 0,
     "trade": 0,
     "urgent": 0
   },
   "leads": [
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Sponsored: Sustainable data center backup power is a strategy, not a battery chemistry",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/sustainable-data-center-backup-power-is-a-strategy-not-a-battery-chemistry/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Data centers continue to walk the tightrope of meeting burgeoning power demands, while also fulfilling sustainability aims and obligations",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "AI infrastructure will define the next industrial revolution",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/ai-infrastructure-will-define-the-next-industrial-revolution/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Energy technology, intelligence, and digital infrastructure are providing ubiquitous benefits across the world",
+      "value": "",
+      "status": "ACTIVE"
+    },
     {
       "source": "Data Centre Dynamics",
       "title": "Sponsored: How to scale data centers cheaper, faster, and at a higher quality",
@@ -71,21 +101,6 @@
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "DOE unveils $1.9bn in funding for 31 grid upgrade projects to speed data center connections",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/doe-unveils-19bn-in-funding-for-31-grid-upgrade-projects-to-speed-data-center-connections/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Expected to unlock 23GW of additional capacity on the grid",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
       "title": "AI cloud and data center firm Nscale raises $3.36bn ahead of its IPO",
       "agency": "Data Centre Dynamics",
       "close_date": "",
@@ -119,14 +134,44 @@
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
+    "Sponsored: Sustainable data center backup power is a strategy, not a battery che | ACTIVE — Data Centre Dynamics",
+    "AI infrastructure will define the next industrial revolution | ACTIVE — Data Centre Dynamics",
     "Sponsored: How to scale data centers cheaper, faster, and at a higher quality | ACTIVE — Data Centre Dynamics",
     "Northern Virginia's Prince William County puts controls on new data center proje | ACTIVE — Data Centre Dynamics",
-    "Thailand set to finalize new data center regulations by mid-October - report | ACTIVE — Data Centre Dynamics",
-    "Project Suncatcher: Google to launch first space data center test in orbit next  | ACTIVE — Data Centre Dynamics",
-    "DOE unveils $1.9bn in funding for 31 grid upgrade projects to speed data center  | ACTIVE — Data Centre Dynamics"
+    "Thailand set to finalize new data center regulations by mid-October - report | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Sponsored: Sustainable data center backup power is a strategy, not a battery chemistry",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/sustainable-data-center-backup-power-is-a-strategy-not-a-battery-chemistry/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Data centers continue to walk the tightrope of meeting burgeoning power demands, while also fulfilling sustainability aims and obligations",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "AI infrastructure will define the next industrial revolution",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/ai-infrastructure-will-define-the-next-industrial-revolution/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Energy technology, intelligence, and digital infrastructure are providing ubiquitous benefits across the world",
+        "value": "",
+        "status": "ACTIVE"
+      },
       {
         "source": "Data Centre Dynamics",
         "title": "Sponsored: How to scale data centers cheaper, faster, and at a higher quality",
@@ -186,21 +231,6 @@
         "summary": "TPUs are ready to catch some rays, hyperscaler claims",
         "value": "",
         "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "DOE unveils $1.9bn in funding for 31 grid upgrade projects to speed data center connections",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/doe-unveils-19bn-in-funding-for-31-grid-upgrade-projects-to-speed-data-center-connections/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Expected to unlock 23GW of additional capacity on the grid",
-        "value": "",
-        "status": "ACTIVE"
       }
     ],
     "NSW": [
@@ -242,6 +272,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-09-27",
+      "file": "reports/daily-lemon-2026-09-27.pdf"
     },
     {
       "date": "2026-09-26",
@@ -354,10 +388,6 @@
     {
       "date": "2026-08-30",
       "file": "reports/daily-lemon-2026-08-30.pdf"
-    },
-    {
-      "date": "2026-08-29",
-      "file": "reports/daily-lemon-2026-08-29.pdf"
     }
   ]
 }
