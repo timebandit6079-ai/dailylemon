@@ -1,14 +1,44 @@
 {
-  "date": "2026-09-27",
-  "timestamp": "Sunday 27 September 2026 — 9:36 AM AEST",
-  "pdf": "reports/daily-lemon-2026-09-27.pdf",
+  "date": "2026-09-28",
+  "timestamp": "Monday 28 September 2026 — 9:47 AM AEST",
+  "pdf": "reports/daily-lemon-2026-09-28.pdf",
   "stats": {
-    "leads": 8,
+    "leads": 9,
     "priority": 0,
     "trade": 0,
     "urgent": 0
   },
   "leads": [
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Sponsored: Speed to power: The infrastructure solutions shaping the global data center race",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/speed-to-power-the-infrastructure-solutions-shaping-the-global-data-center-race/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Virtual power plants, grid enhancing technologies and around-the-meter models can all support speed to power",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Beyond redundancy: Why dynamic stability matters in AI data centers",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/beyond-redundancy-why-dynamic-stability-matters-in-ai-data-centers/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "The future of data center resilience",
+      "value": "",
+      "status": "ACTIVE"
+    },
     {
       "source": "Data Centre Dynamics",
       "title": "Sponsored: Sustainable data center backup power is a strategy, not a battery chemistry",
@@ -86,21 +116,6 @@
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "Project Suncatcher: Google to launch first space data center test in orbit next week",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/project-suncatcher-google-to-launch-first-space-data-center-test-in-orbit-next-week/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "TPUs are ready to catch some rays, hyperscaler claims",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
       "title": "AI cloud and data center firm Nscale raises $3.36bn ahead of its IPO",
       "agency": "Data Centre Dynamics",
       "close_date": "",
@@ -134,14 +149,44 @@
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
+    "Sponsored: Speed to power: The infrastructure solutions shaping the global data  | ACTIVE — Data Centre Dynamics",
+    "Beyond redundancy: Why dynamic stability matters in AI data centers | ACTIVE — Data Centre Dynamics",
     "Sponsored: Sustainable data center backup power is a strategy, not a battery che | ACTIVE — Data Centre Dynamics",
     "AI infrastructure will define the next industrial revolution | ACTIVE — Data Centre Dynamics",
-    "Sponsored: How to scale data centers cheaper, faster, and at a higher quality | ACTIVE — Data Centre Dynamics",
-    "Northern Virginia's Prince William County puts controls on new data center proje | ACTIVE — Data Centre Dynamics",
-    "Thailand set to finalize new data center regulations by mid-October - report | ACTIVE — Data Centre Dynamics"
+    "Sponsored: How to scale data centers cheaper, faster, and at a higher quality | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Sponsored: Speed to power: The infrastructure solutions shaping the global data center race",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/speed-to-power-the-infrastructure-solutions-shaping-the-global-data-center-race/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Virtual power plants, grid enhancing technologies and around-the-meter models can all support speed to power",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Beyond redundancy: Why dynamic stability matters in AI data centers",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/beyond-redundancy-why-dynamic-stability-matters-in-ai-data-centers/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "The future of data center resilience",
+        "value": "",
+        "status": "ACTIVE"
+      },
       {
         "source": "Data Centre Dynamics",
         "title": "Sponsored: Sustainable data center backup power is a strategy, not a battery chemistry",
@@ -216,21 +261,6 @@
         "summary": "Expected to classify data centers with a capacity of more than 100MW hyperscale facilities",
         "value": "",
         "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Project Suncatcher: Google to launch first space data center test in orbit next week",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/project-suncatcher-google-to-launch-first-space-data-center-test-in-orbit-next-week/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "TPUs are ready to catch some rays, hyperscaler claims",
-        "value": "",
-        "status": "ACTIVE"
       }
     ],
     "NSW": [
@@ -272,6 +302,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-09-28",
+      "file": "reports/daily-lemon-2026-09-28.pdf"
     },
     {
       "date": "2026-09-27",
@@ -384,10 +418,6 @@
     {
       "date": "2026-08-31",
       "file": "reports/daily-lemon-2026-08-31.pdf"
-    },
-    {
-      "date": "2026-08-30",
-      "file": "reports/daily-lemon-2026-08-30.pdf"
     }
   ]
 }
