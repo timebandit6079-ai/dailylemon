@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-29",
-  "timestamp": "Tuesday 29 September 2026 — 10:58 AM AEST",
-  "pdf": "reports/daily-lemon-2026-09-29.pdf",
+  "date": "2026-09-30",
+  "timestamp": "Wednesday 30 September 2026 — 10:25 AM AEST",
+  "pdf": "reports/daily-lemon-2026-09-30.pdf",
   "stats": {
     "leads": 6,
     "priority": 0,
@@ -11,91 +11,91 @@
   "leads": [
     {
       "source": "Data Centre Dynamics",
-      "title": "Europe's data center efficiency labeling scheme needs nuance, industry leaders warn",
+      "title": "Global Switch to host large Nvidia Blackwell deployment at Paris data center",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/analysis/europes-data-center-efficiency-labeling-scheme-needs-nuance-industry-leaders-warn/",
+      "url": "https://www.datacenterdynamics.com/en/news/global-switch-to-host-large-nvidia-blackwell-deployment-at-paris-data-center/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "Cautious welcome for European Commission labeling plans",
+      "summary": "End user has not been disclosed",
       "value": "",
       "status": "ACTIVE"
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "Re-engineering silicon and system design for AI-era workloads",
+      "title": "Google receives planning permission to expand data center in Dublin, Ireland",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/opinions/re-engineering-silicon-and-system-design-for-ai-era-workloads/",
+      "url": "https://www.datacenterdynamics.com/en/news/google-receives-planning-permission-to-expand-data-center-in-dublin-ireland/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "What does it take to deliver the silicon powering today and tomorrow’s data centers?",
+      "summary": "An Coimisiún Pleanála greenlights plans",
+      "value": "",
+      "status": "APPROVED"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Meta signs on to use AI capacity at Firmus' Southeast Asia data centers",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/news/meta-signs-on-to-use-ai-capacity-at-firmus-southeast-asia-data-centers/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Builds on existing agreements in Australia",
       "value": "",
       "status": "ACTIVE"
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "Virtus secures £2.45bn in financing for data center build-out",
+      "title": "Sponsored: The faster we listen, the faster we can move",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/virtus-secures-245bn-in-financing-for-data-center-build-out/",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-faster-we-listen-the-faster-we-can-move/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "Funds to fuel projects in the UK and mainland Europe",
+      "summary": "“The data center industry doesn't have a permitting problem or a communications problem. It has a trust problem”",
       "value": "",
       "status": "ACTIVE"
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "Russian drones strike Ukrainian telcos and data center operators as part of targeted attacks",
+      "title": "Colovore files to develop data center in Fort Worth, Texas",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/russian-drones-hit-kyivstar-hq-vodafone-data-center-in-ukraine/",
+      "url": "https://www.datacenterdynamics.com/en/news/colovore-files-to-develop-data-center-in-fort-worth-texas/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "Kyivstar's HQ in Kyiv was struck in latest attack on capital",
+      "summary": "Liquid cooled data center firm details second facility in the Lone Star State",
       "value": "",
       "status": "ACTIVE"
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "Energy storage strategies for the data center power chain",
+      "title": "Plans filed for 400MW data center campus outside Melbourne, Australia",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/energy-storage-strategies-for-the-data-center-power-chain/",
-      "state": "AU",
-      "region": "General",
+      "url": "https://www.datacenterdynamics.com/en/news/plans-filed-for-400mw-data-center-campus-outside-melbourne-australia/",
+      "state": "VIC",
+      "region": "Melbourne",
       "trade_match": false,
       "priority": null,
-      "summary": "Tailoring for scale, speed and flexibility",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Goodman withdraws application for 90MW data center campus in Sydney, Australia",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/goodman-withdraws-application-for-90mw-data-center-campus-in-sydney-australia/",
-      "state": "NSW",
-      "region": "Sydney",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Company says data center policy and regulatory environment had “evolved significantly”",
+      "summary": "New player HyperDC plans campus outside Geelong, near existing substation and BESS project",
       "value": "",
       "status": "ACTIVE"
     }
@@ -104,103 +104,103 @@
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
-    "Europe's data center efficiency labeling scheme needs nuance, industry leaders w | ACTIVE — Data Centre Dynamics",
-    "Re-engineering silicon and system design for AI-era workloads | ACTIVE — Data Centre Dynamics",
-    "Virtus secures £2.45bn in financing for data center build-out | ACTIVE — Data Centre Dynamics",
-    "Russian drones strike Ukrainian telcos and data center operators as part of targ | ACTIVE — Data Centre Dynamics",
-    "Energy storage strategies for the data center power chain | ACTIVE — Data Centre Dynamics"
+    "Global Switch to host large Nvidia Blackwell deployment at Paris data center | ACTIVE — Data Centre Dynamics",
+    "Google receives planning permission to expand data center in Dublin, Ireland | APPROVED — Data Centre Dynamics",
+    "Meta signs on to use AI capacity at Firmus' Southeast Asia data centers | ACTIVE — Data Centre Dynamics",
+    "Sponsored: The faster we listen, the faster we can move | ACTIVE — Data Centre Dynamics",
+    "Colovore files to develop data center in Fort Worth, Texas | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
       {
         "source": "Data Centre Dynamics",
-        "title": "Europe's data center efficiency labeling scheme needs nuance, industry leaders warn",
+        "title": "Global Switch to host large Nvidia Blackwell deployment at Paris data center",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/analysis/europes-data-center-efficiency-labeling-scheme-needs-nuance-industry-leaders-warn/",
+        "url": "https://www.datacenterdynamics.com/en/news/global-switch-to-host-large-nvidia-blackwell-deployment-at-paris-data-center/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "Cautious welcome for European Commission labeling plans",
+        "summary": "End user has not been disclosed",
         "value": "",
         "status": "ACTIVE"
       },
       {
         "source": "Data Centre Dynamics",
-        "title": "Re-engineering silicon and system design for AI-era workloads",
+        "title": "Google receives planning permission to expand data center in Dublin, Ireland",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/opinions/re-engineering-silicon-and-system-design-for-ai-era-workloads/",
+        "url": "https://www.datacenterdynamics.com/en/news/google-receives-planning-permission-to-expand-data-center-in-dublin-ireland/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "What does it take to deliver the silicon powering today and tomorrow’s data centers?",
+        "summary": "An Coimisiún Pleanála greenlights plans",
+        "value": "",
+        "status": "APPROVED"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Meta signs on to use AI capacity at Firmus' Southeast Asia data centers",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/news/meta-signs-on-to-use-ai-capacity-at-firmus-southeast-asia-data-centers/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Builds on existing agreements in Australia",
         "value": "",
         "status": "ACTIVE"
       },
       {
         "source": "Data Centre Dynamics",
-        "title": "Virtus secures £2.45bn in financing for data center build-out",
+        "title": "Sponsored: The faster we listen, the faster we can move",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/virtus-secures-245bn-in-financing-for-data-center-build-out/",
+        "url": "https://www.datacenterdynamics.com/en/opinions/the-faster-we-listen-the-faster-we-can-move/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "Funds to fuel projects in the UK and mainland Europe",
+        "summary": "“The data center industry doesn't have a permitting problem or a communications problem. It has a trust problem”",
         "value": "",
         "status": "ACTIVE"
       },
       {
         "source": "Data Centre Dynamics",
-        "title": "Russian drones strike Ukrainian telcos and data center operators as part of targeted attacks",
+        "title": "Colovore files to develop data center in Fort Worth, Texas",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/russian-drones-hit-kyivstar-hq-vodafone-data-center-in-ukraine/",
+        "url": "https://www.datacenterdynamics.com/en/news/colovore-files-to-develop-data-center-in-fort-worth-texas/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "Kyivstar's HQ in Kyiv was struck in latest attack on capital",
-        "value": "",
-        "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Energy storage strategies for the data center power chain",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/whitepapers/energy-storage-strategies-for-the-data-center-power-chain/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Tailoring for scale, speed and flexibility",
+        "summary": "Liquid cooled data center firm details second facility in the Lone Star State",
         "value": "",
         "status": "ACTIVE"
       }
     ],
-    "NSW": [
+    "VIC": [
       {
         "source": "Data Centre Dynamics",
-        "title": "Goodman withdraws application for 90MW data center campus in Sydney, Australia",
+        "title": "Plans filed for 400MW data center campus outside Melbourne, Australia",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/goodman-withdraws-application-for-90mw-data-center-campus-in-sydney-australia/",
-        "state": "NSW",
-        "region": "Sydney",
+        "url": "https://www.datacenterdynamics.com/en/news/plans-filed-for-400mw-data-center-campus-outside-melbourne-australia/",
+        "state": "VIC",
+        "region": "Melbourne",
         "trade_match": false,
         "priority": null,
-        "summary": "Company says data center policy and regulatory environment had “evolved significantly”",
+        "summary": "New player HyperDC plans campus outside Geelong, near existing substation and BESS project",
         "value": "",
         "status": "ACTIVE"
       }
@@ -210,6 +210,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-09-30",
+      "file": "reports/daily-lemon-2026-09-30.pdf"
     },
     {
       "date": "2026-09-29",
@@ -322,10 +326,6 @@
     {
       "date": "2026-09-02",
       "file": "reports/daily-lemon-2026-09-02.pdf"
-    },
-    {
-      "date": "2026-09-01",
-      "file": "reports/daily-lemon-2026-09-01.pdf"
     }
   ]
 }
