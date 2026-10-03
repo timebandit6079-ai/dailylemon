@@ -1,14 +1,29 @@
 {
-  "date": "2026-10-03",
-  "timestamp": "Saturday 03 October 2026 — 10:28 AM AEST",
-  "pdf": "reports/daily-lemon-2026-10-03.pdf",
+  "date": "2026-10-04",
+  "timestamp": "Sunday 04 October 2026 — 9:46 AM AEST",
+  "pdf": "reports/daily-lemon-2026-10-04.pdf",
   "stats": {
-    "leads": 11,
+    "leads": 12,
     "priority": 0,
     "trade": 0,
     "urgent": 0
   },
   "leads": [
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Sponsored: Overcoming five common direct liquid cooling specification challenges",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/overcoming-five-common-direct-liquid-cooling-specification-challenges/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "The reality of AI infrastructure has arrived: the power-hungry chips of today, such as the NVIDIA Blackwell, have rendered traditional air cooling obsolete",
+      "value": "",
+      "status": "ACTIVE"
+    },
     {
       "source": "Data Centre Dynamics",
       "title": "Intro Group to invest $270m in Egypt’s Kemet Data Center",
@@ -160,17 +175,17 @@
       "status": "ACTIVE"
     },
     {
-      "source": "Data Centre Dynamics",
-      "title": "When racks outpace the infrastructure: Retrofitting data center power systems for AI-scale densities",
-      "agency": "Data Centre Dynamics",
+      "source": "Google News",
+      "title": "Data centres are vital to Australia, but they need to be done in a sustainable way - UNSW Sydney",
+      "agency": "Google News",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/opinions/when-racks-outpace-the-infrastructure-retrofitting-data-center-power-systems-for-ai-scale-densities/",
-      "state": "AU",
-      "region": "General",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU295NjNmX2VSNGRVX0VfbnBFNVJwNkNST3JncVU5WkQ2NUdhSTJ6c0ZReVJKV3ZUR2ZMT05PSER3Tk5JNC14SldKeXl1bXBQSS1hbjhBenRHVTBOdEpFUTN3OXctY1pGSUJKRWxhUWFlUk1BUjktcUJteWw1UjZNMG9VNWlYQjQ3emxnQVV3M3h1Z3N4ZlJkN0F3?oc=5",
+      "state": "NSW",
+      "region": "Sydney",
       "trade_match": false,
       "priority": null,
-      "summary": "And why there's constraints to overcome in order to meet AI workload demands",
+      "summary": "Data centres are vital to Australia, but they need to be done in a sustainable way &nbsp;&nbsp; UNSW Sydney",
       "value": "",
       "status": "ACTIVE"
     }
@@ -179,14 +194,29 @@
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
+    "Sponsored: Overcoming five common direct liquid cooling specification challenges | ACTIVE — Data Centre Dynamics",
     "Intro Group to invest $270m in Egypt’s Kemet Data Center — A$270M | ACTIVE | Data Centre Dynamics",
     "Poland’s National Data Processing Center receives EU funding — A$401M | ACTIVE | Data Centre Dynamics",
     "AI data center planned for Karlsruhe Institute of Technology, Germany | ANNOUNCED — Data Centre Dynamics",
-    "Another data center in Kyiv taken offline by Russian strikes | ACTIVE — Data Centre Dynamics",
-    "AWS drops non-disclosure agreements for data center projects | ACTIVE — Data Centre Dynamics"
+    "Another data center in Kyiv taken offline by Russian strikes | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Sponsored: Overcoming five common direct liquid cooling specification challenges",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/overcoming-five-common-direct-liquid-cooling-specification-challenges/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "The reality of AI infrastructure has arrived: the power-hungry chips of today, such as the NVIDIA Blackwell, have rendered traditional air cooling obsolete",
+        "value": "",
+        "status": "ACTIVE"
+      },
       {
         "source": "Data Centre Dynamics",
         "title": "Intro Group to invest $270m in Egypt’s Kemet Data Center",
@@ -336,19 +366,21 @@
         "summary": "The project in Vélizy-Villacoublay town is part of a mixed-use project",
         "value": "",
         "status": "ACTIVE"
-      },
+      }
+    ],
+    "NSW": [
       {
-        "source": "Data Centre Dynamics",
-        "title": "When racks outpace the infrastructure: Retrofitting data center power systems for AI-scale densities",
-        "agency": "Data Centre Dynamics",
+        "source": "Google News",
+        "title": "Data centres are vital to Australia, but they need to be done in a sustainable way - UNSW Sydney",
+        "agency": "Google News",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/opinions/when-racks-outpace-the-infrastructure-retrofitting-data-center-power-systems-for-ai-scale-densities/",
-        "state": "AU",
-        "region": "General",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU295NjNmX2VSNGRVX0VfbnBFNVJwNkNST3JncVU5WkQ2NUdhSTJ6c0ZReVJKV3ZUR2ZMT05PSER3Tk5JNC14SldKeXl1bXBQSS1hbjhBenRHVTBOdEpFUTN3OXctY1pGSUJKRWxhUWFlUk1BUjktcUJteWw1UjZNMG9VNWlYQjQ3emxnQVV3M3h1Z3N4ZlJkN0F3?oc=5",
+        "state": "NSW",
+        "region": "Sydney",
         "trade_match": false,
         "priority": null,
-        "summary": "And why there's constraints to overcome in order to meet AI workload demands",
+        "summary": "Data centres are vital to Australia, but they need to be done in a sustainable way &nbsp;&nbsp; UNSW Sydney",
         "value": "",
         "status": "ACTIVE"
       }
@@ -358,6 +390,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-10-04",
+      "file": "reports/daily-lemon-2026-10-04.pdf"
     },
     {
       "date": "2026-10-03",
@@ -470,10 +506,6 @@
     {
       "date": "2026-09-06",
       "file": "reports/daily-lemon-2026-09-06.pdf"
-    },
-    {
-      "date": "2026-09-05",
-      "file": "reports/daily-lemon-2026-09-05.pdf"
     }
   ]
 }
