@@ -1,14 +1,29 @@
 {
-  "date": "2026-10-04",
-  "timestamp": "Sunday 04 October 2026 — 9:46 AM AEST",
-  "pdf": "reports/daily-lemon-2026-10-04.pdf",
+  "date": "2026-10-05",
+  "timestamp": "Monday 05 October 2026 — 9:57 AM AEST",
+  "pdf": "reports/daily-lemon-2026-10-05.pdf",
   "stats": {
-    "leads": 12,
+    "leads": 11,
     "priority": 0,
     "trade": 0,
     "urgent": 0
   },
   "leads": [
+    {
+      "source": "Data Centre Dynamics",
+      "title": "America’s AI race won’t be won by hitting pause on data centers",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/americas-ai-race-wont-be-won-by-hitting-pause-on-cata-centers/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "A moratorium mistake",
+      "value": "",
+      "status": "ACTIVE"
+    },
     {
       "source": "Data Centre Dynamics",
       "title": "Sponsored: Overcoming five common direct liquid cooling specification challenges",
@@ -158,50 +173,35 @@
       "summary": "GPUs could be coming to a parking lot near you",
       "value": "",
       "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Nation Data Center breaks ground on new French data center development",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/nation-data-center-breaks-ground-on-new-french-data-center-development/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "The project in Vélizy-Villacoublay town is part of a mixed-use project",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Google News",
-      "title": "Data centres are vital to Australia, but they need to be done in a sustainable way - UNSW Sydney",
-      "agency": "Google News",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU295NjNmX2VSNGRVX0VfbnBFNVJwNkNST3JncVU5WkQ2NUdhSTJ6c0ZReVJKV3ZUR2ZMT05PSER3Tk5JNC14SldKeXl1bXBQSS1hbjhBenRHVTBOdEpFUTN3OXctY1pGSUJKRWxhUWFlUk1BUjktcUJteWw1UjZNMG9VNWlYQjQ3emxnQVV3M3h1Z3N4ZlJkN0F3?oc=5",
-      "state": "NSW",
-      "region": "Sydney",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Data centres are vital to Australia, but they need to be done in a sustainable way &nbsp;&nbsp; UNSW Sydney",
-      "value": "",
-      "status": "ACTIVE"
     }
   ],
   "action_items": [
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
+    "America’s AI race won’t be won by hitting pause on data centers | ACTIVE — Data Centre Dynamics",
     "Sponsored: Overcoming five common direct liquid cooling specification challenges | ACTIVE — Data Centre Dynamics",
     "Intro Group to invest $270m in Egypt’s Kemet Data Center — A$270M | ACTIVE | Data Centre Dynamics",
     "Poland’s National Data Processing Center receives EU funding — A$401M | ACTIVE | Data Centre Dynamics",
-    "AI data center planned for Karlsruhe Institute of Technology, Germany | ANNOUNCED — Data Centre Dynamics",
-    "Another data center in Kyiv taken offline by Russian strikes | ACTIVE — Data Centre Dynamics"
+    "AI data center planned for Karlsruhe Institute of Technology, Germany | ANNOUNCED — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
+      {
+        "source": "Data Centre Dynamics",
+        "title": "America’s AI race won’t be won by hitting pause on data centers",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/americas-ai-race-wont-be-won-by-hitting-pause-on-cata-centers/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "A moratorium mistake",
+        "value": "",
+        "status": "ACTIVE"
+      },
       {
         "source": "Data Centre Dynamics",
         "title": "Sponsored: Overcoming five common direct liquid cooling specification challenges",
@@ -351,38 +351,6 @@
         "summary": "GPUs could be coming to a parking lot near you",
         "value": "",
         "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Nation Data Center breaks ground on new French data center development",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/nation-data-center-breaks-ground-on-new-french-data-center-development/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "The project in Vélizy-Villacoublay town is part of a mixed-use project",
-        "value": "",
-        "status": "ACTIVE"
-      }
-    ],
-    "NSW": [
-      {
-        "source": "Google News",
-        "title": "Data centres are vital to Australia, but they need to be done in a sustainable way - UNSW Sydney",
-        "agency": "Google News",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU295NjNmX2VSNGRVX0VfbnBFNVJwNkNST3JncVU5WkQ2NUdhSTJ6c0ZReVJKV3ZUR2ZMT05PSER3Tk5JNC14SldKeXl1bXBQSS1hbjhBenRHVTBOdEpFUTN3OXctY1pGSUJKRWxhUWFlUk1BUjktcUJteWw1UjZNMG9VNWlYQjQ3emxnQVV3M3h1Z3N4ZlJkN0F3?oc=5",
-        "state": "NSW",
-        "region": "Sydney",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Data centres are vital to Australia, but they need to be done in a sustainable way &nbsp;&nbsp; UNSW Sydney",
-        "value": "",
-        "status": "ACTIVE"
       }
     ]
   },
@@ -390,6 +358,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-10-05",
+      "file": "reports/daily-lemon-2026-10-05.pdf"
     },
     {
       "date": "2026-10-04",
@@ -502,10 +474,6 @@
     {
       "date": "2026-09-07",
       "file": "reports/daily-lemon-2026-09-07.pdf"
-    },
-    {
-      "date": "2026-09-06",
-      "file": "reports/daily-lemon-2026-09-06.pdf"
     }
   ]
 }
