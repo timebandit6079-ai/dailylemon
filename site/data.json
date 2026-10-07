@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-06",
-  "timestamp": "Tuesday 06 October 2026 — 11:45 AM AEST",
-  "pdf": "reports/daily-lemon-2026-10-06.pdf",
+  "date": "2026-10-07",
+  "timestamp": "Wednesday 07 October 2026 — 10:40 AM AEST",
+  "pdf": "reports/daily-lemon-2026-10-07.pdf",
   "stats": {
     "leads": 7,
     "priority": 0,
@@ -26,93 +26,93 @@
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "Ares ups investment in Sabey Data Centers",
+      "title": "DCD Studio: Permitting and pre-construction for Edge sites, with Gonzalo de la Pedraja, Quetta Data Centers",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/ares-ups-investment-in-sabey-data-centers/",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-permitting-and-pre-construction-for-edge-sites-with-gonzalo-de-la-pedraja-quetta-data-centers/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "Minority stakeholder takes total investment above $500 million",
-      "value": "A$500M",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Green fuels plant in Nova Scotia, Canada, could host data centers",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/green-fuels-plant-in-nova-scotia-canada-could-host-data-centers/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "EverWind Fuels explores potential co-located data center development",
+      "summary": "Zoe Turner speaks with Gonzalo de la Pedraja of Quetta Data Centers about permitting and pre-construction challenges for Edge sites, focusing on critical dynamics in data center development.",
       "value": "",
       "status": "ACTIVE"
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "Applied Digital adds 75MW of capacity at Ellendale data center campus in North Dakota",
+      "title": "Google signs 3.6GW deal with Constellation to secure power in PJM service area",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/applied-digital-adds-75mw-of-capacity-at-ellendale-data-center-campus-in-north-dakota/",
+      "url": "https://www.datacenterdynamics.com/en/news/google-signs-36gw-deal-with-constellation-to-secure-power-in-pjm-service-area/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "Second building now complete, campus totals 250MW",
+      "summary": "Nuclear and natural gas deal covers major data center markets",
       "value": "",
       "status": "ACTIVE"
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "Former IBM research campus in Silicon Valley set to be acquired by data center firm",
+      "title": "AWS plans 36-building data center campus in Indiana County, Pennsylvania",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/former-ibm-research-campus-in-silicon-valley-set-to-be-acquired-by-data-center-firm/",
+      "url": "https://www.datacenterdynamics.com/en/news/aws-plans-36-building-data-center-campus-in-indiana-county-pennsylvania/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "Blackstart Digital acquiring IBM's Almaden Research Center in San Jose",
+      "summary": "Set for Homer City Energy Campus",
       "value": "",
       "status": "ACTIVE"
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "Rethinking power architecture in large-scale data centers",
+      "title": "Orbital data centers? Or just distributed LEO compute?",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/rethinking-power-architecture-in-large-scale-data-centers/",
+      "url": "https://www.datacenterdynamics.com/en/analysis/orbital-data-centers-or-just-distributed-leo-compute/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "How block-redundant (Catcher) architectures optimize power infrastructure while maintaining high availability",
+      "summary": "As the marketing pageantry around new space innovation pervades, strategic priorities may be cementing demand",
       "value": "",
       "status": "ACTIVE"
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "Jera, Dell Technologies, and Rhaelm team up for behind-the-meter AI infrastructure in Japan",
+      "title": "DayOne IPO: Data center firm targets 2.3GW capacity by 2028",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/jera-dell-technologies-and-rhaelm-team-up-for-behind-the-meter-ai-infrastructure-in-japan/",
+      "url": "https://www.datacenterdynamics.com/en/news/dayone-ipo-data-center-firm-targets-23gw-capacity-by-2028/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "First project planned for power plant at Chiba",
+      "summary": "Revenue is ramping up, but so are losses",
       "value": "",
-      "status": "ANNOUNCED"
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Applied Digital to develop 1GW data center campus in Finland",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/news/applied-digital-to-develop-1gw-data-center-campus-in-finland/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Company expands into Europe, but few details provided on project",
+      "value": "",
+      "status": "ACTIVE"
     }
   ],
   "action_items": [
@@ -120,10 +120,10 @@
   ],
   "market_intel": [
     "Australia's AI Data Centre Boom Is Competing With Housing for the Same Machines  | ACTIVE — Google News",
-    "Ares ups investment in Sabey Data Centers — A$500M | ACTIVE | Data Centre Dynamics",
-    "Green fuels plant in Nova Scotia, Canada, could host data centers | ACTIVE — Data Centre Dynamics",
-    "Applied Digital adds 75MW of capacity at Ellendale data center campus in North D | ACTIVE — Data Centre Dynamics",
-    "Former IBM research campus in Silicon Valley set to be acquired by data center f | ACTIVE — Data Centre Dynamics"
+    "DCD Studio: Permitting and pre-construction for Edge sites, with Gonzalo de la P | ACTIVE — Data Centre Dynamics",
+    "Google signs 3.6GW deal with Constellation to secure power in PJM service area | ACTIVE — Data Centre Dynamics",
+    "AWS plans 36-building data center campus in Indiana County, Pennsylvania | ACTIVE — Data Centre Dynamics",
+    "Orbital data centers? Or just distributed LEO compute? | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
@@ -144,93 +144,93 @@
       },
       {
         "source": "Data Centre Dynamics",
-        "title": "Ares ups investment in Sabey Data Centers",
+        "title": "DCD Studio: Permitting and pre-construction for Edge sites, with Gonzalo de la Pedraja, Quetta Data Centers",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/ares-ups-investment-in-sabey-data-centers/",
+        "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-permitting-and-pre-construction-for-edge-sites-with-gonzalo-de-la-pedraja-quetta-data-centers/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "Minority stakeholder takes total investment above $500 million",
-        "value": "A$500M",
-        "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Green fuels plant in Nova Scotia, Canada, could host data centers",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/green-fuels-plant-in-nova-scotia-canada-could-host-data-centers/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "EverWind Fuels explores potential co-located data center development",
+        "summary": "Zoe Turner speaks with Gonzalo de la Pedraja of Quetta Data Centers about permitting and pre-construction challenges for Edge sites, focusing on critical dynamics in data center development.",
         "value": "",
         "status": "ACTIVE"
       },
       {
         "source": "Data Centre Dynamics",
-        "title": "Applied Digital adds 75MW of capacity at Ellendale data center campus in North Dakota",
+        "title": "Google signs 3.6GW deal with Constellation to secure power in PJM service area",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/applied-digital-adds-75mw-of-capacity-at-ellendale-data-center-campus-in-north-dakota/",
+        "url": "https://www.datacenterdynamics.com/en/news/google-signs-36gw-deal-with-constellation-to-secure-power-in-pjm-service-area/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "Second building now complete, campus totals 250MW",
+        "summary": "Nuclear and natural gas deal covers major data center markets",
         "value": "",
         "status": "ACTIVE"
       },
       {
         "source": "Data Centre Dynamics",
-        "title": "Former IBM research campus in Silicon Valley set to be acquired by data center firm",
+        "title": "AWS plans 36-building data center campus in Indiana County, Pennsylvania",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/former-ibm-research-campus-in-silicon-valley-set-to-be-acquired-by-data-center-firm/",
+        "url": "https://www.datacenterdynamics.com/en/news/aws-plans-36-building-data-center-campus-in-indiana-county-pennsylvania/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "Blackstart Digital acquiring IBM's Almaden Research Center in San Jose",
+        "summary": "Set for Homer City Energy Campus",
         "value": "",
         "status": "ACTIVE"
       },
       {
         "source": "Data Centre Dynamics",
-        "title": "Rethinking power architecture in large-scale data centers",
+        "title": "Orbital data centers? Or just distributed LEO compute?",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/whitepapers/rethinking-power-architecture-in-large-scale-data-centers/",
+        "url": "https://www.datacenterdynamics.com/en/analysis/orbital-data-centers-or-just-distributed-leo-compute/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "How block-redundant (Catcher) architectures optimize power infrastructure while maintaining high availability",
+        "summary": "As the marketing pageantry around new space innovation pervades, strategic priorities may be cementing demand",
         "value": "",
         "status": "ACTIVE"
       },
       {
         "source": "Data Centre Dynamics",
-        "title": "Jera, Dell Technologies, and Rhaelm team up for behind-the-meter AI infrastructure in Japan",
+        "title": "DayOne IPO: Data center firm targets 2.3GW capacity by 2028",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/jera-dell-technologies-and-rhaelm-team-up-for-behind-the-meter-ai-infrastructure-in-japan/",
+        "url": "https://www.datacenterdynamics.com/en/news/dayone-ipo-data-center-firm-targets-23gw-capacity-by-2028/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "First project planned for power plant at Chiba",
+        "summary": "Revenue is ramping up, but so are losses",
         "value": "",
-        "status": "ANNOUNCED"
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Applied Digital to develop 1GW data center campus in Finland",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/news/applied-digital-to-develop-1gw-data-center-campus-in-finland/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Company expands into Europe, but few details provided on project",
+        "value": "",
+        "status": "ACTIVE"
       }
     ]
   },
@@ -238,6 +238,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-10-07",
+      "file": "reports/daily-lemon-2026-10-07.pdf"
     },
     {
       "date": "2026-10-06",
@@ -350,10 +354,6 @@
     {
       "date": "2026-09-09",
       "file": "reports/daily-lemon-2026-09-09.pdf"
-    },
-    {
-      "date": "2026-09-08",
-      "file": "reports/daily-lemon-2026-09-08.pdf"
     }
   ]
 }
