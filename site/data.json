@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-10",
-  "timestamp": "Saturday 10 October 2026 — 10:48 AM AEST",
-  "pdf": "reports/daily-lemon-2026-10-10.pdf",
+  "date": "2026-10-11",
+  "timestamp": "Sunday 11 October 2026 — 10:14 AM AEST",
+  "pdf": "reports/daily-lemon-2026-10-11.pdf",
   "stats": {
     "leads": 10,
     "priority": 0,
@@ -25,32 +25,47 @@
       "status": "ACTIVE"
     },
     {
-      "source": "Google News",
-      "title": "Wagga Wagga residents fight $15b data centre plan amid fears for rural land - Real Estate",
-      "agency": "Google News",
+      "source": "Data Centre Dynamics",
+      "title": "Sponsored: Why do liquid-cooled AI data centers require different backup power strategy?",
+      "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWE9wZlpWVnNRTm8xZ3ZNNzhrWlAyQUd2aVpmNFFmTWZ3SVJ6TTJ4QUwwbzExU3kzN0w1R1VETllvSFhIN0ZiQVg3SlBhN05UZW1fano4VHVJc2FhRklBTkJOQXdPR0o5R29PcmxaeXhMV2ZOdXBQVVM3c3Z0Y284VHdja0hYaHo0UzRjVG9Ib1NLTXlKZ2pmUngxdW52WkQtbE1DZHZQMlBrdkpfS2pF?oc=5",
+      "url": "https://www.datacenterdynamics.com/en/opinions/why-do-liquid-cooled-ai-data-centers-require-different-backup-power-strategy/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "Wagga Wagga residents fight $15b data centre plan amid fears for rural land &nbsp;&nbsp; Real Estate",
-      "value": "A$15.0B",
+      "summary": "AI-focused data centers require new backup power strategies as their rack power density is rising sharply and their workloads fluctuate rapidly",
+      "value": "",
       "status": "ACTIVE"
     },
     {
-      "source": "Google News",
-      "title": "Data centres can help Australia and Japan build the next 50 years - Capital Brief",
-      "agency": "Google News",
+      "source": "Data Centre Dynamics",
+      "title": "Cipher extends Barber Lake data center lease commitments to 20 years",
+      "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMmh1MzVJWjJzY0N5SE1jSHFtQ3FDckFpRGFQUUtGc3BsY216My11cmFzZ1JKS2dLdHkwMFVzR3U0UDBsdUJfX0kxVHh1MXhqR2hONVZPdUZiNkFQcElxYWgxOFZfYkRnWlRHb0drNk9uSHNibi1GbElYREYxQnFPUjd4ZEZJNnlUMWZtTEl5UFNlZmxmSnJKck1JbkFmU2VELVdkdXZqWC1PM094NEVFam91OERZZGNPUHRybER2RmR6d1hFSkxmOUxjX2hmWG10V0NNbEFIWQ?oc=5",
+      "url": "https://www.datacenterdynamics.com/en/news/cipher-extends-barber-lake-data-center-lease-commitments-to-20-years/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "Data centres can help Australia and Japan build the next 50 years &nbsp;&nbsp; Capital Brief",
+      "summary": "Fluidstack and unnamed AI lab agree lengthy leases",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Sponsored: Wärtsilä, Schneider Electric, and Stanley Consultants launch coordinated approach for faster US data center power delivery",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/product-news/w%C3%A4rtsil%C3%A4-schneider-electric-and-stanley-consultants-launch-coordinated-approach-for-faster-us-data-center-power-delivery/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Coordinated 'generator-to-chip' approach integrates onsite generation, electrical infrastructure, and engineering to help data center customers streamline development and save time compared to traditional delivery models",
       "value": "",
       "status": "ACTIVE"
     },
@@ -143,21 +158,6 @@
       "summary": "First building will be located on Earl Callahan Road",
       "value": "A$366M",
       "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "When noise ordinances can't keep up with data centers",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/opinions/when-noise-ordinances-cant-keep-up-with-data-centers/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "And why the issue around noise shouldn't be ignored",
-      "value": "",
-      "status": "ACTIVE"
     }
   ],
   "action_items": [
@@ -165,10 +165,10 @@
   ],
   "market_intel": [
     "A stock sinks 23% as Australia’s $30bn Firmus AI data-centre IPO collapses - Inv | ACTIVE — Google News",
-    "Wagga Wagga residents fight $15b data centre plan amid fears — A$15.0B | ACTIVE | Google News",
-    "Data centres can help Australia and Japan build the next 50 years - Capital Brie | ACTIVE — Google News",
-    "Council rejects 80MW data center in northern Italy | ACTIVE — Data Centre Dynamics",
-    "Digital Realty begins work on KIX15 data center in Japan | ACTIVE — Data Centre Dynamics"
+    "Sponsored: Why do liquid-cooled AI data centers require different backup power s | ACTIVE — Data Centre Dynamics",
+    "Cipher extends Barber Lake data center lease commitments to 20 years | ACTIVE — Data Centre Dynamics",
+    "Sponsored: Wärtsilä, Schneider Electric, and Stanley Consultants launch coordina | ACTIVE — Data Centre Dynamics",
+    "Council rejects 80MW data center in northern Italy | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
@@ -188,32 +188,47 @@
         "status": "ACTIVE"
       },
       {
-        "source": "Google News",
-        "title": "Wagga Wagga residents fight $15b data centre plan amid fears for rural land - Real Estate",
-        "agency": "Google News",
+        "source": "Data Centre Dynamics",
+        "title": "Sponsored: Why do liquid-cooled AI data centers require different backup power strategy?",
+        "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWE9wZlpWVnNRTm8xZ3ZNNzhrWlAyQUd2aVpmNFFmTWZ3SVJ6TTJ4QUwwbzExU3kzN0w1R1VETllvSFhIN0ZiQVg3SlBhN05UZW1fano4VHVJc2FhRklBTkJOQXdPR0o5R29PcmxaeXhMV2ZOdXBQVVM3c3Z0Y284VHdja0hYaHo0UzRjVG9Ib1NLTXlKZ2pmUngxdW52WkQtbE1DZHZQMlBrdkpfS2pF?oc=5",
+        "url": "https://www.datacenterdynamics.com/en/opinions/why-do-liquid-cooled-ai-data-centers-require-different-backup-power-strategy/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "Wagga Wagga residents fight $15b data centre plan amid fears for rural land &nbsp;&nbsp; Real Estate",
-        "value": "A$15.0B",
+        "summary": "AI-focused data centers require new backup power strategies as their rack power density is rising sharply and their workloads fluctuate rapidly",
+        "value": "",
         "status": "ACTIVE"
       },
       {
-        "source": "Google News",
-        "title": "Data centres can help Australia and Japan build the next 50 years - Capital Brief",
-        "agency": "Google News",
+        "source": "Data Centre Dynamics",
+        "title": "Cipher extends Barber Lake data center lease commitments to 20 years",
+        "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMmh1MzVJWjJzY0N5SE1jSHFtQ3FDckFpRGFQUUtGc3BsY216My11cmFzZ1JKS2dLdHkwMFVzR3U0UDBsdUJfX0kxVHh1MXhqR2hONVZPdUZiNkFQcElxYWgxOFZfYkRnWlRHb0drNk9uSHNibi1GbElYREYxQnFPUjd4ZEZJNnlUMWZtTEl5UFNlZmxmSnJKck1JbkFmU2VELVdkdXZqWC1PM094NEVFam91OERZZGNPUHRybER2RmR6d1hFSkxmOUxjX2hmWG10V0NNbEFIWQ?oc=5",
+        "url": "https://www.datacenterdynamics.com/en/news/cipher-extends-barber-lake-data-center-lease-commitments-to-20-years/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "Data centres can help Australia and Japan build the next 50 years &nbsp;&nbsp; Capital Brief",
+        "summary": "Fluidstack and unnamed AI lab agree lengthy leases",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Sponsored: Wärtsilä, Schneider Electric, and Stanley Consultants launch coordinated approach for faster US data center power delivery",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/product-news/w%C3%A4rtsil%C3%A4-schneider-electric-and-stanley-consultants-launch-coordinated-approach-for-faster-us-data-center-power-delivery/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Coordinated 'generator-to-chip' approach integrates onsite generation, electrical infrastructure, and engineering to help data center customers streamline development and save time compared to traditional delivery models",
         "value": "",
         "status": "ACTIVE"
       },
@@ -306,21 +321,6 @@
         "summary": "First building will be located on Earl Callahan Road",
         "value": "A$366M",
         "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "When noise ordinances can't keep up with data centers",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/opinions/when-noise-ordinances-cant-keep-up-with-data-centers/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "And why the issue around noise shouldn't be ignored",
-        "value": "",
-        "status": "ACTIVE"
       }
     ]
   },
@@ -328,6 +328,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-10-11",
+      "file": "reports/daily-lemon-2026-10-11.pdf"
     },
     {
       "date": "2026-10-10",
@@ -440,10 +444,6 @@
     {
       "date": "2026-09-13",
       "file": "reports/daily-lemon-2026-09-13.pdf"
-    },
-    {
-      "date": "2026-09-12",
-      "file": "reports/daily-lemon-2026-09-12.pdf"
     }
   ]
 }
