@@ -1,26 +1,41 @@
 {
-  "date": "2026-10-11",
-  "timestamp": "Sunday 11 October 2026 — 10:14 AM AEST",
-  "pdf": "reports/daily-lemon-2026-10-11.pdf",
+  "date": "2026-10-12",
+  "timestamp": "Monday 12 October 2026 — 10:31 AM AEST",
+  "pdf": "reports/daily-lemon-2026-10-12.pdf",
   "stats": {
-    "leads": 10,
+    "leads": 9,
     "priority": 0,
     "trade": 0,
     "urgent": 0
   },
   "leads": [
     {
-      "source": "Google News",
-      "title": "A stock sinks 23% as Australia’s $30bn Firmus AI data-centre IPO collapses - Investing.com Australia",
-      "agency": "Google News",
+      "source": "Data Centre Dynamics",
+      "title": "Sponsored: Legacy data center efficiency now has a compliance deadline",
+      "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWGlaTUlZRlB2eHRMeExPYXBSblFzS2lWa3N4LXhFZWx6cUVvQ2txeGJTZlNSTnZRRVhwMVpqcHlYcEdqQW9LUkc0d3ozRjN1WDJaSWlPMmxBQlVBVFFINGZIdlNILXRLWVFETUFxTTFfZm53U2lETjNELUt5Z1RwMVdIWEE0YTdaaWlvM2RlUzdDTDlxQWdzZlFyVWVueGxxWnNnME5pcWlKOUhhUHl2cnpVQjZsa3FSNlJlRy1TTnlPNkpw?oc=5",
+      "url": "https://www.datacenterdynamics.com/en/opinions/legacy-data-center-efficiency-now-has-a-compliance-deadline/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "A stock sinks 23% as Australia’s $30bn Firmus AI data-centre IPO collapses &nbsp;&nbsp; Investing.com Australia",
+      "summary": "Why efficiency in existing facilities has shifted from good intention to obligation",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Hyperscale Data plans Patriot BTC subsidiary for Bitcoin mining business",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/news/hyperscale-data-plans-patriot-btc-subsidiary-for-bitcoin-mining-business/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Will transfer Montana data center to new company",
       "value": "",
       "status": "ACTIVE"
     },
@@ -128,62 +143,47 @@
       "summary": "Application unearthed by a local councilor who claimed details were hidden from scrutiny",
       "value": "",
       "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "How colocation providers find and reclaim stranded power capacity",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/how-colocation-providers-find-and-reclaim-stranded-power-capacity/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Unlocking millions in hidden revenue across multi-site data center portfolios",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Anthropic-linked $366m data center project filed for in Cedar Creek, Texas",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/anthropic-linked-366m-data-center-project-filed-for-in-cedar-creek-texas/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "First building will be located on Earl Callahan Road",
-      "value": "A$366M",
-      "status": "ACTIVE"
     }
   ],
   "action_items": [
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
-    "A stock sinks 23% as Australia’s $30bn Firmus AI data-centre IPO collapses - Inv | ACTIVE — Google News",
+    "Sponsored: Legacy data center efficiency now has a compliance deadline | ACTIVE — Data Centre Dynamics",
+    "Hyperscale Data plans Patriot BTC subsidiary for Bitcoin mining business | ACTIVE — Data Centre Dynamics",
     "Sponsored: Why do liquid-cooled AI data centers require different backup power s | ACTIVE — Data Centre Dynamics",
     "Cipher extends Barber Lake data center lease commitments to 20 years | ACTIVE — Data Centre Dynamics",
-    "Sponsored: Wärtsilä, Schneider Electric, and Stanley Consultants launch coordina | ACTIVE — Data Centre Dynamics",
-    "Council rejects 80MW data center in northern Italy | ACTIVE — Data Centre Dynamics"
+    "Sponsored: Wärtsilä, Schneider Electric, and Stanley Consultants launch coordina | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
       {
-        "source": "Google News",
-        "title": "A stock sinks 23% as Australia’s $30bn Firmus AI data-centre IPO collapses - Investing.com Australia",
-        "agency": "Google News",
+        "source": "Data Centre Dynamics",
+        "title": "Sponsored: Legacy data center efficiency now has a compliance deadline",
+        "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWGlaTUlZRlB2eHRMeExPYXBSblFzS2lWa3N4LXhFZWx6cUVvQ2txeGJTZlNSTnZRRVhwMVpqcHlYcEdqQW9LUkc0d3ozRjN1WDJaSWlPMmxBQlVBVFFINGZIdlNILXRLWVFETUFxTTFfZm53U2lETjNELUt5Z1RwMVdIWEE0YTdaaWlvM2RlUzdDTDlxQWdzZlFyVWVueGxxWnNnME5pcWlKOUhhUHl2cnpVQjZsa3FSNlJlRy1TTnlPNkpw?oc=5",
+        "url": "https://www.datacenterdynamics.com/en/opinions/legacy-data-center-efficiency-now-has-a-compliance-deadline/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "A stock sinks 23% as Australia’s $30bn Firmus AI data-centre IPO collapses &nbsp;&nbsp; Investing.com Australia",
+        "summary": "Why efficiency in existing facilities has shifted from good intention to obligation",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Hyperscale Data plans Patriot BTC subsidiary for Bitcoin mining business",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/news/hyperscale-data-plans-patriot-btc-subsidiary-for-bitcoin-mining-business/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Will transfer Montana data center to new company",
         "value": "",
         "status": "ACTIVE"
       },
@@ -291,36 +291,6 @@
         "summary": "Application unearthed by a local councilor who claimed details were hidden from scrutiny",
         "value": "",
         "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "How colocation providers find and reclaim stranded power capacity",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/whitepapers/how-colocation-providers-find-and-reclaim-stranded-power-capacity/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Unlocking millions in hidden revenue across multi-site data center portfolios",
-        "value": "",
-        "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Anthropic-linked $366m data center project filed for in Cedar Creek, Texas",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/anthropic-linked-366m-data-center-project-filed-for-in-cedar-creek-texas/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "First building will be located on Earl Callahan Road",
-        "value": "A$366M",
-        "status": "ACTIVE"
       }
     ]
   },
@@ -328,6 +298,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-10-12",
+      "file": "reports/daily-lemon-2026-10-12.pdf"
     },
     {
       "date": "2026-10-11",
@@ -440,10 +414,6 @@
     {
       "date": "2026-09-14",
       "file": "reports/daily-lemon-2026-09-14.pdf"
-    },
-    {
-      "date": "2026-09-13",
-      "file": "reports/daily-lemon-2026-09-13.pdf"
     }
   ]
 }
