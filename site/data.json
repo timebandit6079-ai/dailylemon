@@ -1,26 +1,41 @@
 {
-  "date": "2026-10-17",
-  "timestamp": "Saturday 17 October 2026 — 9:33 AM AEST",
-  "pdf": "reports/daily-lemon-2026-10-17.pdf",
+  "date": "2026-10-18",
+  "timestamp": "Sunday 18 October 2026 — 9:06 AM AEST",
+  "pdf": "reports/daily-lemon-2026-10-18.pdf",
   "stats": {
-    "leads": 10,
-    "priority": 1,
+    "leads": 8,
+    "priority": 0,
     "trade": 0,
     "urgent": 0
   },
   "leads": [
     {
       "source": "Data Centre Dynamics",
-      "title": "Carrier Connect leases 4MW data center in Alpharetta, Georgia",
+      "title": "Sponsored: The hidden costs: Why data center sustainability fails without operational discipline",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/carrier-connect-leases-4mw-data-center-in-alpharetta-georgia/",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-hidden-costs-why-data-center-sustainability-fails-without-operational-discipline/",
       "state": "AU",
-      "region": "CQ",
+      "region": "General",
       "trade_match": false,
-      "priority": "CQ",
-      "summary": "Colo firm leasing former GE facility from Mapletree",
+      "priority": null,
+      "summary": "How prioritizing the small things with sustained investment and follow-through can help to pave the way to achieving true data center sustainability goals",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Plans for data center in Moncalieri, Italy, put on hold by town mayor",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/news/plans-for-data-center-in-moncalieri-italy-put-on-hold-by-town-mayor/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Before its application was halted, the project was billed as Italy’s ‘largest’ data center",
       "value": "",
       "status": "ACTIVE"
     },
@@ -113,77 +128,47 @@
       "summary": "Will be undertaken by Nordic Energy, with results published in March of next year",
       "value": "",
       "status": "ANNOUNCED"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Nscale's Glomfjord data center delayed, site suffers leaks in cooling system and a fire",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/nscales-glomfjord-data-center-delayed-site-suffers-leaks-in-cooling-system-and-a-fire/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Company is shortly planning its IPO",
-      "value": "",
-      "status": "APPROVED"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Vietnam's CMC and Korea's Lotte partner to develop data centers",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/vietnams-cmc-and-koreas-lotte-partner-to-develop-data-centers/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Companies sign MoU to collaborate on data center projects",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Digital Realty eyes gigawatt-scale data center site outside Indianapolis, Indiana",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/digital-realty-eyes-gigawatt-scale-data-center-site-outside-indianapolis-indiana/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Company looks to develop in Kokomo",
-      "value": "",
-      "status": "ACTIVE"
     }
   ],
   "action_items": [
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
-    "Carrier Connect leases 4MW data center in Alpharetta, Georgia | ACTIVE — Data Centre Dynamics",
+    "Sponsored: The hidden costs: Why data center sustainability fails without operat | ACTIVE — Data Centre Dynamics",
+    "Plans for data center in Moncalieri, Italy, put on hold by town mayor | ACTIVE — Data Centre Dynamics",
     "DCN Warsaw 2026: Poland deserves a greater share of global data center capacity | ACTIVE — Data Centre Dynamics",
     "Stranded natural gas could power offshore data centers | ACTIVE — Data Centre Dynamics",
-    "Meeza and Microsoft launch sovereign private cloud in Qatar | ACTIVE — Data Centre Dynamics",
-    "LightEdge eyes data center project outside Des Moines, Iowa | ACTIVE — Data Centre Dynamics"
+    "Meeza and Microsoft launch sovereign private cloud in Qatar | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
       {
         "source": "Data Centre Dynamics",
-        "title": "Carrier Connect leases 4MW data center in Alpharetta, Georgia",
+        "title": "Sponsored: The hidden costs: Why data center sustainability fails without operational discipline",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/carrier-connect-leases-4mw-data-center-in-alpharetta-georgia/",
+        "url": "https://www.datacenterdynamics.com/en/opinions/the-hidden-costs-why-data-center-sustainability-fails-without-operational-discipline/",
         "state": "AU",
-        "region": "CQ",
+        "region": "General",
         "trade_match": false,
-        "priority": "CQ",
-        "summary": "Colo firm leasing former GE facility from Mapletree",
+        "priority": null,
+        "summary": "How prioritizing the small things with sustained investment and follow-through can help to pave the way to achieving true data center sustainability goals",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Plans for data center in Moncalieri, Italy, put on hold by town mayor",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/news/plans-for-data-center-in-moncalieri-italy-put-on-hold-by-town-mayor/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Before its application was halted, the project was billed as Italy’s ‘largest’ data center",
         "value": "",
         "status": "ACTIVE"
       },
@@ -276,51 +261,6 @@
         "summary": "Will be undertaken by Nordic Energy, with results published in March of next year",
         "value": "",
         "status": "ANNOUNCED"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Nscale's Glomfjord data center delayed, site suffers leaks in cooling system and a fire",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/nscales-glomfjord-data-center-delayed-site-suffers-leaks-in-cooling-system-and-a-fire/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Company is shortly planning its IPO",
-        "value": "",
-        "status": "APPROVED"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Vietnam's CMC and Korea's Lotte partner to develop data centers",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/vietnams-cmc-and-koreas-lotte-partner-to-develop-data-centers/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Companies sign MoU to collaborate on data center projects",
-        "value": "",
-        "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Digital Realty eyes gigawatt-scale data center site outside Indianapolis, Indiana",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/digital-realty-eyes-gigawatt-scale-data-center-site-outside-indianapolis-indiana/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Company looks to develop in Kokomo",
-        "value": "",
-        "status": "ACTIVE"
       }
     ]
   },
@@ -328,6 +268,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-10-18",
+      "file": "reports/daily-lemon-2026-10-18.pdf"
     },
     {
       "date": "2026-10-17",
@@ -440,10 +384,6 @@
     {
       "date": "2026-09-20",
       "file": "reports/daily-lemon-2026-09-20.pdf"
-    },
-    {
-      "date": "2026-09-19",
-      "file": "reports/daily-lemon-2026-09-19.pdf"
     }
   ]
 }
