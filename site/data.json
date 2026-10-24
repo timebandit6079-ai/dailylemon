@@ -1,27 +1,27 @@
 {
-  "date": "2026-10-24",
-  "timestamp": "Saturday 24 October 2026 — 9:51 AM AEST",
-  "pdf": "reports/daily-lemon-2026-10-24.pdf",
+  "date": "2026-10-25",
+  "timestamp": "Sunday 25 October 2026 — 9:11 AM AEST",
+  "pdf": "reports/daily-lemon-2026-10-25.pdf",
   "stats": {
-    "leads": 11,
+    "leads": 10,
     "priority": 0,
     "trade": 0,
     "urgent": 0
   },
   "leads": [
     {
-      "source": "Google News",
-      "title": "AirTrunk Lodges $3.7B Kurri Kurri Data Centre Plan at Old Smelter - Discovery Alert",
-      "agency": "Google News",
+      "source": "Data Centre Dynamics",
+      "title": "SpaceXAI facing $6.1m fine in Mississippi for building data centers without securing correct permits",
+      "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcVVoN2NzZHVYOEc4ZDRGRDNzaFVKVmRMVm93eWd1ZUxDZ1cyU09CYVBYRnZQODRVOXRTbDB2TVN2aHVvSTQzY2pJdXRTQll3UkJ6Mm9lb2ExS1VjbDZaZGJDUmtEc1Exb3NSdjc2NFZFYkROY3VSazFuNlZYZHJybjJrQTg?oc=5",
+      "url": "https://www.datacenterdynamics.com/en/news/spacexai-data-center-mississippi-memphis-elon-musk/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "AirTrunk Lodges $3.7B Kurri Kurri Data Centre Plan at Old Smelter &nbsp;&nbsp; Discovery Alert",
-      "value": "A$3.7B",
+      "summary": "Elon Musk's firm will also be back in court over problematic gas turbines",
+      "value": "A$6M",
       "status": "ACTIVE"
     },
     {
@@ -146,21 +146,6 @@
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "O-Green plans data center campus in Zaragoza, Spain",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/o-green-plans-data-center-campus-in-zaragoza-spain/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "The fund, which is linked to Oman, plans to invest €7.4 billion in a data center campus in San Mateo de Gállego, Zaragoza",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
       "title": "Short seller bets against Csquare, says data center firm's shares are worthless",
       "agency": "Data Centre Dynamics",
       "close_date": "",
@@ -179,7 +164,7 @@
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
-    "AirTrunk Lodges $3.7B Kurri Kurri Data Centre Plan at Old Sm — A$3.7B | ACTIVE | Google News",
+    "SpaceXAI facing $6.1m fine in Mississippi for building data  — A$6M | ACTIVE | Data Centre Dynamics",
     "Core Stack JV adds more data centers to €1bn Italy network | APPROVED — Data Centre Dynamics",
     "New Libyan telecom firm to launch data center in 2027 | ACTIVE — Data Centre Dynamics",
     "Actyus, Adequita, and Nethits launch fund for Edge data centers - report | ACTIVE — Data Centre Dynamics",
@@ -188,18 +173,18 @@
   "by_state": {
     "AU": [
       {
-        "source": "Google News",
-        "title": "AirTrunk Lodges $3.7B Kurri Kurri Data Centre Plan at Old Smelter - Discovery Alert",
-        "agency": "Google News",
+        "source": "Data Centre Dynamics",
+        "title": "SpaceXAI facing $6.1m fine in Mississippi for building data centers without securing correct permits",
+        "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcVVoN2NzZHVYOEc4ZDRGRDNzaFVKVmRMVm93eWd1ZUxDZ1cyU09CYVBYRnZQODRVOXRTbDB2TVN2aHVvSTQzY2pJdXRTQll3UkJ6Mm9lb2ExS1VjbDZaZGJDUmtEc1Exb3NSdjc2NFZFYkROY3VSazFuNlZYZHJybjJrQTg?oc=5",
+        "url": "https://www.datacenterdynamics.com/en/news/spacexai-data-center-mississippi-memphis-elon-musk/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "AirTrunk Lodges $3.7B Kurri Kurri Data Centre Plan at Old Smelter &nbsp;&nbsp; Discovery Alert",
-        "value": "A$3.7B",
+        "summary": "Elon Musk's firm will also be back in court over problematic gas turbines",
+        "value": "A$6M",
         "status": "ACTIVE"
       },
       {
@@ -321,21 +306,6 @@
         "summary": "Another data center damaged in conflict",
         "value": "",
         "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "O-Green plans data center campus in Zaragoza, Spain",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/o-green-plans-data-center-campus-in-zaragoza-spain/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "The fund, which is linked to Oman, plans to invest €7.4 billion in a data center campus in San Mateo de Gállego, Zaragoza",
-        "value": "",
-        "status": "ACTIVE"
       }
     ],
     "SA": [
@@ -360,6 +330,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-10-25",
+      "file": "reports/daily-lemon-2026-10-25.pdf"
     },
     {
       "date": "2026-10-24",
@@ -472,10 +446,6 @@
     {
       "date": "2026-09-27",
       "file": "reports/daily-lemon-2026-09-27.pdf"
-    },
-    {
-      "date": "2026-09-26",
-      "file": "reports/daily-lemon-2026-09-26.pdf"
     }
   ]
 }
