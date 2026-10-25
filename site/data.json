@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-25",
-  "timestamp": "Sunday 25 October 2026 — 9:11 AM AEST",
-  "pdf": "reports/daily-lemon-2026-10-25.pdf",
+  "date": "2026-10-26",
+  "timestamp": "Monday 26 October 2026 — 9:14 AM AEST",
+  "pdf": "reports/daily-lemon-2026-10-26.pdf",
   "stats": {
     "leads": 10,
     "priority": 0,
@@ -9,6 +9,21 @@
     "urgent": 0
   },
   "leads": [
+    {
+      "source": "Data Centre Dynamics",
+      "title": "The power behind AI: Data centers drive the demand for qualified electricians",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-power-behind-ai-data-centers-drive-the-demand-for-qualified-electricians/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "An insatiable demand for electricians",
+      "value": "",
+      "status": "ACTIVE"
+    },
     {
       "source": "Data Centre Dynamics",
       "title": "SpaceXAI facing $6.1m fine in Mississippi for building data centers without securing correct permits",
@@ -131,21 +146,6 @@
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "Russian finance ministry data center struck by Ukrainian forces",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/russian-tax-dc-0-gorodets/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Another data center damaged in conflict",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
       "title": "Short seller bets against Csquare, says data center firm's shares are worthless",
       "agency": "Data Centre Dynamics",
       "close_date": "",
@@ -164,14 +164,29 @@
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
+    "The power behind AI: Data centers drive the demand for qualified electricians | ACTIVE — Data Centre Dynamics",
     "SpaceXAI facing $6.1m fine in Mississippi for building data  — A$6M | ACTIVE | Data Centre Dynamics",
     "Core Stack JV adds more data centers to €1bn Italy network | APPROVED — Data Centre Dynamics",
     "New Libyan telecom firm to launch data center in 2027 | ACTIVE — Data Centre Dynamics",
-    "Actyus, Adequita, and Nethits launch fund for Edge data centers - report | ACTIVE — Data Centre Dynamics",
-    "Meta details Ohio Prometheus data center campus, with first phase live | ACTIVE — Data Centre Dynamics"
+    "Actyus, Adequita, and Nethits launch fund for Edge data centers - report | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
+      {
+        "source": "Data Centre Dynamics",
+        "title": "The power behind AI: Data centers drive the demand for qualified electricians",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/the-power-behind-ai-data-centers-drive-the-demand-for-qualified-electricians/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "An insatiable demand for electricians",
+        "value": "",
+        "status": "ACTIVE"
+      },
       {
         "source": "Data Centre Dynamics",
         "title": "SpaceXAI facing $6.1m fine in Mississippi for building data centers without securing correct permits",
@@ -291,21 +306,6 @@
         "summary": "Speed to market is a phase, not a strategy",
         "value": "",
         "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Russian finance ministry data center struck by Ukrainian forces",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/russian-tax-dc-0-gorodets/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Another data center damaged in conflict",
-        "value": "",
-        "status": "ACTIVE"
       }
     ],
     "SA": [
@@ -330,6 +330,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-10-26",
+      "file": "reports/daily-lemon-2026-10-26.pdf"
     },
     {
       "date": "2026-10-25",
@@ -442,10 +446,6 @@
     {
       "date": "2026-09-28",
       "file": "reports/daily-lemon-2026-09-28.pdf"
-    },
-    {
-      "date": "2026-09-27",
-      "file": "reports/daily-lemon-2026-09-27.pdf"
     }
   ]
 }
