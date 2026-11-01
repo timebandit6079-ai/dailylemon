@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-31",
-  "timestamp": "Saturday 31 October 2026 — 10:46 AM AEST",
-  "pdf": "reports/daily-lemon-2026-10-31.pdf",
+  "date": "2026-11-01",
+  "timestamp": "Sunday 01 November 2026 — 10:06 AM AEST",
+  "pdf": "reports/daily-lemon-2026-11-01.pdf",
   "stats": {
     "leads": 9,
     "priority": 0,
@@ -10,18 +10,33 @@
   },
   "leads": [
     {
-      "source": "Google News",
-      "title": "Brookfield Seals $9B AI Data Centre Deal With Naver and More APAC Real Estate Headlines - Mingtiandi",
-      "agency": "Google News",
+      "source": "Data Centre Dynamics",
+      "title": "Sponsored: One security strategy. Four different data center realities.",
+      "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ2dwcEd2bnMyeEZOc21rOUdiTG5sTlhubmlKTGg0c1FId253WjhIMFJlTlBhZEFPcTNiYl9lY2p4REVYdXp1bFpFUEdRSE9pdVlJZWVxYnBzTGhxbms2UnJrY1BFb3hmcmNTZ19aODFzNExINFRrYXNkcmZETjF6S1R0LVJtWTFVenV3R2dCT1pidlEwdmRHUVNXeWxsRHk1NXhTSWFsQTNVUQ?oc=5",
+      "url": "https://www.datacenterdynamics.com/en/opinions/one-security-strategy-four-different-data-center-realities/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "Brookfield Seals $9B AI Data Centre Deal With Naver and More APAC Real Estate Headlines &nbsp;&nbsp; Mingtiandi",
-      "value": "A$9.0B",
+      "summary": "The strongest data center security strategies do not deploy identical controls everywhere",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Europe’s AI ambitions are hitting a power bottleneck",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/europes-ai-ambitions-are-hitting-a-power-bottleneck/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Data center demand is surging, but outdated grid infrastructure is preventing Europe from making full use of renewable energy",
+      "value": "",
       "status": "ACTIVE"
     },
     {
@@ -128,48 +143,48 @@
       "summary": "The industry is facing an unprecedented tide of misinformation spreading across social media",
       "value": "",
       "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "PowerBank plans 2MW modular data center in Ontario, Canada",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/powerbank-plans-2mw-modular-data-center-in-ontario-canada/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Signs first lease with AI cloud partner",
-      "value": "",
-      "status": "ACTIVE"
     }
   ],
   "action_items": [
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
-    "Brookfield Seals $9B AI Data Centre Deal With Naver and More — A$9.0B | ACTIVE | Google News",
+    "Sponsored: One security strategy. Four different data center realities. | ACTIVE — Data Centre Dynamics",
+    "Europe’s AI ambitions are hitting a power bottleneck | ACTIVE — Data Centre Dynamics",
     "Equinix posts record annualized gross bookings of $533m, up  — A$533M | ACTIVE | Data Centre Dynamics",
     "Data center mooted in Glasgow by Scottish automotive firm | ACTIVE — Data Centre Dynamics",
-    "Modular data center provider DXN loses neocloud customer contract | ACTIVE — Data Centre Dynamics",
-    "DayOne signs MoU with Sembcorp to integrate power and energy solutions across AP | ACTIVE — Data Centre Dynamics"
+    "Modular data center provider DXN loses neocloud customer contract | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
       {
-        "source": "Google News",
-        "title": "Brookfield Seals $9B AI Data Centre Deal With Naver and More APAC Real Estate Headlines - Mingtiandi",
-        "agency": "Google News",
+        "source": "Data Centre Dynamics",
+        "title": "Sponsored: One security strategy. Four different data center realities.",
+        "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ2dwcEd2bnMyeEZOc21rOUdiTG5sTlhubmlKTGg0c1FId253WjhIMFJlTlBhZEFPcTNiYl9lY2p4REVYdXp1bFpFUEdRSE9pdVlJZWVxYnBzTGhxbms2UnJrY1BFb3hmcmNTZ19aODFzNExINFRrYXNkcmZETjF6S1R0LVJtWTFVenV3R2dCT1pidlEwdmRHUVNXeWxsRHk1NXhTSWFsQTNVUQ?oc=5",
+        "url": "https://www.datacenterdynamics.com/en/opinions/one-security-strategy-four-different-data-center-realities/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "Brookfield Seals $9B AI Data Centre Deal With Naver and More APAC Real Estate Headlines &nbsp;&nbsp; Mingtiandi",
-        "value": "A$9.0B",
+        "summary": "The strongest data center security strategies do not deploy identical controls everywhere",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Europe’s AI ambitions are hitting a power bottleneck",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/europes-ai-ambitions-are-hitting-a-power-bottleneck/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Data center demand is surging, but outdated grid infrastructure is preventing Europe from making full use of renewable energy",
+        "value": "",
         "status": "ACTIVE"
       },
       {
@@ -276,21 +291,6 @@
         "summary": "The industry is facing an unprecedented tide of misinformation spreading across social media",
         "value": "",
         "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "PowerBank plans 2MW modular data center in Ontario, Canada",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/powerbank-plans-2mw-modular-data-center-in-ontario-canada/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Signs first lease with AI cloud partner",
-        "value": "",
-        "status": "ACTIVE"
       }
     ]
   },
@@ -298,6 +298,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-11-01",
+      "file": "reports/daily-lemon-2026-11-01.pdf"
     },
     {
       "date": "2026-10-31",
@@ -410,10 +414,6 @@
     {
       "date": "2026-10-04",
       "file": "reports/daily-lemon-2026-10-04.pdf"
-    },
-    {
-      "date": "2026-10-03",
-      "file": "reports/daily-lemon-2026-10-03.pdf"
     }
   ]
 }
