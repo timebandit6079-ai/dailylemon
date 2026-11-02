@@ -1,14 +1,44 @@
 {
-  "date": "2026-11-01",
-  "timestamp": "Sunday 01 November 2026 — 10:06 AM AEST",
-  "pdf": "reports/daily-lemon-2026-11-01.pdf",
+  "date": "2026-11-02",
+  "timestamp": "Monday 02 November 2026 — 10:42 AM AEST",
+  "pdf": "reports/daily-lemon-2026-11-02.pdf",
   "stats": {
-    "leads": 9,
+    "leads": 10,
     "priority": 0,
     "trade": 0,
     "urgent": 0
   },
   "leads": [
+    {
+      "source": "Data Centre Dynamics",
+      "title": "What could 1,000x more reliable quantum computation unlock?",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/what-could-1000x-more-reliable-quantum-computation-unlock/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "And why you should start thinking about quantum computing as an element of the broader data center ecosystem",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Beyond the grid: the maintenance challenges putting the data center boom at risk",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/beyond-the-grid-the-maintenance-challenges-putting-the-data-center-boom-at-risk/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Building maintenance needs more attention",
+      "value": "",
+      "status": "ACTIVE"
+    },
     {
       "source": "Data Centre Dynamics",
       "title": "Sponsored: One security strategy. Four different data center realities.",
@@ -128,35 +158,50 @@
       "summary": "If successful, the company plans to expand to additional sites",
       "value": "",
       "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "A taxonomy of American data center opposition: Politics, misinformation, and conspiracy theories",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/analysis/a-taxonomy-of-american-data-center-opposition-politics-misinformation-and-conspiracy-theories/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "The industry is facing an unprecedented tide of misinformation spreading across social media",
-      "value": "",
-      "status": "ACTIVE"
     }
   ],
   "action_items": [
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
+    "What could 1,000x more reliable quantum computation unlock? | ACTIVE — Data Centre Dynamics",
+    "Beyond the grid: the maintenance challenges putting the data center boom at risk | ACTIVE — Data Centre Dynamics",
     "Sponsored: One security strategy. Four different data center realities. | ACTIVE — Data Centre Dynamics",
     "Europe’s AI ambitions are hitting a power bottleneck | ACTIVE — Data Centre Dynamics",
-    "Equinix posts record annualized gross bookings of $533m, up  — A$533M | ACTIVE | Data Centre Dynamics",
-    "Data center mooted in Glasgow by Scottish automotive firm | ACTIVE — Data Centre Dynamics",
-    "Modular data center provider DXN loses neocloud customer contract | ACTIVE — Data Centre Dynamics"
+    "Equinix posts record annualized gross bookings of $533m, up  — A$533M | ACTIVE | Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
+      {
+        "source": "Data Centre Dynamics",
+        "title": "What could 1,000x more reliable quantum computation unlock?",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/what-could-1000x-more-reliable-quantum-computation-unlock/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "And why you should start thinking about quantum computing as an element of the broader data center ecosystem",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Beyond the grid: the maintenance challenges putting the data center boom at risk",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/beyond-the-grid-the-maintenance-challenges-putting-the-data-center-boom-at-risk/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Building maintenance needs more attention",
+        "value": "",
+        "status": "ACTIVE"
+      },
       {
         "source": "Data Centre Dynamics",
         "title": "Sponsored: One security strategy. Four different data center realities.",
@@ -276,21 +321,6 @@
         "summary": "If successful, the company plans to expand to additional sites",
         "value": "",
         "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "A taxonomy of American data center opposition: Politics, misinformation, and conspiracy theories",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/analysis/a-taxonomy-of-american-data-center-opposition-politics-misinformation-and-conspiracy-theories/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "The industry is facing an unprecedented tide of misinformation spreading across social media",
-        "value": "",
-        "status": "ACTIVE"
       }
     ]
   },
@@ -298,6 +328,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-11-02",
+      "file": "reports/daily-lemon-2026-11-02.pdf"
     },
     {
       "date": "2026-11-01",
@@ -410,10 +444,6 @@
     {
       "date": "2026-10-05",
       "file": "reports/daily-lemon-2026-10-05.pdf"
-    },
-    {
-      "date": "2026-10-04",
-      "file": "reports/daily-lemon-2026-10-04.pdf"
     }
   ]
 }
