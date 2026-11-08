@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-07",
-  "timestamp": "Saturday 07 November 2026 — 10:55 AM AEST",
-  "pdf": "reports/daily-lemon-2026-11-07.pdf",
+  "date": "2026-11-08",
+  "timestamp": "Sunday 08 November 2026 — 10:32 AM AEST",
+  "pdf": "reports/daily-lemon-2026-11-08.pdf",
   "stats": {
-    "leads": 10,
+    "leads": 8,
     "priority": 0,
     "trade": 0,
     "urgent": 0
@@ -25,32 +25,17 @@
       "status": "ANNOUNCED"
     },
     {
-      "source": "Google News",
-      "title": "Nextdc Surges on Report of Goodman, Digital Realty Buying Stake - Bloomberg.com",
-      "agency": "Google News",
+      "source": "Data Centre Dynamics",
+      "title": "Sponsored: Water stewardship starts with design, not offsets",
+      "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObFd1UFlzcVFaaWtQNDJUZjFuek5rWk9QbjdBWDNNN3lWMGNhRUpTVXN2UnhBbExhY0s2UjlQclAyVGw5bGpqUnZ5OVRtdlYyekhWRF85ck1uZ19ySmljMWExRDFGdElPWkJJOHZFQ2dTbzR5QmpYOU5la21pM1JESjVTb192QWphVWFSem1kRlloa2Fsc0VjbmhRMmJYYnlFZ0xKMWp4QzIxZ0F4d1kxNFhJRQ?oc=5",
+      "url": "https://www.datacenterdynamics.com/en/opinions/water-stewardship-starts-with-design-not-offsets/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "Nextdc Surges on Report of Goodman, Digital Realty Buying Stake &nbsp;&nbsp; Bloomberg.com",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Google News",
-      "title": "NEXTDC Limited: Response to Share Raid by Goodman Group and Digital Realty - TradingView",
-      "agency": "Google News",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb19vMWhmeS1VTlpiRndLTld3ckRiVmVqOWd3dHVEOUFzUnRveFU3emp1TVhxZWdBaFJtaHJKaWxENHlSNVdndnNxUi1MWVZiTU1ZaDNIYzF4bGk3YjMwSFNzckhFWDdrVzNHVkdULWFvSEpDTGxLNnVjMHcyRkNLMEh3RWZlend1WXdIQWpvUVVZanAxdnNHQXh6YkxYaVM2YlAzTDZrNmpHWkcxeDBCc1ZHc0FUVVlvOW85WU9ieUx5dThHVmc?oc=5",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "NEXTDC Limited: Response to Share Raid by Goodman Group and Digital Realty &nbsp;&nbsp; TradingView",
+      "summary": "How can data center development not only minimize its impact on local water resources, but contribute to the long-term resilience of the watersheds in which we operate?",
       "value": "",
       "status": "ACTIVE"
     },
@@ -143,21 +128,6 @@
       "summary": "Set to be powered via fuel cells and gas generation, coupled with CCS",
       "value": "",
       "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Playmobil owner to enter data center market with new facility in Dietenhofen, Germany",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/playmobil-owner-to-enter-data-center-market-with-new-facility-in-dietenhofen-germany/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "The proposed facility will have power requirements of up to 100MW",
-      "value": "",
-      "status": "ANNOUNCED"
     }
   ],
   "action_items": [
@@ -165,10 +135,10 @@
   ],
   "market_intel": [
     "Two days of anti-data center protests planned across Europe | ANNOUNCED — Data Centre Dynamics",
-    "Nextdc Surges on Report of Goodman, Digital Realty Buying Stake - Bloomberg.com | ACTIVE — Google News",
-    "NEXTDC Limited: Response to Share Raid by Goodman Group and Digital Realty - Tra | ACTIVE — Google News",
+    "Sponsored: Water stewardship starts with design, not offsets | ACTIVE — Data Centre Dynamics",
     "SpaceXAI plans data center in Arizona, Musk's firm claims it will have 6GW capac | ACTIVE — Data Centre Dynamics",
-    "ING Bank looks to sell $500m in data center loans at once, i — A$500M | ACTIVE | Data Centre Dynamics"
+    "ING Bank looks to sell $500m in data center loans at once, i — A$500M | ACTIVE | Data Centre Dynamics",
+    "Why Ireland’s data centers need a new approach to energy resilience | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "ACT": [
@@ -190,32 +160,17 @@
     ],
     "AU": [
       {
-        "source": "Google News",
-        "title": "Nextdc Surges on Report of Goodman, Digital Realty Buying Stake - Bloomberg.com",
-        "agency": "Google News",
+        "source": "Data Centre Dynamics",
+        "title": "Sponsored: Water stewardship starts with design, not offsets",
+        "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObFd1UFlzcVFaaWtQNDJUZjFuek5rWk9QbjdBWDNNN3lWMGNhRUpTVXN2UnhBbExhY0s2UjlQclAyVGw5bGpqUnZ5OVRtdlYyekhWRF85ck1uZ19ySmljMWExRDFGdElPWkJJOHZFQ2dTbzR5QmpYOU5la21pM1JESjVTb192QWphVWFSem1kRlloa2Fsc0VjbmhRMmJYYnlFZ0xKMWp4QzIxZ0F4d1kxNFhJRQ?oc=5",
+        "url": "https://www.datacenterdynamics.com/en/opinions/water-stewardship-starts-with-design-not-offsets/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "Nextdc Surges on Report of Goodman, Digital Realty Buying Stake &nbsp;&nbsp; Bloomberg.com",
-        "value": "",
-        "status": "ACTIVE"
-      },
-      {
-        "source": "Google News",
-        "title": "NEXTDC Limited: Response to Share Raid by Goodman Group and Digital Realty - TradingView",
-        "agency": "Google News",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb19vMWhmeS1VTlpiRndLTld3ckRiVmVqOWd3dHVEOUFzUnRveFU3emp1TVhxZWdBaFJtaHJKaWxENHlSNVdndnNxUi1MWVZiTU1ZaDNIYzF4bGk3YjMwSFNzckhFWDdrVzNHVkdULWFvSEpDTGxLNnVjMHcyRkNLMEh3RWZlend1WXdIQWpvUVVZanAxdnNHQXh6YkxYaVM2YlAzTDZrNmpHWkcxeDBCc1ZHc0FUVVlvOW85WU9ieUx5dThHVmc?oc=5",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "NEXTDC Limited: Response to Share Raid by Goodman Group and Digital Realty &nbsp;&nbsp; TradingView",
+        "summary": "How can data center development not only minimize its impact on local water resources, but contribute to the long-term resilience of the watersheds in which we operate?",
         "value": "",
         "status": "ACTIVE"
       },
@@ -308,21 +263,6 @@
         "summary": "Set to be powered via fuel cells and gas generation, coupled with CCS",
         "value": "",
         "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Playmobil owner to enter data center market with new facility in Dietenhofen, Germany",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/playmobil-owner-to-enter-data-center-market-with-new-facility-in-dietenhofen-germany/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "The proposed facility will have power requirements of up to 100MW",
-        "value": "",
-        "status": "ANNOUNCED"
       }
     ]
   },
@@ -330,6 +270,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-11-08",
+      "file": "reports/daily-lemon-2026-11-08.pdf"
     },
     {
       "date": "2026-11-07",
@@ -442,10 +386,6 @@
     {
       "date": "2026-10-11",
       "file": "reports/daily-lemon-2026-10-11.pdf"
-    },
-    {
-      "date": "2026-10-10",
-      "file": "reports/daily-lemon-2026-10-10.pdf"
     }
   ]
 }
