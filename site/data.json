@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-08",
-  "timestamp": "Sunday 08 November 2026 — 10:32 AM AEST",
-  "pdf": "reports/daily-lemon-2026-11-08.pdf",
+  "date": "2026-11-09",
+  "timestamp": "Monday 09 November 2026 — 10:51 AM AEST",
+  "pdf": "reports/daily-lemon-2026-11-09.pdf",
   "stats": {
-    "leads": 8,
+    "leads": 9,
     "priority": 0,
     "trade": 0,
     "urgent": 0
@@ -23,6 +23,36 @@
       "summary": "Stop Dirty Data Centres 'days of action' follow anti-data center midterms in the US",
       "value": "",
       "status": "ANNOUNCED"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Sponsored: Why contamination control is now critical",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/why-contamination-control-is-now-critical/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Contamination control in a live data hall is critical maintenance and should be treated as such",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "What data centers need to consider when storing produced water",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/what-data-centers-need-to-consider-when-storing-produced-water/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "A possible alternative to portable supplies",
+      "value": "",
+      "status": "ACTIVE"
     },
     {
       "source": "Data Centre Dynamics",
@@ -113,21 +143,6 @@
       "summary": "An almost $10bn increase",
       "value": "",
       "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Google announces $17bn data center campus in Cheyenne, Wyoming",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/google-announces-17bn-data-center-campus-in-cheyenne-wyoming/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Set to be powered via fuel cells and gas generation, coupled with CCS",
-      "value": "",
-      "status": "ACTIVE"
     }
   ],
   "action_items": [
@@ -135,10 +150,10 @@
   ],
   "market_intel": [
     "Two days of anti-data center protests planned across Europe | ANNOUNCED — Data Centre Dynamics",
+    "Sponsored: Why contamination control is now critical | ACTIVE — Data Centre Dynamics",
+    "What data centers need to consider when storing produced water | ACTIVE — Data Centre Dynamics",
     "Sponsored: Water stewardship starts with design, not offsets | ACTIVE — Data Centre Dynamics",
-    "SpaceXAI plans data center in Arizona, Musk's firm claims it will have 6GW capac | ACTIVE — Data Centre Dynamics",
-    "ING Bank looks to sell $500m in data center loans at once, i — A$500M | ACTIVE | Data Centre Dynamics",
-    "Why Ireland’s data centers need a new approach to energy resilience | ACTIVE — Data Centre Dynamics"
+    "SpaceXAI plans data center in Arizona, Musk's firm claims it will have 6GW capac | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "ACT": [
@@ -159,6 +174,36 @@
       }
     ],
     "AU": [
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Sponsored: Why contamination control is now critical",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/why-contamination-control-is-now-critical/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Contamination control in a live data hall is critical maintenance and should be treated as such",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "What data centers need to consider when storing produced water",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/what-data-centers-need-to-consider-when-storing-produced-water/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "A possible alternative to portable supplies",
+        "value": "",
+        "status": "ACTIVE"
+      },
       {
         "source": "Data Centre Dynamics",
         "title": "Sponsored: Water stewardship starts with design, not offsets",
@@ -248,21 +293,6 @@
         "summary": "An almost $10bn increase",
         "value": "",
         "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Google announces $17bn data center campus in Cheyenne, Wyoming",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/google-announces-17bn-data-center-campus-in-cheyenne-wyoming/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Set to be powered via fuel cells and gas generation, coupled with CCS",
-        "value": "",
-        "status": "ACTIVE"
       }
     ]
   },
@@ -270,6 +300,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-11-09",
+      "file": "reports/daily-lemon-2026-11-09.pdf"
     },
     {
       "date": "2026-11-08",
@@ -382,10 +416,6 @@
     {
       "date": "2026-10-12",
       "file": "reports/daily-lemon-2026-10-12.pdf"
-    },
-    {
-      "date": "2026-10-11",
-      "file": "reports/daily-lemon-2026-10-11.pdf"
     }
   ]
 }
