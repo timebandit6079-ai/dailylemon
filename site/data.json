@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-12",
-  "timestamp": "Thursday 12 November 2026 — 12:15 PM AEST",
-  "pdf": "reports/daily-lemon-2026-11-12.pdf",
+  "date": "2026-11-13",
+  "timestamp": "Friday 13 November 2026 — 11:48 AM AEST",
+  "pdf": "reports/daily-lemon-2026-11-13.pdf",
   "stats": {
-    "leads": 6,
+    "leads": 7,
     "priority": 0,
     "trade": 0,
     "urgent": 0
@@ -11,91 +11,106 @@
   "leads": [
     {
       "source": "Data Centre Dynamics",
-      "title": "Consortium to develop 400MW hyperscale AI data center in Oman",
+      "title": "Forest County Potawatomi Community seeks to expand Milwaukee data center",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/consortium-to-develop-400mw-hyperscale-ai-data-center-in-oman/",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-pledges-to-cover-power-costs-for-data-center-buildout/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "US cloud computing firm Crusoe has indicated interest as a potential off-taker for the project’s data center capacity",
+      "summary": "Challenges Milwaukee's data center moratorium",
       "value": "",
       "status": "ACTIVE"
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "Sponsored: Harmonic considerations for data centers",
+      "title": "Nebius signs $12bn in deals for Q3, all deals reportedly cover its capex",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/opinions/harmonic-considerations-for-data-centers/",
+      "url": "https://www.datacenterdynamics.com/en/news/nebius-signs-12bn-in-deals-for-q3-all-deals-reportedly-cover-its-capex/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "In an always-on digital economy, power quality is not optional. It is foundational to data center reliability",
+      "summary": "Company also notes delays to Microsoft data center project",
       "value": "",
       "status": "ACTIVE"
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "Kraft Group could build 900MW data center campus in Sutton, Massachusetts, investing $16 billion",
+      "title": "Advancing thermal management for the AI era",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/kraft-group-could-build-900mw-data-center-campus-in-sutton-massachusetts-investing-16-billion/",
+      "url": "https://www.datacenterdynamics.com/en/magazines/advancing-thermal-management-for-the-ai-era/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "Property would scale from an initial two buildings to ten by 2033",
-      "value": "A$16.0B",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Proposal for AI data center at former paper mill in Maine resurfaces",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/proposal-for-ai-data-center-at-former-paper-mill-in-maine-resurfaces/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "JGT2 Redevelopment wants to develop the former site of the Androscoggin paper mill",
+      "summary": "Taking a direct approach to liquid cooling in high-density data centers",
       "value": "",
       "status": "ACTIVE"
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "10-year data center moratorium approved in Ottawa, Kansas",
+      "title": "SpaceX developing custom Nvidia Vera Rubin rack dubbed Kessel for its orbital data centers – report",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/10-year-data-center-moratorium-approved-in-ottawa-kansas/",
+      "url": "https://www.datacenterdynamics.com/en/news/spacex-developing-custom-nvidia-vera-rubin-rack-dubbed-kessel-for-its-orbital-data-centers-report/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "... but the hyperscale project that sparked protests had already been canned",
+      "summary": "Research firms says while underlying configuration will remain the same, AI company is switching up the PCB",
       "value": "",
-      "status": "APPROVED"
+      "status": "ACTIVE"
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "Quantinuum upgrades quantum computer at Riken, partners with SoftBank for AI data center deployments",
+      "title": "Sponsored: Cooling orchestration software: A welcome addition to AI data center operations",
       "agency": "Data Centre Dynamics",
       "close_date": "",
       "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/quantinuum-upgrades-quantum-computer-at-riken-partners-with-softbank-for-ai-data-center-deployments/",
+      "url": "https://www.datacenterdynamics.com/en/opinions/cooling-orchestration-software-a-welcome-addition-to-ai-data-center-operations/",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "Quantum firm upgrades Reimei system to H2 version",
+      "summary": "Cooling orchestration software can help operators avoid unnecessary capital expenditures, reduce operating costs, and support more efficient, scalable AI infrastructure",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "OpenAI faces civil racketeering charges over $30bn data center planned in Effingham County, Georgia",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/news/openai-faces-civil-racketeering-charges-over-30bn-data-center-planned-in-effingham-county-georgia/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Residents unhappy about being kept in the dark",
+      "value": "",
+      "status": "ANNOUNCED"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "CDC files to develop 1.4GW data center campus in Kemps Creek, Australia",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/news/cdc-files-to-develop-14gw-data-center-campus-in-kemps-creek-australia/",
+      "state": "NSW",
+      "region": "Sydney",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Company refiles plans at latest Sydney development",
       "value": "",
       "status": "ACTIVE"
     }
@@ -104,101 +119,118 @@
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
-    "Consortium to develop 400MW hyperscale AI data center in Oman | ACTIVE — Data Centre Dynamics",
-    "Sponsored: Harmonic considerations for data centers | ACTIVE — Data Centre Dynamics",
-    "Kraft Group could build 900MW data center campus in Sutton,  — A$16.0B | ACTIVE | Data Centre Dynamics",
-    "Proposal for AI data center at former paper mill in Maine resurfaces | ACTIVE — Data Centre Dynamics",
-    "10-year data center moratorium approved in Ottawa, Kansas | APPROVED — Data Centre Dynamics"
+    "Forest County Potawatomi Community seeks to expand Milwaukee data center | ACTIVE — Data Centre Dynamics",
+    "Nebius signs $12bn in deals for Q3, all deals reportedly cover its capex | ACTIVE — Data Centre Dynamics",
+    "Advancing thermal management for the AI era | ACTIVE — Data Centre Dynamics",
+    "SpaceX developing custom Nvidia Vera Rubin rack dubbed Kessel for its orbital da | ACTIVE — Data Centre Dynamics",
+    "Sponsored: Cooling orchestration software: A welcome addition to AI data center  | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
       {
         "source": "Data Centre Dynamics",
-        "title": "Consortium to develop 400MW hyperscale AI data center in Oman",
+        "title": "Forest County Potawatomi Community seeks to expand Milwaukee data center",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/consortium-to-develop-400mw-hyperscale-ai-data-center-in-oman/",
+        "url": "https://www.datacenterdynamics.com/en/news/microsoft-pledges-to-cover-power-costs-for-data-center-buildout/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "US cloud computing firm Crusoe has indicated interest as a potential off-taker for the project’s data center capacity",
+        "summary": "Challenges Milwaukee's data center moratorium",
         "value": "",
         "status": "ACTIVE"
       },
       {
         "source": "Data Centre Dynamics",
-        "title": "Sponsored: Harmonic considerations for data centers",
+        "title": "Nebius signs $12bn in deals for Q3, all deals reportedly cover its capex",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/opinions/harmonic-considerations-for-data-centers/",
+        "url": "https://www.datacenterdynamics.com/en/news/nebius-signs-12bn-in-deals-for-q3-all-deals-reportedly-cover-its-capex/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "In an always-on digital economy, power quality is not optional. It is foundational to data center reliability",
+        "summary": "Company also notes delays to Microsoft data center project",
         "value": "",
         "status": "ACTIVE"
       },
       {
         "source": "Data Centre Dynamics",
-        "title": "Kraft Group could build 900MW data center campus in Sutton, Massachusetts, investing $16 billion",
+        "title": "Advancing thermal management for the AI era",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/kraft-group-could-build-900mw-data-center-campus-in-sutton-massachusetts-investing-16-billion/",
+        "url": "https://www.datacenterdynamics.com/en/magazines/advancing-thermal-management-for-the-ai-era/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "Property would scale from an initial two buildings to ten by 2033",
-        "value": "A$16.0B",
-        "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Proposal for AI data center at former paper mill in Maine resurfaces",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/proposal-for-ai-data-center-at-former-paper-mill-in-maine-resurfaces/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "JGT2 Redevelopment wants to develop the former site of the Androscoggin paper mill",
+        "summary": "Taking a direct approach to liquid cooling in high-density data centers",
         "value": "",
         "status": "ACTIVE"
       },
       {
         "source": "Data Centre Dynamics",
-        "title": "10-year data center moratorium approved in Ottawa, Kansas",
+        "title": "SpaceX developing custom Nvidia Vera Rubin rack dubbed Kessel for its orbital data centers – report",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/10-year-data-center-moratorium-approved-in-ottawa-kansas/",
+        "url": "https://www.datacenterdynamics.com/en/news/spacex-developing-custom-nvidia-vera-rubin-rack-dubbed-kessel-for-its-orbital-data-centers-report/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "... but the hyperscale project that sparked protests had already been canned",
+        "summary": "Research firms says while underlying configuration will remain the same, AI company is switching up the PCB",
         "value": "",
-        "status": "APPROVED"
+        "status": "ACTIVE"
       },
       {
         "source": "Data Centre Dynamics",
-        "title": "Quantinuum upgrades quantum computer at Riken, partners with SoftBank for AI data center deployments",
+        "title": "Sponsored: Cooling orchestration software: A welcome addition to AI data center operations",
         "agency": "Data Centre Dynamics",
         "close_date": "",
         "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/quantinuum-upgrades-quantum-computer-at-riken-partners-with-softbank-for-ai-data-center-deployments/",
+        "url": "https://www.datacenterdynamics.com/en/opinions/cooling-orchestration-software-a-welcome-addition-to-ai-data-center-operations/",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "Quantum firm upgrades Reimei system to H2 version",
+        "summary": "Cooling orchestration software can help operators avoid unnecessary capital expenditures, reduce operating costs, and support more efficient, scalable AI infrastructure",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "OpenAI faces civil racketeering charges over $30bn data center planned in Effingham County, Georgia",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/news/openai-faces-civil-racketeering-charges-over-30bn-data-center-planned-in-effingham-county-georgia/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Residents unhappy about being kept in the dark",
+        "value": "",
+        "status": "ANNOUNCED"
+      }
+    ],
+    "NSW": [
+      {
+        "source": "Data Centre Dynamics",
+        "title": "CDC files to develop 1.4GW data center campus in Kemps Creek, Australia",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/news/cdc-files-to-develop-14gw-data-center-campus-in-kemps-creek-australia/",
+        "state": "NSW",
+        "region": "Sydney",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Company refiles plans at latest Sydney development",
         "value": "",
         "status": "ACTIVE"
       }
@@ -208,6 +240,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-11-13",
+      "file": "reports/daily-lemon-2026-11-13.pdf"
     },
     {
       "date": "2026-11-12",
@@ -320,10 +356,6 @@
     {
       "date": "2026-10-16",
       "file": "reports/daily-lemon-2026-10-16.pdf"
-    },
-    {
-      "date": "2026-10-15",
-      "file": "reports/daily-lemon-2026-10-15.pdf"
     }
   ]
 }
