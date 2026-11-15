@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-14",
-  "timestamp": "Saturday 14 November 2026 — 11:26 AM AEST",
-  "pdf": "reports/daily-lemon-2026-11-14.pdf",
+  "date": "2026-11-15",
+  "timestamp": "Sunday 15 November 2026 — 11:00 AM AEST",
+  "pdf": "reports/daily-lemon-2026-11-15.pdf",
   "stats": {
-    "leads": 9,
+    "leads": 10,
     "priority": 0,
     "trade": 0,
     "urgent": 0
@@ -21,6 +21,81 @@
       "trade_match": false,
       "priority": null,
       "summary": "Quantum DC Pauses 1,200MW Tungkillo Data Centre Project in Australia After Community Opposition &nbsp;&nbsp; Construction Review",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Developer Westend Real Assets buys two data centers in Hamburg",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/news/developer-westend-real-assets-buys-two-data-centers-in-hamburg/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "The facilities were acquired from private equity firm Deutsche Beteiligungs",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-mou-for-18gw-of-data-center-capacity-in-andhra-pradesh-india/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Company targets two projects outside Vizag",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "European Union offers to build data center for Moldova",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/news/european-union-offers-to-build-data-center-for-moldova/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "The facility would help to protect the personal data of Moldovan citizens from cyberattacks",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Sponsored: When the pressure heats up, what really cools servers down?",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/when-the-pressure-heats-up-what-really-cools-servers-down/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Demand is leading to cooling constraints across the data center. Joint ventures and more sustainable chillers could provide the long-term answer",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "NTT Docomo to pilot data center heat-reuse for on-shore shrimp farm in Japan",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/news/ntt-docomo-to-pilot-data-center-heat-reuse-for-on-shore-shrimp-farm-in-japan/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Part of Tokyo city initiative to find uses for data center heat",
       "value": "",
       "status": "ACTIVE"
     },
@@ -83,66 +158,6 @@
       "summary": "Managing the primary facility water loop as mission-critical infrastructure for high-density, liquid-cooled AI computing",
       "value": "",
       "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Syntys breaks ground on 20MW data center in Qatar",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/syntys-breaks-ground-on-20mw-data-center-in-qatar/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Facility to support high-density GPU workloads",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Cerebras secures Microsoft as a customer",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/cerebras-secures-microsoft-as-a-customer/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Wafer-scale chip and AI cloud company now has three hyperscalers in its books",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Poste Italiane establishes €600m co-investment fund to support data center projects",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/poste-italiane-establishes-600m-co-investment-fund-to-support-data-center-projects/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "As company seeks to bolster data center infrastructure",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Three data center developments in Australia change course after community backlash",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/three-data-center-developments-in-australia-change-course-after-community-backlash/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Developments in Lane Cove, Cooks River, and Tungkillo",
-      "value": "",
-      "status": "ACTIVE"
     }
   ],
   "action_items": [
@@ -150,10 +165,10 @@
   ],
   "market_intel": [
     "Quantum DC Pauses 1,200MW Tungkillo Data Centre Project in Australia After Commu | ACTIVE — Google News",
-    "Integrated data center infrastructure | ACTIVE — Data Centre Dynamics",
-    "ASIC ambition | ACTIVE — Data Centre Dynamics",
-    "Samsung in talks to acquire data center cooling company Modine Manufacturing - r | ACTIVE — Data Centre Dynamics",
-    "Sponsored: Why AI infrastructure must rethink facility water loop management | ACTIVE — Data Centre Dynamics"
+    "Developer Westend Real Assets buys two data centers in Hamburg | ACTIVE — Data Centre Dynamics",
+    "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India | ACTIVE — Data Centre Dynamics",
+    "European Union offers to build data center for Moldova | ACTIVE — Data Centre Dynamics",
+    "Sponsored: When the pressure heats up, what really cools servers down? | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
@@ -169,6 +184,81 @@
         "trade_match": false,
         "priority": null,
         "summary": "Quantum DC Pauses 1,200MW Tungkillo Data Centre Project in Australia After Community Opposition &nbsp;&nbsp; Construction Review",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Developer Westend Real Assets buys two data centers in Hamburg",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/news/developer-westend-real-assets-buys-two-data-centers-in-hamburg/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "The facilities were acquired from private equity firm Deutsche Beteiligungs",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-mou-for-18gw-of-data-center-capacity-in-andhra-pradesh-india/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Company targets two projects outside Vizag",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "European Union offers to build data center for Moldova",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/news/european-union-offers-to-build-data-center-for-moldova/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "The facility would help to protect the personal data of Moldovan citizens from cyberattacks",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Sponsored: When the pressure heats up, what really cools servers down?",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/marketwatch/when-the-pressure-heats-up-what-really-cools-servers-down/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Demand is leading to cooling constraints across the data center. Joint ventures and more sustainable chillers could provide the long-term answer",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "NTT Docomo to pilot data center heat-reuse for on-shore shrimp farm in Japan",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/news/ntt-docomo-to-pilot-data-center-heat-reuse-for-on-shore-shrimp-farm-in-japan/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Part of Tokyo city initiative to find uses for data center heat",
         "value": "",
         "status": "ACTIVE"
       },
@@ -231,66 +321,6 @@
         "summary": "Managing the primary facility water loop as mission-critical infrastructure for high-density, liquid-cooled AI computing",
         "value": "",
         "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Syntys breaks ground on 20MW data center in Qatar",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/syntys-breaks-ground-on-20mw-data-center-in-qatar/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Facility to support high-density GPU workloads",
-        "value": "",
-        "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Cerebras secures Microsoft as a customer",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/cerebras-secures-microsoft-as-a-customer/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Wafer-scale chip and AI cloud company now has three hyperscalers in its books",
-        "value": "",
-        "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Poste Italiane establishes €600m co-investment fund to support data center projects",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/poste-italiane-establishes-600m-co-investment-fund-to-support-data-center-projects/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "As company seeks to bolster data center infrastructure",
-        "value": "",
-        "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Three data center developments in Australia change course after community backlash",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/three-data-center-developments-in-australia-change-course-after-community-backlash/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Developments in Lane Cove, Cooks River, and Tungkillo",
-        "value": "",
-        "status": "ACTIVE"
       }
     ]
   },
@@ -298,6 +328,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-11-15",
+      "file": "reports/daily-lemon-2026-11-15.pdf"
     },
     {
       "date": "2026-11-14",
@@ -410,10 +444,6 @@
     {
       "date": "2026-10-18",
       "file": "reports/daily-lemon-2026-10-18.pdf"
-    },
-    {
-      "date": "2026-10-17",
-      "file": "reports/daily-lemon-2026-10-17.pdf"
     }
   ]
 }
