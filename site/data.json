@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-15",
-  "timestamp": "Sunday 15 November 2026 — 11:00 AM AEST",
-  "pdf": "reports/daily-lemon-2026-11-15.pdf",
+  "date": "2026-11-16",
+  "timestamp": "Monday 16 November 2026 — 11:00 AM AEST",
+  "pdf": "reports/daily-lemon-2026-11-16.pdf",
   "stats": {
     "leads": 10,
     "priority": 0,
@@ -11,16 +11,16 @@
   "leads": [
     {
       "source": "Google News",
-      "title": "Quantum DC Pauses 1,200MW Tungkillo Data Centre Project in Australia After Community Opposition - Construction Review",
+      "title": "Data centre builders look to other work as opposition grows - AFR",
       "agency": "Google News",
       "close_date": "",
       "urgency": "",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeGJiWlVMaUxVc3NBSEc1eWtmekdsYnRsT3c5V1UwU3JocGpmX0ZmZWl6anoyMmRDenhVa3VtakdCX1J3NUZBVXA5S1hwZWgtSXVrUXZPZ1Y5dTF3REk1WEZuemMwTUdvLThRTkRaeDk5UGxrOWJHNDRHOWd2RmIzRWVuMG5GbXp2QzJiYWNDcDhuVDFNT0xuWUlybkpvZ3lsVWowUmVVQXNzS1R0VlU2ZXE3VTQ4eTlKdXo2REVkU2d3Q2J3enVOZFBIajk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM195c0tYdkhESHBBbGo1MDBNMkp6S2dlXzd3Tlg1Y2huelhJWHpSZ1o4dlVFVW5nM0sxRUxvSUowNHg5UFlmSkpudkh6YTlob1oxVG56QTFua0libkVTWTRickhMeVVuU2QwUHpzakhpT1hhTFlKNlN4eHE2aVB3eWR4NGtkUU5iREszMEJKczE5WWJEa0xTQ2d4MjYzUjVEUkFlUHc3Q0lCdmE4aHRmRV85djdOdw?oc=5",
       "state": "AU",
       "region": "General",
       "trade_match": false,
       "priority": null,
-      "summary": "Quantum DC Pauses 1,200MW Tungkillo Data Centre Project in Australia After Community Opposition &nbsp;&nbsp; Construction Review",
+      "summary": "Data centre builders look to other work as opposition grows &nbsp;&nbsp; AFR",
       "value": "",
       "status": "ACTIVE"
     },
@@ -164,7 +164,7 @@
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
-    "Quantum DC Pauses 1,200MW Tungkillo Data Centre Project in Australia After Commu | ACTIVE — Google News",
+    "Data centre builders look to other work as opposition grows - AFR | ACTIVE — Google News",
     "Developer Westend Real Assets buys two data centers in Hamburg | ACTIVE — Data Centre Dynamics",
     "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India | ACTIVE — Data Centre Dynamics",
     "European Union offers to build data center for Moldova | ACTIVE — Data Centre Dynamics",
@@ -174,16 +174,16 @@
     "AU": [
       {
         "source": "Google News",
-        "title": "Quantum DC Pauses 1,200MW Tungkillo Data Centre Project in Australia After Community Opposition - Construction Review",
+        "title": "Data centre builders look to other work as opposition grows - AFR",
         "agency": "Google News",
         "close_date": "",
         "urgency": "",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeGJiWlVMaUxVc3NBSEc1eWtmekdsYnRsT3c5V1UwU3JocGpmX0ZmZWl6anoyMmRDenhVa3VtakdCX1J3NUZBVXA5S1hwZWgtSXVrUXZPZ1Y5dTF3REk1WEZuemMwTUdvLThRTkRaeDk5UGxrOWJHNDRHOWd2RmIzRWVuMG5GbXp2QzJiYWNDcDhuVDFNT0xuWUlybkpvZ3lsVWowUmVVQXNzS1R0VlU2ZXE3VTQ4eTlKdXo2REVkU2d3Q2J3enVOZFBIajk?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM195c0tYdkhESHBBbGo1MDBNMkp6S2dlXzd3Tlg1Y2huelhJWHpSZ1o4dlVFVW5nM0sxRUxvSUowNHg5UFlmSkpudkh6YTlob1oxVG56QTFua0libkVTWTRickhMeVVuU2QwUHpzakhpT1hhTFlKNlN4eHE2aVB3eWR4NGtkUU5iREszMEJKczE5WWJEa0xTQ2d4MjYzUjVEUkFlUHc3Q0lCdmE4aHRmRV85djdOdw?oc=5",
         "state": "AU",
         "region": "General",
         "trade_match": false,
         "priority": null,
-        "summary": "Quantum DC Pauses 1,200MW Tungkillo Data Centre Project in Australia After Community Opposition &nbsp;&nbsp; Construction Review",
+        "summary": "Data centre builders look to other work as opposition grows &nbsp;&nbsp; AFR",
         "value": "",
         "status": "ACTIVE"
       },
@@ -330,6 +330,10 @@
       "file": "reports/daily-lemon-TEST.pdf"
     },
     {
+      "date": "2026-11-16",
+      "file": "reports/daily-lemon-2026-11-16.pdf"
+    },
+    {
       "date": "2026-11-15",
       "file": "reports/daily-lemon-2026-11-15.pdf"
     },
@@ -440,10 +444,6 @@
     {
       "date": "2026-10-19",
       "file": "reports/daily-lemon-2026-10-19.pdf"
-    },
-    {
-      "date": "2026-10-18",
-      "file": "reports/daily-lemon-2026-10-18.pdf"
     }
   ]
 }
