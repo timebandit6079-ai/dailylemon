@@ -1,14 +1,44 @@
 {
-  "date": "2026-11-21",
-  "timestamp": "Saturday 21 November 2026 — 12:11 PM AEST",
-  "pdf": "reports/daily-lemon-2026-11-21.pdf",
+  "date": "2026-11-22",
+  "timestamp": "Sunday 22 November 2026 — 11:15 AM AEST",
+  "pdf": "reports/daily-lemon-2026-11-22.pdf",
   "stats": {
-    "leads": 10,
+    "leads": 11,
     "priority": 0,
     "trade": 0,
     "urgent": 0
   },
   "leads": [
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Sponsored: The hidden efficiency gap in data center containment",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-hidden-efficiency-gap-in-data-center-containment/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "How a small seam above the hot aisle or missing roof over the cold aisle has been covertly inflating cooling costs, and how to close it without breaking fire code",
+      "value": "",
+      "status": "ACTIVE"
+    },
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Securing the turbine is only half the battle: the emissions monitoring path to data center power",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/securing-the-turbine-is-only-half-the-battle-the-emissions-monitoring-path-to-data-center-power/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Demonstrating compliance is what turns it into power",
+      "value": "",
+      "status": "ACTIVE"
+    },
     {
       "source": "Data Centre Dynamics",
       "title": "UK competition body probes hyperscaler security and cloud lock-in",
@@ -131,21 +161,6 @@
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "US Senate passes bill requiring data centers to pay more for grid infrastructure",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/us-senate-passes-bill-requiring-data-centers-to-pay-more-for-grid-infrastructure/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "Now heads to the House",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
       "title": "SpaceX expresses interest in building data centers in Bulgaria",
       "agency": "Data Centre Dynamics",
       "close_date": "",
@@ -164,14 +179,44 @@
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
+    "Sponsored: The hidden efficiency gap in data center containment | ACTIVE — Data Centre Dynamics",
+    "Securing the turbine is only half the battle: the emissions monitoring path to d | ACTIVE — Data Centre Dynamics",
     "UK competition body probes hyperscaler security and cloud lock-in | ACTIVE — Data Centre Dynamics",
     "Microsoft files for 316.7-acre data center campus in Mecklenburg County, Virgini | ACTIVE — Data Centre Dynamics",
-    "CyrusOne and KEP top out 48MW data center in Osaka, Japan | ACTIVE — Data Centre Dynamics",
-    "Apollo, Ardian, Macquarie, and Rai line up to acquire Retelit data centers - rep | ACTIVE — Data Centre Dynamics",
-    "Lambda deploys Nvidia Photonics switches at QScale data center | ACTIVE — Data Centre Dynamics"
+    "CyrusOne and KEP top out 48MW data center in Osaka, Japan | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Sponsored: The hidden efficiency gap in data center containment",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/the-hidden-efficiency-gap-in-data-center-containment/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "How a small seam above the hot aisle or missing roof over the cold aisle has been covertly inflating cooling costs, and how to close it without breaking fire code",
+        "value": "",
+        "status": "ACTIVE"
+      },
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Securing the turbine is only half the battle: the emissions monitoring path to data center power",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/securing-the-turbine-is-only-half-the-battle-the-emissions-monitoring-path-to-data-center-power/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Demonstrating compliance is what turns it into power",
+        "value": "",
+        "status": "ACTIVE"
+      },
       {
         "source": "Data Centre Dynamics",
         "title": "UK competition body probes hyperscaler security and cloud lock-in",
@@ -291,21 +336,6 @@
         "summary": "US government contractor Aedan Looking Glass ALG will lead technology and infrastructure delivery",
         "value": "",
         "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "US Senate passes bill requiring data centers to pay more for grid infrastructure",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/us-senate-passes-bill-requiring-data-centers-to-pay-more-for-grid-infrastructure/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "Now heads to the House",
-        "value": "",
-        "status": "ACTIVE"
       }
     ],
     "SA": [
@@ -330,6 +360,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-11-22",
+      "file": "reports/daily-lemon-2026-11-22.pdf"
     },
     {
       "date": "2026-11-21",
@@ -442,10 +476,6 @@
     {
       "date": "2026-10-25",
       "file": "reports/daily-lemon-2026-10-25.pdf"
-    },
-    {
-      "date": "2026-10-24",
-      "file": "reports/daily-lemon-2026-10-24.pdf"
     }
   ]
 }
