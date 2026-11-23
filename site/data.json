@@ -1,14 +1,29 @@
 {
-  "date": "2026-11-22",
-  "timestamp": "Sunday 22 November 2026 — 11:15 AM AEST",
-  "pdf": "reports/daily-lemon-2026-11-22.pdf",
+  "date": "2026-11-23",
+  "timestamp": "Monday 23 November 2026 — 11:40 AM AEST",
+  "pdf": "reports/daily-lemon-2026-11-23.pdf",
   "stats": {
-    "leads": 11,
+    "leads": 10,
     "priority": 0,
     "trade": 0,
     "urgent": 0
   },
   "leads": [
+    {
+      "source": "Data Centre Dynamics",
+      "title": "Why the next phase of the data center buildout runs on light",
+      "agency": "Data Centre Dynamics",
+      "close_date": "",
+      "urgency": "",
+      "url": "https://www.datacenterdynamics.com/en/opinions/why-the-next-phase-of-the-data-center-buildout-runs-on-light/",
+      "state": "AU",
+      "region": "General",
+      "trade_match": false,
+      "priority": null,
+      "summary": "Copper is running out of reach",
+      "value": "",
+      "status": "ACTIVE"
+    },
     {
       "source": "Data Centre Dynamics",
       "title": "Sponsored: The hidden efficiency gap in data center containment",
@@ -131,36 +146,6 @@
     },
     {
       "source": "Data Centre Dynamics",
-      "title": "AMD set to lease planned 5C data center in Pennsylvania",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/amd-set-to-lease-planned-5c-data-center-in-pennsylvania/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "5C looking to buy site in Mount Carmel from FIT Energy",
-      "value": "",
-      "status": "ANNOUNCED"
-    },
-    {
-      "source": "Data Centre Dynamics",
-      "title": "Egypt’s Forbes International Tower to house a data center",
-      "agency": "Data Centre Dynamics",
-      "close_date": "",
-      "urgency": "",
-      "url": "https://www.datacenterdynamics.com/en/news/egypts-forbes-international-tower-to-house-a-data-center/",
-      "state": "AU",
-      "region": "General",
-      "trade_match": false,
-      "priority": null,
-      "summary": "US government contractor Aedan Looking Glass ALG will lead technology and infrastructure delivery",
-      "value": "",
-      "status": "ACTIVE"
-    },
-    {
-      "source": "Data Centre Dynamics",
       "title": "SpaceX expresses interest in building data centers in Bulgaria",
       "agency": "Data Centre Dynamics",
       "close_date": "",
@@ -179,14 +164,29 @@
     "ICN Gateway — Register free (15 min): gateway.icn.org.au — List: CNC joinery, bulkheads, access floors, NOC fitout, ceilings, partitions"
   ],
   "market_intel": [
+    "Why the next phase of the data center buildout runs on light | ACTIVE — Data Centre Dynamics",
     "Sponsored: The hidden efficiency gap in data center containment | ACTIVE — Data Centre Dynamics",
     "Securing the turbine is only half the battle: the emissions monitoring path to d | ACTIVE — Data Centre Dynamics",
     "UK competition body probes hyperscaler security and cloud lock-in | ACTIVE — Data Centre Dynamics",
-    "Microsoft files for 316.7-acre data center campus in Mecklenburg County, Virgini | ACTIVE — Data Centre Dynamics",
-    "CyrusOne and KEP top out 48MW data center in Osaka, Japan | ACTIVE — Data Centre Dynamics"
+    "Microsoft files for 316.7-acre data center campus in Mecklenburg County, Virgini | ACTIVE — Data Centre Dynamics"
   ],
   "by_state": {
     "AU": [
+      {
+        "source": "Data Centre Dynamics",
+        "title": "Why the next phase of the data center buildout runs on light",
+        "agency": "Data Centre Dynamics",
+        "close_date": "",
+        "urgency": "",
+        "url": "https://www.datacenterdynamics.com/en/opinions/why-the-next-phase-of-the-data-center-buildout-runs-on-light/",
+        "state": "AU",
+        "region": "General",
+        "trade_match": false,
+        "priority": null,
+        "summary": "Copper is running out of reach",
+        "value": "",
+        "status": "ACTIVE"
+      },
       {
         "source": "Data Centre Dynamics",
         "title": "Sponsored: The hidden efficiency gap in data center containment",
@@ -306,36 +306,6 @@
         "summary": "How early design and development decisions shape data center approval and delivery",
         "value": "",
         "status": "ACTIVE"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "AMD set to lease planned 5C data center in Pennsylvania",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/amd-set-to-lease-planned-5c-data-center-in-pennsylvania/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "5C looking to buy site in Mount Carmel from FIT Energy",
-        "value": "",
-        "status": "ANNOUNCED"
-      },
-      {
-        "source": "Data Centre Dynamics",
-        "title": "Egypt’s Forbes International Tower to house a data center",
-        "agency": "Data Centre Dynamics",
-        "close_date": "",
-        "urgency": "",
-        "url": "https://www.datacenterdynamics.com/en/news/egypts-forbes-international-tower-to-house-a-data-center/",
-        "state": "AU",
-        "region": "General",
-        "trade_match": false,
-        "priority": null,
-        "summary": "US government contractor Aedan Looking Glass ALG will lead technology and infrastructure delivery",
-        "value": "",
-        "status": "ACTIVE"
       }
     ],
     "SA": [
@@ -360,6 +330,10 @@
     {
       "date": "TEST",
       "file": "reports/daily-lemon-TEST.pdf"
+    },
+    {
+      "date": "2026-11-23",
+      "file": "reports/daily-lemon-2026-11-23.pdf"
     },
     {
       "date": "2026-11-22",
@@ -472,10 +446,6 @@
     {
       "date": "2026-10-26",
       "file": "reports/daily-lemon-2026-10-26.pdf"
-    },
-    {
-      "date": "2026-10-25",
-      "file": "reports/daily-lemon-2026-10-25.pdf"
     }
   ]
 }
